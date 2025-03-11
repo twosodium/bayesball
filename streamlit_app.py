@@ -98,7 +98,7 @@ def sample_particle():
     win1 = p_team1_win(bernoulli(morale1), bernoulli(aggression1), bernoulli(morale2), bernoulli(aggression2), home_away, time, team1_predicted_goals, team2_predicted_goals)
     return team1_predicted_goals, team2_predicted_goals, win1
 
-N_SAMPLES = 1000
+N_SAMPLES = 500
 def rejection_sampling():
     samples = [sample_particle() for _ in range(N_SAMPLES)]
     filtered_samples = [s for s in samples if s[0] == team1_goals and s[1] == team2_goals]
