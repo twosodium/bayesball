@@ -8,6 +8,7 @@ import pandas as pd
 
 # ====== DATA PROCESSING AND PAGE SETUP ======
 
+
 events = pd.read_csv("data/events_subset.csv")
 ginf = pd.read_csv("data/ginf.csv")
 
@@ -15,6 +16,16 @@ st.set_page_config(layout="wide")
 st.markdown(
     '''
     <style>
+    @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+    /* Apply monospace font to the entire app */
+    html, body, div, title, h1, h2, h3, h4, h5, h6, p, span, label, input, textarea, button, select {
+        font-family: 'Courier New', Courier, monospace;
+    }
+[data-testid="stSidebar"] {
+        background-color: black;
+        color: white;
+    }
     body {
         background-color: black;
         color: white;
@@ -28,21 +39,25 @@ st.markdown(
 )
 
 
+st.title("BAYESIAN REJECTION SAMPLING FOR FOOTBALL OUTCOMES")
+sample_slider = st.slider("Number of samples (beware slow runtime, default 300):", min_value=10, max_value=5000, value=300)
+
+
 # ====== USER INPUTS INFORMATION ABOUT THE CURRENT GAME ======
 
 st.sidebar.title("Current game time")
 time = st.sidebar.slider("(minutes)", min_value=0, max_value=95, value=0, step=1)
 
 st.sidebar.title("Parameters")
-home_away = st.sidebar.number_input("Home (0) or Away (1)", min_value=0, max_value=1, value=0, step=1)
-team1_substitutions = st.sidebar.number_input("Team 1 Substitutions", min_value=0, step=1)
-team2_substitutions = st.sidebar.number_input("Team 2 Substitutions", min_value=0, step=1)
-team1_yellow_cards = st.sidebar.number_input("Team 1 Yellow Cards", min_value=0, step=1)
-team2_yellow_cards = st.sidebar.number_input("Team 2 Yellow Cards", min_value=0, step=1)
-team1_total_shots = st.sidebar.number_input("Team 1 Total Shots", min_value=0, step=1)
-team2_total_shots = st.sidebar.number_input("Team 2 Total Shots", min_value=0, step=1)
-team1_goals = st.sidebar.number_input("Team 1 Current Goals", min_value=0, step=1)
-team2_goals = st.sidebar.number_input("Team 2 Current Goals", min_value=0, step=1)
+home_away = st.sidebar.number_input("Team 1 home (0) or away (1)", min_value=0, max_value=1, value=0, step=1)
+team1_substitutions = st.sidebar.number_input("Team 1 substitutions", min_value=0, step=1)
+team2_substitutions = st.sidebar.number_input("Team 2 substitutions", min_value=0, step=1)
+team1_yellow_cards = st.sidebar.number_input("Team 1 yellow cards", min_value=0, step=1)
+team2_yellow_cards = st.sidebar.number_input("Team 2 yellow cards", min_value=0, step=1)
+team1_total_shots = st.sidebar.number_input("Team 1 total shots", min_value=0, step=1)
+team2_total_shots = st.sidebar.number_input("Team 2 total shots", min_value=0, step=1)
+team1_goals = st.sidebar.number_input("Team 1 current goals", min_value=0, step=1)
+team2_goals = st.sidebar.number_input("Team 2 current goals", min_value=0, step=1)
 
 
 # ====== BAYESIAN ANALYSIS ====== #
@@ -98,9 +113,8 @@ def sample_particle():
     win1 = p_team1_win(bernoulli(morale1), bernoulli(aggression1), bernoulli(morale2), bernoulli(aggression2), home_away, time, team1_predicted_goals, team2_predicted_goals)
     return team1_predicted_goals, team2_predicted_goals, win1
 
-N_SAMPLES = 500
 def rejection_sampling():
-    samples = [sample_particle() for _ in range(N_SAMPLES)]
+    samples = [sample_particle() for _ in range(sample_slider)]
     filtered_samples = [s for s in samples if s[0] == team1_goals and s[1] == team2_goals]
     if len(filtered_samples) == 0:
         return 0  
@@ -116,22 +130,22 @@ edges = [
     ("Home/Away", "Team 1 Morale"),
     ("Home/Away", "Team 2 Morale"),
     ("Home/Away", "Team 1 Win"),
-    ("Team 1 Current Goals", "Team 1 Win"),
-    ("Team 2 Current Goals", "Team 1 Win"),
-    ("Team 1 Total Shots", "Team 1 Aggression"),
-    ("Team 2 Total Shots", "Team 2 Aggression"),
-    ("Team 1 Yellow Cards", "Team 1 Aggression"),
-    ("Team 2 Yellow Cards", "Team 2 Aggression"),
-    ("Team 1 Substitutions", "Team 1 Morale"),
-    ("Team 2 Substitutions", "Team 2 Morale"),
+    ("Team 1 current goals", "Team 1 Win"),
+    ("Team 2 current goals", "Team 1 Win"),
+    ("Team 1 total shots", "Team 1 Aggression"),
+    ("Team 2 total shots", "Team 2 Aggression"),
+    ("Team 1 yellow cards", "Team 1 Aggression"),
+    ("Team 2 yellow cards", "Team 2 Aggression"),
+    ("Team 1 substitutions", "Team 1 Morale"),
+    ("Team 2 substitutions", "Team 2 Morale"),
     ("Team 1 Aggression", "Team 1 Win"),
     ("Team 2 Aggression", "Team 1 Win"),
     ("Team 1 Morale", "Team 1 Win"),
     ("Team 2 Morale", "Team 1 Win"),
-    ("Team 1 Aggression", "Team 1 Current Goals"),  
-    ("Team 1 Morale", "Team 1 Current Goals"),     
-    ("Team 2 Aggression", "Team 2 Current Goals"),  
-    ("Team 2 Morale", "Team 2 Current Goals")      
+    ("Team 1 Aggression", "Team 1 current goals"),  
+    ("Team 1 Morale", "Team 1 current goals"),     
+    ("Team 2 Aggression", "Team 2 current goals"),  
+    ("Team 2 Morale", "Team 2 current goals")      
 ]
 
 G = nx.DiGraph()
@@ -184,7 +198,6 @@ for edge in edges:
 
 net.save_graph("bayesian_network.html")
 
-st.title("Bayesian Rejection Sampling for Football Outcomes")
 
 with open("bayesian_network.html", "r", encoding="utf-8") as f:
     html_string = f.read()
