@@ -1,0 +1,1001 @@
+id_odsp,id_event,sort_order,time,text,event_type,event_type2,side,event_team,opponent,player,player2,player_in,player_out,shot_place,shot_outcome,is_goal,location,bodypart,assist_method,situation,fast_break
+UFot0hit/,UFot0hit1,1,2,Attempt missed. Mladen Petric (Hamburg) left footed shot from the left side of the box is high and wide to the left. Assisted by Gokhan Tore.,1,12.0,2,Hamburg SV,Borussia Dortmund,mladen petric,gokhan tore,,,6.0,2.0,0,9.0,2.0,1,1.0,0
+UFot0hit/,UFot0hit2,2,4,"Corner,  Borussia Dortmund. Conceded by Dennis Diekmeier.",2,,1,Borussia Dortmund,Hamburg SV,dennis diekmeier,dennis diekmeier,,,,,0,,,0,,0
+UFot0hit/,UFot0hit3,3,4,"Corner,  Borussia Dortmund. Conceded by Heiko Westermann.",2,,1,Borussia Dortmund,Hamburg SV,heiko westermann,heiko westermann,,,,,0,,,0,,0
+UFot0hit/,UFot0hit4,4,7,Foul by Sven Bender (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,sven bender,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit5,5,7,Gokhan Tore (Hamburg) wins a free kick in the defensive half.,8,,2,Hamburg SV,Borussia Dortmund,gokhan tore,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit6,6,9,Hand ball by Jose Paolo Guerrero (Hamburg).,10,,2,Hamburg SV,Borussia Dortmund,jose paolo guerrero,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit7,7,10,"Corner,  Hamburg. Conceded by Lukasz Piszczek.",2,,2,Hamburg SV,Borussia Dortmund,lukasz piszczek,lukasz piszczek,,,,,0,,,0,,0
+UFot0hit/,UFot0hit8,8,11,Chris Lowe (Borussia Dortmund) wins a free kick in the defensive half.,8,,1,Borussia Dortmund,Hamburg SV,chris lowe,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit9,9,11,Foul by Gojko Kacar (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,gojko kacar,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit10,10,13,Foul by Gokhan Tore (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,gokhan tore,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit11,11,14,Sven Bender (Borussia Dortmund) wins a free kick on the left wing.,8,,1,Borussia Dortmund,Hamburg SV,sven bender,,,,,,0,4.0,,0,,0
+UFot0hit/,UFot0hit12,12,14,"Attempt missed. Shinji Kagawa (Borussia Dortmund) right footed shot from outside the box is close, but misses the top right corner. Assisted by Mario Gotze.",1,12.0,1,Borussia Dortmund,Hamburg SV,shinji kagawa,mario gotze,,,13.0,2.0,0,15.0,1.0,1,1.0,0
+UFot0hit/,UFot0hit13,13,14,Foul by Gojko Kacar (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,gojko kacar,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit14,14,17,"Goal!  Borussia Dortmund 1, Hamburg 0. Kevin Grosskreutz (Borussia Dortmund) left footed shot from the left side of the box to the bottom right corner. Assisted by Mario Gotze.",1,12.0,1,Borussia Dortmund,Hamburg SV,kevin grosskreutz,mario gotze,,,4.0,1.0,1,9.0,2.0,1,1.0,0
+UFot0hit/,UFot0hit15,15,19,Attempt blocked. Mats Hummels (Borussia Dortmund) right footed shot from outside the box is blocked.,1,,1,Borussia Dortmund,Hamburg SV,mats hummels,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+UFot0hit/,UFot0hit16,16,20,Foul by Sven Bender (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,sven bender,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit17,17,20,Mladen Petric (Hamburg) wins a free kick in the attacking half.,8,,2,Hamburg SV,Borussia Dortmund,mladen petric,,,,,,0,1.0,,0,,0
+UFot0hit/,UFot0hit18,18,20,Attempt blocked. Tomas Rincon (Hamburg) right footed shot from outside the box is blocked.,1,,2,Hamburg SV,Borussia Dortmund,tomas rincon,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+UFot0hit/,UFot0hit19,19,25,Shinji Kagawa (Borussia Dortmund) hits the right post with a right footed shot from the centre of the box. Assisted by Lukasz Piszczek.,1,12.0,1,Borussia Dortmund,Hamburg SV,shinji kagawa,lukasz piszczek,,,7.0,4.0,0,3.0,1.0,1,1.0,0
+UFot0hit/,UFot0hit20,20,25,"Corner,  Borussia Dortmund. Conceded by Dennis Diekmeier.",2,,1,Borussia Dortmund,Hamburg SV,dennis diekmeier,dennis diekmeier,,,,,0,,,0,,0
+UFot0hit/,UFot0hit21,21,25,Attempt blocked. Ilkay Gundogan (Borussia Dortmund) left footed shot from outside the box is blocked.,1,,1,Borussia Dortmund,Hamburg SV,ilkay gundogan,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+UFot0hit/,UFot0hit22,22,25,"Corner,  Borussia Dortmund. Conceded by Heiko Westermann.",2,,1,Borussia Dortmund,Hamburg SV,heiko westermann,heiko westermann,,,,,0,,,0,,0
+UFot0hit/,UFot0hit23,23,26,Attempt saved. Mats Hummels (Borussia Dortmund) header from the centre of the box is saved in the centre of the goal. Assisted by Chris Lowe with a cross.,1,12.0,1,Borussia Dortmund,Hamburg SV,mats hummels,chris lowe,,,5.0,1.0,0,3.0,3.0,2,1.0,0
+UFot0hit/,UFot0hit24,24,27,Lukasz Piszczek (Borussia Dortmund) wins a free kick in the defensive half.,8,,1,Borussia Dortmund,Hamburg SV,lukasz piszczek,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit25,25,27,Foul by Gokhan Tore (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,gokhan tore,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit26,26,28,Attempt missed. Shinji Kagawa (Borussia Dortmund) right footed shot from the left side of the box misses to the right. Assisted by Kevin Grosskreutz.,1,12.0,1,Borussia Dortmund,Hamburg SV,shinji kagawa,kevin grosskreutz,,,9.0,2.0,0,9.0,1.0,1,1.0,0
+UFot0hit/,UFot0hit27,27,29,"Goal!  Borussia Dortmund 2, Hamburg 0. Mario Gotze (Borussia Dortmund) right footed shot from the centre of the box to the centre of the goal. Assisted by Robert Lewandowski.",1,12.0,1,Borussia Dortmund,Hamburg SV,mario gotze,robert lewandowski,,,5.0,1.0,1,3.0,1.0,1,1.0,0
+UFot0hit/,UFot0hit28,28,31,Foul by Kevin Grosskreutz (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,kevin grosskreutz,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit29,29,31,Gokhan Tore (Hamburg) wins a free kick on the right wing.,8,,2,Hamburg SV,Borussia Dortmund,gokhan tore,,,,,,0,5.0,,0,,0
+UFot0hit/,UFot0hit30,30,32,Roman Weidenfeller (Borussia Dortmund) wins a free kick in the defensive half.,8,,1,Borussia Dortmund,Hamburg SV,roman weidenfeller,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit31,31,32,"Corner,  Hamburg. Conceded by Ilkay Gundogan.",2,,2,Hamburg SV,Borussia Dortmund,ilkay gundogan,ilkay gundogan,,,,,0,,,0,,0
+UFot0hit/,UFot0hit32,32,32,Foul by Gojko Kacar (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,gojko kacar,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit33,33,33,Foul by Robert Lewandowski (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,robert lewandowski,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit34,34,33,Tomas Rincon (Hamburg) wins a free kick in the defensive half.,8,,2,Hamburg SV,Borussia Dortmund,tomas rincon,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit35,35,36,Attempt missed. Mario Gotze (Borussia Dortmund) right footed shot from the right side of the box is too high.,1,,1,Borussia Dortmund,Hamburg SV,mario gotze,,,,10.0,2.0,0,11.0,1.0,0,1.0,0
+UFot0hit/,UFot0hit36,36,36,Foul by Felipe Santana (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,felipe santana,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit37,37,36,Jose Paolo Guerrero (Hamburg) wins a free kick in the attacking half.,8,,2,Hamburg SV,Borussia Dortmund,jose paolo guerrero,,,,,,0,1.0,,0,,0
+UFot0hit/,UFot0hit38,38,38,Attempt missed. Gokhan Tore (Hamburg) left footed shot from outside the box is too high.,1,,2,Hamburg SV,Borussia Dortmund,gokhan tore,,,,10.0,2.0,0,15.0,2.0,0,1.0,0
+UFot0hit/,UFot0hit39,39,39,Attempt missed. Robert Lewandowski (Borussia Dortmund) header from the left side of the box misses to the right. Assisted by Lukasz Piszczek with a cross.,1,12.0,1,Borussia Dortmund,Hamburg SV,robert lewandowski,lukasz piszczek,,,9.0,2.0,0,9.0,3.0,2,1.0,0
+UFot0hit/,UFot0hit40,40,42,Ilkay Gundogan (Borussia Dortmund) wins a free kick in the attacking half.,8,,1,Borussia Dortmund,Hamburg SV,ilkay gundogan,,,,,,0,1.0,,0,,0
+UFot0hit/,UFot0hit41,41,42,Foul by Gojko Kacar (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,gojko kacar,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit42,42,42,"Substitution, Hamburg. Anis Ben-Hatira replaces Jose Paolo Guerrero because of an injury.",7,,2,Hamburg SV,Borussia Dortmund,,,anis benhatira,jose paolo guerrero,,,0,,,0,,0
+UFot0hit/,UFot0hit43,43,43,"Offside, Borussia Dortmund. Mats Hummels tries a through ball, but Shinji Kagawa is caught offside.",9,13.0,1,Borussia Dortmund,Hamburg SV,shinji kagawa,mats hummels,,,,,0,,,0,,0
+UFot0hit/,UFot0hit44,44,45,Attempt missed. Ilkay Gundogan (Borussia Dortmund) right footed shot from the right side of the box misses to the left. Assisted by Mario Gotze following a fast break.,1,12.0,1,Borussia Dortmund,Hamburg SV,ilkay gundogan,mario gotze,,,8.0,2.0,0,11.0,1.0,1,1.0,1
+UFot0hit/,UFot0hit45,45,45,Michael Mancienne (Hamburg) is shown the yellow card.,4,,2,Hamburg SV,Borussia Dortmund,michael mancienne,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit46,46,47,Shinji Kagawa (Borussia Dortmund) wins a free kick in the attacking half.,8,,1,Borussia Dortmund,Hamburg SV,shinji kagawa,,,,,,0,1.0,,0,,0
+UFot0hit/,UFot0hit47,47,47,"Substitution, Hamburg. Marcell Jansen replaces Eljero Elia.",7,,2,Hamburg SV,Borussia Dortmund,,,marcell jansen,eljero elia,,,0,,,0,,0
+UFot0hit/,UFot0hit48,48,47,Foul by Marcell Jansen (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,marcell jansen,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit49,49,48,"Corner,  Borussia Dortmund. Conceded by Tomas Rincon.",2,,1,Borussia Dortmund,Hamburg SV,tomas rincon,tomas rincon,,,,,0,,,0,,0
+UFot0hit/,UFot0hit50,50,48,Attempt saved. Kevin Grosskreutz (Borussia Dortmund) right footed shot from the centre of the box is saved in the top centre of the goal. Assisted by Mario Gotze.,1,12.0,1,Borussia Dortmund,Hamburg SV,kevin grosskreutz,mario gotze,,,11.0,1.0,0,3.0,1.0,1,1.0,0
+UFot0hit/,UFot0hit51,51,49,"Goal!  Borussia Dortmund 3, Hamburg 0. Kevin Grosskreutz (Borussia Dortmund) right footed shot from very close range to the bottom right corner following a corner.",1,,1,Borussia Dortmund,Hamburg SV,kevin grosskreutz,,,,4.0,1.0,1,13.0,1.0,0,3.0,0
+UFot0hit/,UFot0hit52,52,49,Foul by Chris Lowe (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,chris lowe,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit53,53,50,Tomas Rincon (Hamburg) wins a free kick in the defensive half.,8,,2,Hamburg SV,Borussia Dortmund,tomas rincon,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit54,54,50,Foul by Tomas Rincon (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,tomas rincon,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit55,55,53,Shinji Kagawa (Borussia Dortmund) wins a free kick on the left wing.,8,,1,Borussia Dortmund,Hamburg SV,shinji kagawa,,,,,,0,4.0,,0,,0
+UFot0hit/,UFot0hit56,56,53,Foul by Marcell Jansen (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,marcell jansen,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit57,57,54,Roman Weidenfeller (Borussia Dortmund) wins a free kick in the defensive half.,8,,1,Borussia Dortmund,Hamburg SV,roman weidenfeller,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit58,58,54,"Corner,  Borussia Dortmund. Conceded by Heiko Westermann.",2,,1,Borussia Dortmund,Hamburg SV,heiko westermann,heiko westermann,,,,,0,,,0,,0
+UFot0hit/,UFot0hit59,59,54,Attempt blocked. Shinji Kagawa (Borussia Dortmund) right footed shot from outside the box is blocked. Assisted by Kevin Grosskreutz with a headed pass.,1,12.0,1,Borussia Dortmund,Hamburg SV,shinji kagawa,kevin grosskreutz,,,2.0,3.0,0,15.0,1.0,3,1.0,0
+UFot0hit/,UFot0hit60,60,55,"Corner,  Borussia Dortmund. Conceded by Marcell Jansen.",2,,1,Borussia Dortmund,Hamburg SV,marcell jansen,marcell jansen,,,,,0,,,0,,0
+UFot0hit/,UFot0hit61,61,55,Dennis Diekmeier (Hamburg) wins a free kick in the defensive half.,8,,2,Hamburg SV,Borussia Dortmund,dennis diekmeier,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit62,62,56,Foul by Sven Bender (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,sven bender,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit63,63,57,Shinji Kagawa (Borussia Dortmund) wins a free kick in the defensive half.,8,,1,Borussia Dortmund,Hamburg SV,shinji kagawa,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit64,64,57,"Corner,  Hamburg. Conceded by Felipe Santana.",2,,2,Hamburg SV,Borussia Dortmund,felipe santana,felipe santana,,,,,0,,,0,,0
+UFot0hit/,UFot0hit65,65,59,Foul by Shinji Kagawa (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,shinji kagawa,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit66,66,59,Foul by Dennis Diekmeier (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,dennis diekmeier,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit67,67,60,Mario Gotze (Borussia Dortmund) wins a free kick in the attacking half.,8,,1,Borussia Dortmund,Hamburg SV,mario gotze,,,,,,0,1.0,,0,,0
+UFot0hit/,UFot0hit68,68,60,Anis Ben-Hatira (Hamburg) wins a free kick in the defensive half.,8,,2,Hamburg SV,Borussia Dortmund,anis benhatira,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit69,69,62,Foul by Tomas Rincon (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,tomas rincon,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit70,70,62,Attempt blocked. Marcell Jansen (Hamburg) left footed shot from long range on the left is blocked.,1,,2,Hamburg SV,Borussia Dortmund,marcell jansen,,,,2.0,3.0,0,16.0,2.0,0,1.0,0
+UFot0hit/,UFot0hit71,71,63,"Corner,  Hamburg. Conceded by Lukasz Piszczek.",2,,2,Hamburg SV,Borussia Dortmund,lukasz piszczek,lukasz piszczek,,,,,0,,,0,,0
+UFot0hit/,UFot0hit72,72,64,Attempt blocked. Michael Mancienne (Hamburg) right footed shot from the centre of the box is blocked. Assisted by Gokhan Tore with a cross.,1,12.0,2,Hamburg SV,Borussia Dortmund,michael mancienne,gokhan tore,,,2.0,3.0,0,3.0,1.0,2,1.0,0
+UFot0hit/,UFot0hit73,73,66,Mario Gotze (Borussia Dortmund) wins a free kick in the attacking half.,8,,1,Borussia Dortmund,Hamburg SV,mario gotze,,,,,,0,1.0,,0,,0
+UFot0hit/,UFot0hit74,74,66,"Offside, Hamburg. Tomas Rincon tries a through ball, but Gokhan Tore is caught offside.",9,13.0,2,Hamburg SV,Borussia Dortmund,gokhan tore,tomas rincon,,,,,0,,,0,,0
+UFot0hit/,UFot0hit75,75,66,Foul by Gojko Kacar (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,gojko kacar,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit76,76,68,Ilkay Gundogan (Borussia Dortmund) wins a free kick in the attacking half.,8,,1,Borussia Dortmund,Hamburg SV,ilkay gundogan,,,,,,0,1.0,,0,,0
+UFot0hit/,UFot0hit77,77,68,Gojko Kacar (Hamburg) is shown the yellow card for a bad foul.,4,,2,Hamburg SV,Borussia Dortmund,gojko kacar,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit78,78,68,Foul by Tomas Rincon (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,tomas rincon,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit79,79,69,Foul by Ilkay Gundogan (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,ilkay gundogan,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit80,80,69,Tomas Rincon (Hamburg) is shown the yellow card for a bad foul.,4,,2,Hamburg SV,Borussia Dortmund,tomas rincon,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit81,81,70,Mladen Petric (Hamburg) wins a free kick in the defensive half.,8,,2,Hamburg SV,Borussia Dortmund,mladen petric,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit82,82,73,Foul by Kevin Grosskreutz (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,kevin grosskreutz,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit83,83,73,"Offside, Hamburg. Heiko Westermann tries a through ball, but Anis Ben-Hatira is caught offside.",9,13.0,2,Hamburg SV,Borussia Dortmund,anis benhatira,heiko westermann,,,,,0,,,0,,0
+UFot0hit/,UFot0hit84,84,73,"Substitution, Hamburg. Robert Tesche replaces Gojko Kacar.",7,,2,Hamburg SV,Borussia Dortmund,,,robert tesche,gojko kacar,,,0,,,0,,0
+UFot0hit/,UFot0hit85,85,74,Gokhan Tore (Hamburg) wins a free kick in the defensive half.,8,,2,Hamburg SV,Borussia Dortmund,gokhan tore,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit86,86,74,"Corner,  Hamburg. Conceded by Chris Lowe.",2,,2,Hamburg SV,Borussia Dortmund,chris lowe,chris lowe,,,,,0,,,0,,0
+UFot0hit/,UFot0hit87,87,74,Foul by Robert Tesche (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,robert tesche,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit88,88,76,Robert Lewandowski (Borussia Dortmund) wins a free kick in the defensive half.,8,,1,Borussia Dortmund,Hamburg SV,robert lewandowski,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit89,89,76,"Substitution, Borussia Dortmund. Ivan Perisic replaces Chris Lowe.",7,,1,Borussia Dortmund,Hamburg SV,,,ivan perisic,chris lowe,,,0,,,0,,0
+UFot0hit/,UFot0hit90,90,78,"Substitution, Borussia Dortmund. Jakub Blaszczykowski replaces Mario Gotze.",7,,1,Borussia Dortmund,Hamburg SV,,,jakub blaszczykowski,mario gotze,,,0,,,0,,0
+UFot0hit/,UFot0hit91,91,79,"Corner,  Hamburg. Conceded by Lukasz Piszczek.",2,,2,Hamburg SV,Borussia Dortmund,lukasz piszczek,lukasz piszczek,,,,,0,,,0,,0
+UFot0hit/,UFot0hit92,92,79,Attempt blocked. Marcell Jansen (Hamburg) header from the centre of the box is blocked. Assisted by Anis Ben-Hatira with a cross.,1,12.0,2,Hamburg SV,Borussia Dortmund,marcell jansen,anis benhatira,,,2.0,3.0,0,3.0,3.0,2,1.0,0
+UFot0hit/,UFot0hit93,93,80,"Goal!  Borussia Dortmund 3, Hamburg 1. Robert Tesche (Hamburg) left footed shot from the centre of the box to the bottom left corner following a corner.",1,,2,Hamburg SV,Borussia Dortmund,robert tesche,,,,3.0,1.0,1,3.0,2.0,0,3.0,0
+UFot0hit/,UFot0hit94,94,80,Attempt saved. Marcell Jansen (Hamburg) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Gokhan Tore.,1,12.0,2,Hamburg SV,Borussia Dortmund,marcell jansen,gokhan tore,,,5.0,1.0,0,9.0,2.0,1,1.0,0
+UFot0hit/,UFot0hit95,95,80,Foul by Heiko Westermann (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,heiko westermann,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit96,96,81,Robert Lewandowski (Borussia Dortmund) wins a free kick in the attacking half.,8,,1,Borussia Dortmund,Hamburg SV,robert lewandowski,,,,,,0,1.0,,0,,0
+UFot0hit/,UFot0hit97,97,82,"Attempt missed. Ivan Perisic (Borussia Dortmund) right footed shot from outside the box is close, but misses to the right from a direct free kick.",1,,1,Borussia Dortmund,Hamburg SV,ivan perisic,,,,9.0,2.0,0,15.0,1.0,0,4.0,0
+UFot0hit/,UFot0hit98,98,82,Foul by Marcell Jansen (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,marcell jansen,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit99,99,84,Lukasz Piszczek (Borussia Dortmund) wins a free kick in the defensive half.,8,,1,Borussia Dortmund,Hamburg SV,lukasz piszczek,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit100,100,84,Foul by Robert Lewandowski (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,robert lewandowski,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit101,101,84,Dennis Diekmeier (Hamburg) wins a free kick in the defensive half.,8,,2,Hamburg SV,Borussia Dortmund,dennis diekmeier,,,,,,0,2.0,,0,,0
+UFot0hit/,UFot0hit102,102,85,Robert Lewandowski (Borussia Dortmund) is shown the yellow card for a bad foul.,4,,1,Borussia Dortmund,Hamburg SV,robert lewandowski,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit103,103,86,"Offside, Hamburg. Marcell Jansen tries a through ball, but Dennis Aogo is caught offside.",9,13.0,2,Hamburg SV,Borussia Dortmund,dennis aogo,marcell jansen,,,,,0,,,0,,0
+UFot0hit/,UFot0hit104,104,87,Attempt missed. Kevin Grosskreutz (Borussia Dortmund) right footed shot from more than 35 yards is too high.,1,,1,Borussia Dortmund,Hamburg SV,kevin grosskreutz,,,,10.0,2.0,0,17.0,1.0,0,1.0,0
+UFot0hit/,UFot0hit105,105,87,Foul by Felipe Santana (Borussia Dortmund).,3,,1,Borussia Dortmund,Hamburg SV,felipe santana,,,,,,0,,,0,,0
+UFot0hit/,UFot0hit106,106,89,Mladen Petric (Hamburg) wins a free kick on the left wing.,8,,2,Hamburg SV,Borussia Dortmund,mladen petric,,,,,,0,4.0,,0,,0
+UFot0hit/,UFot0hit107,107,90,Ilkay Gundogan (Borussia Dortmund) wins a free kick in the attacking half.,8,,1,Borussia Dortmund,Hamburg SV,ilkay gundogan,,,,,,0,1.0,,0,,0
+UFot0hit/,UFot0hit108,108,90,"Substitution, Borussia Dortmund. Sebastian Kehl replaces Shinji Kagawa.",7,,1,Borussia Dortmund,Hamburg SV,,,sebastian kehl,shinji kagawa,,,0,,,0,,0
+UFot0hit/,UFot0hit109,109,90,"Corner,  Hamburg. Conceded by Sven Bender.",2,,2,Hamburg SV,Borussia Dortmund,sven bender,sven bender,,,,,0,,,0,,0
+UFot0hit/,UFot0hit110,110,90,Foul by Robert Tesche (Hamburg).,3,,2,Hamburg SV,Borussia Dortmund,robert tesche,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH1,1,1,Sascha Molders (FC Augsburg) wins a free kick in the attacking half.,8,,1,FC Augsburg,SC Freiburg,sascha molders,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH2,2,1,Foul by Heiko Butscher (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,heiko butscher,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH3,3,2,Attempt saved. Jonas De Roeck (FC Augsburg) header from the centre of the box is saved in the bottom left corner. Assisted by Daniel Baier.,1,12.0,1,FC Augsburg,SC Freiburg,jonas de roeck,daniel baier,,,3.0,1.0,0,3.0,3.0,1,1.0,0
+Aw5DflLH/,Aw5DflLH4,4,3,Sascha Molders (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,sascha molders,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH5,5,3,Foul by Mensur Mujdza (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,mensur mujdza,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH6,6,4,Foul by Lorenzo Davids (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,lorenzo davids,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH7,7,4,Yacine Abdessadki (SC Freiburg) wins a free kick in the attacking half.,8,,2,SC Freiburg,FC Augsburg,yacine abdessadki,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH8,8,5,Foul by Marcel de Jong (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,marcel de jong,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH9,9,5,Marcel de Jong (FC Augsburg) is shown the yellow card for a bad foul.,4,,1,FC Augsburg,SC Freiburg,marcel de jong,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH10,10,5,Mensur Mujdza (SC Freiburg) wins a free kick on the right wing.,8,,2,SC Freiburg,FC Augsburg,mensur mujdza,,,,,,0,5.0,,0,,0
+Aw5DflLH/,Aw5DflLH11,11,6,Tobias Werner (FC Augsburg) wins a free kick in the attacking half.,8,,1,FC Augsburg,SC Freiburg,tobias werner,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH12,12,6,Foul by Julian Schuster (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,julian schuster,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH13,13,7,Foul by Tobias Werner (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,tobias werner,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH14,14,7,Cedric Makiadi (SC Freiburg) wins a free kick in the defensive half.,8,,2,SC Freiburg,FC Augsburg,cedric makiadi,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH15,15,9,Oliver Barth (SC Freiburg) wins a free kick in the defensive half.,8,,2,SC Freiburg,FC Augsburg,oliver barth,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH16,16,10,Tobias Werner (FC Augsburg) is shown the yellow card for a bad foul.,4,,1,FC Augsburg,SC Freiburg,tobias werner,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH17,17,10,Uwe Mohrle (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,uwe mohrle,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH18,18,10,Foul by Heiko Butscher (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,heiko butscher,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH19,19,11,Sascha Molders (FC Augsburg) wins a free kick in the attacking half.,8,,1,FC Augsburg,SC Freiburg,sascha molders,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH20,20,11,Foul by Lorenzo Davids (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,lorenzo davids,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH21,21,11,Foul by Heiko Butscher (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,heiko butscher,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH22,22,11,Cedric Makiadi (SC Freiburg) wins a free kick in the attacking half.,8,,2,SC Freiburg,FC Augsburg,cedric makiadi,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH23,23,12,Attempt missed. Daniel Caligiuri (SC Freiburg) right footed shot from the right side of the box misses to the left. Assisted by Mensur Mujdza.,1,12.0,2,SC Freiburg,FC Augsburg,daniel caligiuri,mensur mujdza,,,8.0,2.0,0,11.0,1.0,1,1.0,0
+Aw5DflLH/,Aw5DflLH24,24,12,"Corner,  SC Freiburg. Conceded by Uwe Mohrle.",2,,2,SC Freiburg,FC Augsburg,uwe mohrle,uwe mohrle,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH25,25,13,Daniel Baier (FC Augsburg) wins a free kick on the left wing.,8,,1,FC Augsburg,SC Freiburg,daniel baier,,,,,,0,4.0,,0,,0
+Aw5DflLH/,Aw5DflLH26,26,13,Foul by Oliver Barth (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,oliver barth,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH27,27,14,Attempt missed. Marcel de Jong (FC Augsburg) left footed shot from outside the box is too high following a set piece situation.,1,,1,FC Augsburg,SC Freiburg,marcel de jong,,,,10.0,2.0,0,15.0,2.0,0,2.0,0
+Aw5DflLH/,Aw5DflLH28,28,15,Foul by Jan-Ingwer Callsen-Bracker (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,janingwer callsenbracker,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH29,29,15,Johannes Flum (SC Freiburg) wins a free kick in the attacking half.,8,,2,SC Freiburg,FC Augsburg,johannes flum,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH30,30,16,Daniel Baier (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,daniel baier,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH31,31,16,Attempt blocked. Cedric Makiadi (SC Freiburg) right footed shot from outside the box is blocked. Assisted by Oliver Barth.,1,12.0,2,SC Freiburg,FC Augsburg,cedric makiadi,oliver barth,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+Aw5DflLH/,Aw5DflLH32,32,16,Foul by Daniel Caligiuri (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,daniel caligiuri,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH33,33,17,"Corner,  FC Augsburg. Conceded by Mensur Mujdza.",2,,1,FC Augsburg,SC Freiburg,mensur mujdza,mensur mujdza,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH34,34,19,Jonas De Roeck (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,jonas de roeck,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH35,35,19,Foul by Daniel Caligiuri (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,daniel caligiuri,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH36,36,22,Daniel Baier (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,daniel baier,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH37,37,22,Foul by Julian Schuster (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,julian schuster,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH38,38,24,Attempt saved. Marcel Ndjeng (FC Augsburg) right footed shot from the left side of the box is saved in the bottom left corner. Assisted by Daniel Baier.,1,12.0,1,FC Augsburg,SC Freiburg,marcel ndjeng,daniel baier,,,3.0,1.0,0,9.0,1.0,1,1.0,0
+Aw5DflLH/,Aw5DflLH39,39,28,Tobias Werner (FC Augsburg) wins a free kick on the right wing.,8,,1,FC Augsburg,SC Freiburg,tobias werner,,,,,,0,5.0,,0,,0
+Aw5DflLH/,Aw5DflLH40,40,28,Attempt saved. Sascha Molders (FC Augsburg) right footed shot from very close range is saved in the centre of the goal. Assisted by Marcel de Jong with a cross.,1,12.0,1,FC Augsburg,SC Freiburg,sascha molders,marcel de jong,,,5.0,1.0,0,13.0,1.0,2,1.0,0
+Aw5DflLH/,Aw5DflLH41,41,28,Foul by Yacine Abdessadki (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,yacine abdessadki,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH42,42,29,Marcel de Jong (FC Augsburg) wins a free kick in the attacking half.,8,,1,FC Augsburg,SC Freiburg,marcel de jong,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH43,43,29,Foul by Oliver Barth (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,oliver barth,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH44,44,29,Oliver Barth (SC Freiburg) is shown the yellow card for a bad foul.,4,,2,SC Freiburg,FC Augsburg,oliver barth,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH45,45,31,Marcel Ndjeng (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,marcel ndjeng,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH46,46,31,Foul by Yacine Abdessadki (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,yacine abdessadki,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH47,47,32,Marcel de Jong (FC Augsburg) wins a free kick on the left wing.,8,,1,FC Augsburg,SC Freiburg,marcel de jong,,,,,,0,4.0,,0,,0
+Aw5DflLH/,Aw5DflLH48,48,32,Foul by Daniel Caligiuri (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,daniel caligiuri,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH49,49,33,Foul by Jonas De Roeck (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,jonas de roeck,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH50,50,33,Attempt missed. Marcel Ndjeng (FC Augsburg) right footed shot from outside the box misses to the left.,1,,1,FC Augsburg,SC Freiburg,marcel ndjeng,,,,8.0,2.0,0,15.0,1.0,0,1.0,0
+Aw5DflLH/,Aw5DflLH51,51,33,Oliver Barth (SC Freiburg) wins a free kick in the defensive half.,8,,2,SC Freiburg,FC Augsburg,oliver barth,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH52,52,34,"Corner,  FC Augsburg. Conceded by Yacine Abdessadki.",2,,1,FC Augsburg,SC Freiburg,yacine abdessadki,yacine abdessadki,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH53,53,35,Attempt missed. Marcel de Jong (FC Augsburg) left footed shot from outside the box is too high. Assisted by Jan-Ingwer Callsen-Bracker following a corner.,1,12.0,1,FC Augsburg,SC Freiburg,marcel de jong,janingwer callsenbracker,,,10.0,2.0,0,15.0,2.0,1,3.0,0
+Aw5DflLH/,Aw5DflLH54,54,35,Foul by Jonas De Roeck (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,jonas de roeck,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH55,55,35,Daniel Caligiuri (SC Freiburg) wins a free kick in the attacking half.,8,,2,SC Freiburg,FC Augsburg,daniel caligiuri,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH56,56,36,Attempt blocked. Julian Schuster (SC Freiburg) right footed shot from outside the box is blocked.,1,,2,SC Freiburg,FC Augsburg,julian schuster,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+Aw5DflLH/,Aw5DflLH57,57,38,Tobias Werner (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,tobias werner,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH58,58,38,"Corner,  SC Freiburg. Conceded by Lorenzo Davids.",2,,2,SC Freiburg,FC Augsburg,lorenzo davids,lorenzo davids,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH59,59,38,Foul by Cedric Makiadi (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,cedric makiadi,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH60,60,40,Foul by Jonas De Roeck (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,jonas de roeck,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH61,61,40,Daniel Caligiuri (SC Freiburg) wins a free kick in the attacking half.,8,,2,SC Freiburg,FC Augsburg,daniel caligiuri,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH62,62,44,Attempt saved. Cedric Makiadi (SC Freiburg) right footed shot from a difficult angle on the left is saved in the bottom left corner. Assisted by Johannes Flum.,1,12.0,2,SC Freiburg,FC Augsburg,cedric makiadi,johannes flum,,,3.0,1.0,0,7.0,1.0,1,1.0,0
+Aw5DflLH/,Aw5DflLH63,63,45,Tobias Werner (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,tobias werner,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH64,64,45,"Substitution, FC Augsburg. Axel Bellinghausen replaces Tobias Werner.",7,,1,FC Augsburg,SC Freiburg,,,axel bellinghausen,tobias werner,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH65,65,45,Foul by Julian Schuster (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,julian schuster,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH66,66,48,"Goal!  FC Augsburg 0, SC Freiburg 1. Papiss Demba Cisse (SC Freiburg) right footed shot from outside the box to the bottom left corner. Assisted by Felix Bastians following a fast break.",1,12.0,2,SC Freiburg,FC Augsburg,papiss demba cisse,felix bastians,,,3.0,1.0,1,15.0,1.0,1,1.0,1
+Aw5DflLH/,Aw5DflLH67,67,49,Foul by Jan-Ingwer Callsen-Bracker (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,janingwer callsenbracker,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH68,68,49,Cedric Makiadi (SC Freiburg) wins a free kick in the defensive half.,8,,2,SC Freiburg,FC Augsburg,cedric makiadi,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH69,69,51,Marcel Ndjeng (FC Augsburg) wins a free kick on the right wing.,8,,1,FC Augsburg,SC Freiburg,marcel ndjeng,,,,,,0,5.0,,0,,0
+Aw5DflLH/,Aw5DflLH70,70,51,Foul by Julian Schuster (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,julian schuster,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH71,71,52,Jonas De Roeck (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,jonas de roeck,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH72,72,52,Foul by Mensur Mujdza (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,mensur mujdza,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH73,73,53,"Corner,  FC Augsburg. Conceded by Oliver Barth.",2,,1,FC Augsburg,SC Freiburg,oliver barth,oliver barth,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH74,74,53,"Goal!  FC Augsburg 1, SC Freiburg 1. Sascha Molders (FC Augsburg) header from the centre of the box to the top left corner. Assisted by Axel Bellinghausen with a cross.",1,12.0,1,FC Augsburg,SC Freiburg,sascha molders,axel bellinghausen,,,12.0,1.0,1,3.0,3.0,2,1.0,0
+Aw5DflLH/,Aw5DflLH75,75,55,"Goal!  FC Augsburg 1, SC Freiburg 2. Cedric Makiadi (SC Freiburg) header from the centre of the box to the top left corner. Assisted by Mensur Mujdza with a cross.",1,12.0,2,SC Freiburg,FC Augsburg,cedric makiadi,mensur mujdza,,,12.0,1.0,1,3.0,3.0,2,1.0,0
+Aw5DflLH/,Aw5DflLH76,76,57,"Corner,  SC Freiburg. Conceded by Jonas De Roeck.",2,,2,SC Freiburg,FC Augsburg,jonas de roeck,jonas de roeck,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH77,77,57,Attempt blocked. Daniel Caligiuri (SC Freiburg) right footed shot from outside the box is blocked. Assisted by Papiss Demba Cisse.,1,12.0,2,SC Freiburg,FC Augsburg,daniel caligiuri,papiss demba cisse,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+Aw5DflLH/,Aw5DflLH78,78,59,Axel Bellinghausen (FC Augsburg) wins a free kick on the left wing.,8,,1,FC Augsburg,SC Freiburg,axel bellinghausen,,,,,,0,4.0,,0,,0
+Aw5DflLH/,Aw5DflLH79,79,59,Foul by Marcel de Jong (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,marcel de jong,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH80,80,59,Foul by Julian Schuster (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,julian schuster,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH81,81,59,Papiss Demba Cisse (SC Freiburg) wins a free kick in the defensive half.,8,,2,SC Freiburg,FC Augsburg,papiss demba cisse,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH82,82,60,Foul by Daniel Caligiuri (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,daniel caligiuri,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH83,83,61,Daniel Caligiuri (SC Freiburg) is shown the yellow card for a bad foul.,4,,2,SC Freiburg,FC Augsburg,daniel caligiuri,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH84,84,63,"Corner,  FC Augsburg. Conceded by Heiko Butscher.",2,,1,FC Augsburg,SC Freiburg,heiko butscher,heiko butscher,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH85,85,68,Attempt saved. Sascha Molders (FC Augsburg) header from the centre of the box is saved in the centre of the goal. Assisted by Daniel Baier with a cross.,1,12.0,1,FC Augsburg,SC Freiburg,sascha molders,daniel baier,,,5.0,1.0,0,3.0,3.0,2,1.0,0
+Aw5DflLH/,Aw5DflLH86,86,69,"Substitution, FC Augsburg. Akaki Gogia replaces Marcel Ndjeng.",7,,1,FC Augsburg,SC Freiburg,,,akaki gogia,marcel ndjeng,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH87,87,70,Axel Bellinghausen (FC Augsburg) wins a free kick on the left wing.,8,,1,FC Augsburg,SC Freiburg,axel bellinghausen,,,,,,0,4.0,,0,,0
+Aw5DflLH/,Aw5DflLH88,88,70,Foul by Johannes Flum (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,johannes flum,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH89,89,71,"Attempt missed. Mensur Mujdza (SC Freiburg) left footed shot from outside the box is close, but misses to the right. Assisted by Daniel Caligiuri following a fast break.",1,12.0,2,SC Freiburg,FC Augsburg,mensur mujdza,daniel caligiuri,,,9.0,2.0,0,15.0,2.0,1,1.0,1
+Aw5DflLH/,Aw5DflLH90,90,72,Axel Bellinghausen (FC Augsburg) wins a free kick in the attacking half.,8,,1,FC Augsburg,SC Freiburg,axel bellinghausen,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH91,91,72,Akaki Gogia (FC Augsburg) wins a free kick on the right wing.,8,,1,FC Augsburg,SC Freiburg,akaki gogia,,,,,,0,5.0,,0,,0
+Aw5DflLH/,Aw5DflLH92,92,72,Foul by Daniel Caligiuri (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,daniel caligiuri,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH93,93,72,Foul by Felix Bastians (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,felix bastians,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH94,94,73,Marcel de Jong (FC Augsburg) wins a free kick on the left wing.,8,,1,FC Augsburg,SC Freiburg,marcel de jong,,,,,,0,4.0,,0,,0
+Aw5DflLH/,Aw5DflLH95,95,73,Attempt saved. Sascha Molders (FC Augsburg) header from the centre of the box is saved in the bottom right corner. Assisted by Daniel Baier with a cross.,1,12.0,1,FC Augsburg,SC Freiburg,sascha molders,daniel baier,,,4.0,1.0,0,3.0,3.0,2,1.0,0
+Aw5DflLH/,Aw5DflLH96,96,73,Foul by Cedric Makiadi (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,cedric makiadi,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH97,97,76,"Substitution, FC Augsburg. Stephan Hain replaces Lorenzo Davids.",7,,1,FC Augsburg,SC Freiburg,,,stephan hain,lorenzo davids,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH98,98,78,Foul by Uwe Mohrle (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,uwe mohrle,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH99,99,78,Papiss Demba Cisse (SC Freiburg) wins a free kick in the attacking half.,8,,2,SC Freiburg,FC Augsburg,papiss demba cisse,,,,,,0,1.0,,0,,0
+Aw5DflLH/,Aw5DflLH100,100,80,Foul by Daniel Baier (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,daniel baier,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH101,101,80,Julian Schuster (SC Freiburg) wins a free kick in the defensive half.,8,,2,SC Freiburg,FC Augsburg,julian schuster,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH102,102,81,"Goal!  FC Augsburg 2, SC Freiburg 2. Sascha Molders (FC Augsburg) header from the centre of the box to the bottom left corner. Assisted by Akaki Gogia with a cross.",1,12.0,1,FC Augsburg,SC Freiburg,sascha molders,akaki gogia,,,3.0,1.0,1,3.0,3.0,2,1.0,0
+Aw5DflLH/,Aw5DflLH103,103,83,Axel Bellinghausen (FC Augsburg) wins a free kick on the left wing.,8,,1,FC Augsburg,SC Freiburg,axel bellinghausen,,,,,,0,4.0,,0,,0
+Aw5DflLH/,Aw5DflLH104,104,83,Foul by Mensur Mujdza (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,mensur mujdza,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH105,105,83,"Substitution, SC Freiburg. Anton Putsila replaces Cedric Makiadi because of an injury.",7,,2,SC Freiburg,FC Augsburg,,,anton putsila,cedric makiadi,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH106,106,84,Foul by Sascha Molders (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,sascha molders,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH107,107,84,"Corner,  FC Augsburg. Conceded by Julian Schuster.",2,,1,FC Augsburg,SC Freiburg,julian schuster,julian schuster,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH108,108,84,Heiko Butscher (SC Freiburg) wins a free kick in the defensive half.,8,,2,SC Freiburg,FC Augsburg,heiko butscher,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH109,109,85,Mensur Mujdza (SC Freiburg) is shown the yellow card.,4,,2,SC Freiburg,FC Augsburg,mensur mujdza,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH110,110,86,Foul by Jan-Ingwer Callsen-Bracker (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,janingwer callsenbracker,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH111,111,86,Anton Putsila (SC Freiburg) wins a free kick on the left wing.,8,,2,SC Freiburg,FC Augsburg,anton putsila,,,,,,0,4.0,,0,,0
+Aw5DflLH/,Aw5DflLH112,112,87,"Corner,  SC Freiburg. Conceded by Jonas De Roeck.",2,,2,SC Freiburg,FC Augsburg,jonas de roeck,jonas de roeck,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH113,113,88,"Substitution, SC Freiburg. Garra Dembele replaces Daniel Caligiuri.",7,,2,SC Freiburg,FC Augsburg,,,garra dembele,daniel caligiuri,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH114,114,89,Garra Dembele (SC Freiburg) wins a free kick in the defensive half.,8,,2,SC Freiburg,FC Augsburg,garra dembele,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH115,115,90,Foul by Axel Bellinghausen (FC Augsburg).,3,,1,FC Augsburg,SC Freiburg,axel bellinghausen,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH116,116,90,"Offside, FC Augsburg. Simon Jentzsch tries a through ball, but Stephan Hain is caught offside.",9,13.0,1,FC Augsburg,SC Freiburg,stephan hain,simon jentzsch,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH117,117,90,Daniel Baier (FC Augsburg) wins a free kick in the defensive half.,8,,1,FC Augsburg,SC Freiburg,daniel baier,,,,,,0,2.0,,0,,0
+Aw5DflLH/,Aw5DflLH118,118,90,Attempt blocked. Sascha Molders (FC Augsburg) left footed shot from outside the box is blocked. Assisted by Jan-Ingwer Callsen-Bracker with a headed pass.,1,12.0,1,FC Augsburg,SC Freiburg,sascha molders,janingwer callsenbracker,,,2.0,3.0,0,15.0,2.0,3,1.0,0
+Aw5DflLH/,Aw5DflLH119,119,90,Mensur Mujdza (SC Freiburg) wins a free kick on the right wing.,8,,2,SC Freiburg,FC Augsburg,mensur mujdza,,,,,,0,5.0,,0,,0
+Aw5DflLH/,Aw5DflLH120,120,90,Attempt saved. Garra Dembele (SC Freiburg) right footed shot from a difficult angle on the right is saved in the bottom right corner. Assisted by Papiss Demba Cisse.,1,12.0,2,SC Freiburg,FC Augsburg,garra dembele,papiss demba cisse,,,4.0,1.0,0,8.0,1.0,1,1.0,0
+Aw5DflLH/,Aw5DflLH121,121,90,Foul by Johannes Flum (SC Freiburg).,3,,2,SC Freiburg,FC Augsburg,johannes flum,,,,,,0,,,0,,0
+Aw5DflLH/,Aw5DflLH122,122,90,Johannes Flum (SC Freiburg) is shown the yellow card for a bad foul.,4,,2,SC Freiburg,FC Augsburg,johannes flum,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n1,1,1,Per Mertesacker (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,per mertesacker,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n2,2,1,Foul by Richard Sukuta-Pasu (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,richard sukutapasu,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n3,3,2,Per Mertesacker (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,per mertesacker,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n4,4,2,Foul by Richard Sukuta-Pasu (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,richard sukutapasu,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n5,5,4,Clemens Fritz (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,clemens fritz,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n6,6,4,Foul by Florian Dick (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,florian dick,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n7,7,5,Attempt saved. Lennart Thy (SV Werder Bremen) left footed shot from the left side of the box is saved in the bottom right corner. Assisted by Aaron Hunt with a through ball.,1,12.0,1,Werder Bremen,Kaiserslautern,lennart thy,aaron hunt,,,4.0,1.0,0,9.0,2.0,4,1.0,0
+bkjpaC6n/,bkjpaC6n8,8,6,"Offside, Kaiserslautern. Mathias Abel tries a through ball, but Richard Sukuta-Pasu is caught offside.",9,13.0,2,Kaiserslautern,Werder Bremen,richard sukutapasu,mathias abel,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n9,9,7,Foul by Sokratis (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,sokratis,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n10,10,7,Foul by Philipp Bargfrede (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,philipp bargfrede,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n11,11,7,Ivo Ilicevic (Kaiserslautern) wins a free kick on the left wing.,8,,2,Kaiserslautern,Werder Bremen,ivo ilicevic,,,,,,0,4.0,,0,,0
+bkjpaC6n/,bkjpaC6n12,12,7,Leon Jessen (Kaiserslautern) wins a free kick on the left wing.,8,,2,Kaiserslautern,Werder Bremen,leon jessen,,,,,,0,4.0,,0,,0
+bkjpaC6n/,bkjpaC6n13,13,9,Marko Marin (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Kaiserslautern,marko marin,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n14,14,9,"Corner,  SV Werder Bremen. Conceded by Rodnei.",2,,1,Werder Bremen,Kaiserslautern,rodnei,rodnei,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n15,15,9,Attempt blocked. Markus Rosenberg (SV Werder Bremen) left footed shot from the right side of the six yard box is blocked.,1,,1,Werder Bremen,Kaiserslautern,markus rosenberg,,,,2.0,3.0,0,12.0,2.0,0,1.0,0
+bkjpaC6n/,bkjpaC6n16,16,9,Foul by Thanos Petsos (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,thanos petsos,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n17,17,11,"Corner,  Kaiserslautern. Conceded by Andreas Wolf.",2,,2,Kaiserslautern,Werder Bremen,andreas wolf,andreas wolf,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n18,18,12,Lennart Thy (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,lennart thy,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n19,19,12,Foul by Mathias Abel (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,mathias abel,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n20,20,12,Hand ball by Olcay Sahan (Kaiserslautern).,10,,2,Kaiserslautern,Werder Bremen,olcay sahan,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n21,21,13,"Offside, Kaiserslautern. Pierre De Wit tries a through ball, but Ivo Ilicevic is caught offside.",9,13.0,2,Kaiserslautern,Werder Bremen,ivo ilicevic,pierre de wit,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n22,22,14,"Offside, Kaiserslautern. Olcay Sahan tries a through ball, but Pierre De Wit is caught offside.",9,13.0,2,Kaiserslautern,Werder Bremen,pierre de wit,olcay sahan,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n23,23,15,Marko Marin (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Kaiserslautern,marko marin,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n24,24,15,Foul by Florian Dick (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,florian dick,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n25,25,17,Clemens Fritz (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Kaiserslautern,clemens fritz,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n26,26,17,Foul by Richard Sukuta-Pasu (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,richard sukutapasu,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n27,27,17,Richard Sukuta-Pasu (Kaiserslautern) is shown the yellow card for a bad foul.,4,,2,Kaiserslautern,Werder Bremen,richard sukutapasu,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n28,28,19,Aaron Hunt (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Kaiserslautern,aaron hunt,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n29,29,19,Foul by Andreas Wolf (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,andreas wolf,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n30,30,19,Foul by Christian Tiffert (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,christian tiffert,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n31,31,19,Richard Sukuta-Pasu (Kaiserslautern) wins a free kick in the defensive half.,8,,2,Kaiserslautern,Werder Bremen,richard sukutapasu,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n32,32,20,Florian Dick (Kaiserslautern) wins a free kick in the defensive half.,8,,2,Kaiserslautern,Werder Bremen,florian dick,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n33,33,21,Olcay Sahan (Kaiserslautern) wins a free kick on the right wing.,8,,2,Kaiserslautern,Werder Bremen,olcay sahan,,,,,,0,5.0,,0,,0
+bkjpaC6n/,bkjpaC6n34,34,22,"Offside, Kaiserslautern. Ivo Ilicevic tries a through ball, but Pierre De Wit is caught offside.",9,13.0,2,Kaiserslautern,Werder Bremen,pierre de wit,ivo ilicevic,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n35,35,24,Attempt saved. Aaron Hunt (SV Werder Bremen) left footed shot from outside the box is saved in the bottom right corner. Assisted by Marko Marin.,1,12.0,1,Werder Bremen,Kaiserslautern,aaron hunt,marko marin,,,4.0,1.0,0,15.0,2.0,1,1.0,0
+bkjpaC6n/,bkjpaC6n36,36,27,"Offside, SV Werder Bremen. Markus Rosenberg tries a through ball, but Lennart Thy is caught offside.",9,13.0,1,Werder Bremen,Kaiserslautern,lennart thy,markus rosenberg,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n37,37,28,Andreas Wolf (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Kaiserslautern,andreas wolf,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n38,38,28,Markus Rosenberg (SV Werder Bremen) wins a free kick on the right wing.,8,,1,Werder Bremen,Kaiserslautern,markus rosenberg,,,,,,0,5.0,,0,,0
+bkjpaC6n/,bkjpaC6n39,39,28,Foul by Richard Sukuta-Pasu (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,richard sukutapasu,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n40,40,28,Foul by Rodnei (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,rodnei,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n41,41,29,Clemens Fritz (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,clemens fritz,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n42,42,29,Foul by Florian Dick (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,florian dick,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n43,43,31,"Corner,  Kaiserslautern. Conceded by Sokratis.",2,,2,Kaiserslautern,Werder Bremen,sokratis,sokratis,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n44,44,32,Attempt blocked. Markus Rosenberg (SV Werder Bremen) right footed shot from the centre of the box is blocked. Assisted by Lennart Thy.,1,12.0,1,Werder Bremen,Kaiserslautern,markus rosenberg,lennart thy,,,2.0,3.0,0,3.0,1.0,1,1.0,0
+bkjpaC6n/,bkjpaC6n45,45,34,Lennart Thy (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Kaiserslautern,lennart thy,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n46,46,34,Foul by Mathias Abel (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,mathias abel,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n47,47,35,Marko Marin (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Kaiserslautern,marko marin,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n48,48,35,Foul by Christian Tiffert (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,christian tiffert,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n49,49,36,"Offside, SV Werder Bremen. Marko Marin tries a through ball, but Per Mertesacker is caught offside.",9,13.0,1,Werder Bremen,Kaiserslautern,per mertesacker,marko marin,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n50,50,37,Attempt saved. Florian Dick (Kaiserslautern) right footed shot from outside the box is saved in the bottom left corner. Assisted by Christian Tiffert.,1,12.0,2,Kaiserslautern,Werder Bremen,florian dick,christian tiffert,,,3.0,1.0,0,15.0,1.0,1,1.0,0
+bkjpaC6n/,bkjpaC6n51,51,38,Foul by Clemens Fritz (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,clemens fritz,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n52,52,38,Thanos Petsos (Kaiserslautern) wins a free kick in the defensive half.,8,,2,Kaiserslautern,Werder Bremen,thanos petsos,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n53,53,39,Lukas Schmitz (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,lukas schmitz,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n54,54,39,"Offside, SV Werder Bremen. Philipp Bargfrede tries a through ball, but Lennart Thy is caught offside.",9,13.0,1,Werder Bremen,Kaiserslautern,lennart thy,philipp bargfrede,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n55,55,39,Foul by Olcay Sahan (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,olcay sahan,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n56,56,41,"Attempt missed. Clemens Fritz (SV Werder Bremen) right footed shot from outside the box is close, but misses to the left. Assisted by Marko Marin.",1,12.0,1,Werder Bremen,Kaiserslautern,clemens fritz,marko marin,,,8.0,2.0,0,15.0,1.0,1,1.0,0
+bkjpaC6n/,bkjpaC6n57,57,41,Foul by Lukas Schmitz (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,lukas schmitz,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n58,58,41,Olcay Sahan (Kaiserslautern) wins a free kick on the right wing.,8,,2,Kaiserslautern,Werder Bremen,olcay sahan,,,,,,0,5.0,,0,,0
+bkjpaC6n/,bkjpaC6n59,59,43,"Corner,  SV Werder Bremen. Conceded by Pierre De Wit.",2,,1,Werder Bremen,Kaiserslautern,pierre de wit,pierre de wit,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n60,60,45,Marko Marin (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Kaiserslautern,marko marin,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n61,61,45,Attempt missed. Aaron Hunt (SV Werder Bremen) left footed shot from outside the box is just a bit too high from a direct free kick.,1,,1,Werder Bremen,Kaiserslautern,aaron hunt,,,,1.0,2.0,0,15.0,2.0,0,4.0,0
+bkjpaC6n/,bkjpaC6n62,62,45,"Substitution, SV Werder Bremen. Mehmet Ekici replaces Philipp Bargfrede.",7,,1,Werder Bremen,Kaiserslautern,,,mehmet ekici,philipp bargfrede,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n63,63,45,Foul by Rodnei (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,rodnei,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n64,64,45,"Substitution, Kaiserslautern. Itay Shechter replaces Richard Sukuta-Pasu.",7,,2,Kaiserslautern,Werder Bremen,,,itay shechter,richard sukutapasu,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n65,65,47,Andreas Wolf (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,andreas wolf,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n66,66,47,Foul by Christian Tiffert (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,christian tiffert,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n67,67,48,Attempt blocked. Marko Marin (SV Werder Bremen) right footed shot from the right side of the box is blocked. Assisted by Markus Rosenberg.,1,12.0,1,Werder Bremen,Kaiserslautern,marko marin,markus rosenberg,,,2.0,3.0,0,11.0,1.0,1,1.0,0
+bkjpaC6n/,bkjpaC6n68,68,48,"Corner,  SV Werder Bremen. Conceded by Mathias Abel.",2,,1,Werder Bremen,Kaiserslautern,mathias abel,mathias abel,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n69,69,49,Attempt missed. Sokratis (SV Werder Bremen) header from very close range is too high. Assisted by Mehmet Ekici with a cross following a corner.,1,12.0,1,Werder Bremen,Kaiserslautern,sokratis,mehmet ekici,,,10.0,2.0,0,13.0,3.0,2,3.0,0
+bkjpaC6n/,bkjpaC6n70,70,49,"Offside, SV Werder Bremen. Lennart Thy tries a through ball, but Marko Marin is caught offside.",9,13.0,1,Werder Bremen,Kaiserslautern,marko marin,lennart thy,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n71,71,50,"Offside, Kaiserslautern. Ivo Ilicevic tries a through ball, but Itay Shechter is caught offside.",9,13.0,2,Kaiserslautern,Werder Bremen,itay shechter,ivo ilicevic,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n72,72,52,Attempt saved. Itay Shechter (Kaiserslautern) header from the centre of the box is saved in the top centre of the goal. Assisted by Olcay Sahan with a cross.,1,12.0,2,Kaiserslautern,Werder Bremen,itay shechter,olcay sahan,,,11.0,1.0,0,3.0,3.0,2,1.0,0
+bkjpaC6n/,bkjpaC6n73,73,52,Attempt missed. Ivo Ilicevic (Kaiserslautern) right footed shot from outside the box is high and wide to the right. Assisted by Olcay Sahan.,1,12.0,2,Kaiserslautern,Werder Bremen,ivo ilicevic,olcay sahan,,,6.0,2.0,0,15.0,1.0,1,1.0,0
+bkjpaC6n/,bkjpaC6n74,74,53,Foul by Per Mertesacker (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,per mertesacker,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n75,75,53,Itay Shechter (Kaiserslautern) wins a free kick on the left wing.,8,,2,Kaiserslautern,Werder Bremen,itay shechter,,,,,,0,4.0,,0,,0
+bkjpaC6n/,bkjpaC6n76,76,54,"Offside, SV Werder Bremen. Markus Rosenberg tries a through ball, but Marko Marin is caught offside.",9,13.0,1,Werder Bremen,Kaiserslautern,marko marin,markus rosenberg,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n77,77,55,Mehmet Ekici (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,mehmet ekici,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n78,78,55,Foul by Christian Tiffert (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,christian tiffert,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n79,79,55,Ivo Ilicevic (Kaiserslautern) hits the bar with a right footed shot from the centre of the box. Assisted by Florian Dick with a cross.,1,12.0,2,Kaiserslautern,Werder Bremen,ivo ilicevic,florian dick,,,7.0,4.0,0,3.0,1.0,2,1.0,0
+bkjpaC6n/,bkjpaC6n80,80,55,"Corner,  Kaiserslautern. Conceded by Per Mertesacker.",2,,2,Kaiserslautern,Werder Bremen,per mertesacker,per mertesacker,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n81,81,57,Aaron Hunt (SV Werder Bremen) wins a free kick on the left wing.,8,,1,Werder Bremen,Kaiserslautern,aaron hunt,,,,,,0,4.0,,0,,0
+bkjpaC6n/,bkjpaC6n82,82,57,Attempt blocked. Marko Marin (SV Werder Bremen) right footed shot from the left side of the box is blocked. Assisted by Lukas Schmitz.,1,12.0,1,Werder Bremen,Kaiserslautern,marko marin,lukas schmitz,,,2.0,3.0,0,9.0,1.0,1,1.0,0
+bkjpaC6n/,bkjpaC6n83,83,58,Per Mertesacker (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,per mertesacker,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n84,84,58,Foul by Itay Shechter (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,itay shechter,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n85,85,59,"Substitution, SV Werder Bremen. Wesley replaces Marko Marin.",7,,1,Werder Bremen,Kaiserslautern,,,wesley,marko marin,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n86,86,60,"Goal!  SV Werder Bremen 1, Kaiserslautern 0. Markus Rosenberg (SV Werder Bremen) right footed shot from very close range to the bottom right corner.",1,,1,Werder Bremen,Kaiserslautern,markus rosenberg,,,,4.0,1.0,1,13.0,1.0,0,1.0,0
+bkjpaC6n/,bkjpaC6n87,87,60,Attempt saved. Lukas Schmitz (SV Werder Bremen) left footed shot from outside the box is saved in the bottom right corner. Assisted by Clemens Fritz.,1,12.0,1,Werder Bremen,Kaiserslautern,lukas schmitz,clemens fritz,,,4.0,1.0,0,15.0,2.0,1,1.0,0
+bkjpaC6n/,bkjpaC6n88,88,61,Aaron Hunt (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,aaron hunt,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n89,89,61,Foul by Itay Shechter (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,itay shechter,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n90,90,63,Markus Rosenberg (SV Werder Bremen) wins a free kick in the attacking half.,8,,1,Werder Bremen,Kaiserslautern,markus rosenberg,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n91,91,63,Foul by Christian Tiffert (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,christian tiffert,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n92,92,63,"Substitution, Kaiserslautern. Konstantinos Fortounis replaces Pierre De Wit.",7,,2,Kaiserslautern,Werder Bremen,,,konstantinos fortounis,pierre de wit,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n93,93,69,Foul by Lukas Schmitz (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,lukas schmitz,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n94,94,69,Christian Tiffert (Kaiserslautern) wins a free kick on the right wing.,8,,2,Kaiserslautern,Werder Bremen,christian tiffert,,,,,,0,5.0,,0,,0
+bkjpaC6n/,bkjpaC6n95,95,70,Attempt blocked. Clemens Fritz (SV Werder Bremen) right footed shot from outside the box is blocked. Assisted by Aaron Hunt with a headed pass.,1,12.0,1,Werder Bremen,Kaiserslautern,clemens fritz,aaron hunt,,,2.0,3.0,0,15.0,1.0,3,1.0,0
+bkjpaC6n/,bkjpaC6n96,96,70,Attempt blocked. Aaron Hunt (SV Werder Bremen) left footed shot from outside the box is blocked.,1,,1,Werder Bremen,Kaiserslautern,aaron hunt,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+bkjpaC6n/,bkjpaC6n97,97,70,"Corner,  SV Werder Bremen. Conceded by Thanos Petsos.",2,,1,Werder Bremen,Kaiserslautern,thanos petsos,thanos petsos,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n98,98,71,Foul by Wesley (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,wesley,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n99,99,71,Wesley (SV Werder Bremen) is shown the yellow card for a bad foul.,4,,1,Werder Bremen,Kaiserslautern,wesley,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n100,100,71,Florian Dick (Kaiserslautern) wins a free kick in the attacking half.,8,,2,Kaiserslautern,Werder Bremen,florian dick,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n101,101,72,"Corner,  Kaiserslautern. Conceded by Clemens Fritz.",2,,2,Kaiserslautern,Werder Bremen,clemens fritz,clemens fritz,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n102,102,73,Clemens Fritz (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,clemens fritz,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n103,103,73,Attempt blocked. Olcay Sahan (Kaiserslautern) right footed shot from outside the box is blocked.,1,,2,Kaiserslautern,Werder Bremen,olcay sahan,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+bkjpaC6n/,bkjpaC6n104,104,73,Foul by Florian Dick (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,florian dick,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n105,105,73,Florian Dick (Kaiserslautern) is shown the yellow card for a bad foul.,4,,2,Kaiserslautern,Werder Bremen,florian dick,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n106,106,74,Wesley (SV Werder Bremen) wins a free kick on the left wing.,8,,1,Werder Bremen,Kaiserslautern,wesley,,,,,,0,4.0,,0,,0
+bkjpaC6n/,bkjpaC6n107,107,74,Foul by Mathias Abel (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,mathias abel,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n108,108,75,Attempt blocked. Aaron Hunt (SV Werder Bremen) right footed shot from the centre of the box is blocked.,1,,1,Werder Bremen,Kaiserslautern,aaron hunt,,,,2.0,3.0,0,3.0,1.0,0,1.0,0
+bkjpaC6n/,bkjpaC6n109,109,75,Foul by Sokratis (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,sokratis,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n110,110,75,Ivo Ilicevic (Kaiserslautern) wins a free kick on the left wing.,8,,2,Kaiserslautern,Werder Bremen,ivo ilicevic,,,,,,0,4.0,,0,,0
+bkjpaC6n/,bkjpaC6n111,111,76,"Offside, SV Werder Bremen. Aaron Hunt tries a through ball, but Lennart Thy is caught offside.",9,13.0,1,Werder Bremen,Kaiserslautern,lennart thy,aaron hunt,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n112,112,76,Attempt missed. Olcay Sahan (Kaiserslautern) right footed shot from outside the box misses to the left.,1,,2,Kaiserslautern,Werder Bremen,olcay sahan,,,,8.0,2.0,0,15.0,1.0,0,1.0,0
+bkjpaC6n/,bkjpaC6n113,113,77,Aaron Hunt (SV Werder Bremen) wins a free kick on the right wing.,8,,1,Werder Bremen,Kaiserslautern,aaron hunt,,,,,,0,5.0,,0,,0
+bkjpaC6n/,bkjpaC6n114,114,77,Attempt blocked. Aaron Hunt (SV Werder Bremen) left footed shot from long range on the right is blocked.,1,,1,Werder Bremen,Kaiserslautern,aaron hunt,,,,2.0,3.0,0,16.0,2.0,0,1.0,0
+bkjpaC6n/,bkjpaC6n115,115,77,Foul by Rodnei (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,rodnei,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n116,116,78,"Corner,  SV Werder Bremen. Conceded by Mathias Abel.",2,,1,Werder Bremen,Kaiserslautern,mathias abel,mathias abel,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n117,117,79,Attempt blocked. Sokratis (SV Werder Bremen) header from very close range is blocked. Assisted by Mehmet Ekici with a cross.,1,12.0,1,Werder Bremen,Kaiserslautern,sokratis,mehmet ekici,,,2.0,3.0,0,13.0,3.0,2,1.0,0
+bkjpaC6n/,bkjpaC6n118,118,79,"Corner,  SV Werder Bremen. Conceded by Rodnei.",2,,1,Werder Bremen,Kaiserslautern,rodnei,rodnei,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n119,119,79,Attempt missed. Per Mertesacker (SV Werder Bremen) header from very close range misses to the left. Assisted by Mehmet Ekici with a cross following a corner.,1,12.0,1,Werder Bremen,Kaiserslautern,per mertesacker,mehmet ekici,,,8.0,2.0,0,13.0,3.0,2,3.0,0
+bkjpaC6n/,bkjpaC6n120,120,80,Foul by Clemens Fritz (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,clemens fritz,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n121,121,80,Olcay Sahan (Kaiserslautern) wins a free kick in the defensive half.,8,,2,Kaiserslautern,Werder Bremen,olcay sahan,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n122,122,81,"Goal!  SV Werder Bremen 2, Kaiserslautern 0. Markus Rosenberg (SV Werder Bremen) header from very close range to the bottom right corner. Assisted by Wesley with a cross following a fast break.",1,12.0,1,Werder Bremen,Kaiserslautern,markus rosenberg,wesley,,,4.0,1.0,1,13.0,3.0,2,1.0,1
+bkjpaC6n/,bkjpaC6n123,123,82,"Substitution, Kaiserslautern. Martin Amedick replaces Thanos Petsos.",7,,2,Kaiserslautern,Werder Bremen,,,martin amedick,thanos petsos,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n124,124,84,Foul by Per Mertesacker (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,per mertesacker,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n125,125,84,Itay Shechter (Kaiserslautern) wins a free kick in the attacking half.,8,,2,Kaiserslautern,Werder Bremen,itay shechter,,,,,,0,1.0,,0,,0
+bkjpaC6n/,bkjpaC6n126,126,87,"Offside, Kaiserslautern. Itay Shechter tries a through ball, but Ivo Ilicevic is caught offside.",9,13.0,2,Kaiserslautern,Werder Bremen,ivo ilicevic,itay shechter,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n127,127,88,Sokratis (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,sokratis,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n128,128,88,Foul by Ivo Ilicevic (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,ivo ilicevic,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n129,129,89,Markus Rosenberg (SV Werder Bremen) hits the right post with a right footed shot from the centre of the box. Assisted by Aaron Hunt following a fast break.,1,12.0,1,Werder Bremen,Kaiserslautern,markus rosenberg,aaron hunt,,,7.0,4.0,0,3.0,1.0,1,1.0,1
+bkjpaC6n/,bkjpaC6n130,130,89,Foul by Sokratis (SV Werder Bremen).,3,,1,Werder Bremen,Kaiserslautern,sokratis,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n131,131,89,Martin Amedick (Kaiserslautern) wins a free kick on the left wing.,8,,2,Kaiserslautern,Werder Bremen,martin amedick,,,,,,0,4.0,,0,,0
+bkjpaC6n/,bkjpaC6n132,132,90,Tim Wiese (SV Werder Bremen) wins a free kick in the defensive half.,8,,1,Werder Bremen,Kaiserslautern,tim wiese,,,,,,0,2.0,,0,,0
+bkjpaC6n/,bkjpaC6n133,133,90,Foul by Rodnei (Kaiserslautern).,3,,2,Kaiserslautern,Werder Bremen,rodnei,,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n134,134,90,Attempt blocked. Ivo Ilicevic (Kaiserslautern) right footed shot from the left side of the box is blocked. Assisted by Konstantinos Fortounis.,1,12.0,2,Kaiserslautern,Werder Bremen,ivo ilicevic,konstantinos fortounis,,,2.0,3.0,0,9.0,1.0,1,1.0,0
+bkjpaC6n/,bkjpaC6n135,135,90,"Corner,  Kaiserslautern. Conceded by Lukas Schmitz.",2,,2,Kaiserslautern,Werder Bremen,lukas schmitz,lukas schmitz,,,,,0,,,0,,0
+bkjpaC6n/,bkjpaC6n136,136,90,Attempt blocked. Olcay Sahan (Kaiserslautern) right footed shot from outside the box is blocked.,1,,2,Kaiserslautern,Werder Bremen,olcay sahan,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+bkjpaC6n/,bkjpaC6n137,137,90,Attempt saved. Rodnei (Kaiserslautern) right footed shot from very close range is saved in the centre of the goal. Assisted by Martin Amedick with a headed pass.,1,12.0,2,Kaiserslautern,Werder Bremen,rodnei,martin amedick,,,5.0,1.0,0,13.0,1.0,3,1.0,0
+CzPV312a/,CzPV312a1,1,2,Bruno Ecuele Manga (Lorient) wins a free kick in the defensive half.,8,,2,Lorient,Paris Saint-Germain,bruno ecuele manga,,,,,,0,2.0,,0,,0
+CzPV312a/,CzPV312a2,2,2,Yann Jouffre (Lorient) wins a free kick on the right wing.,8,,2,Lorient,Paris Saint-Germain,yann jouffre,,,,,,0,5.0,,0,,0
+CzPV312a/,CzPV312a3,3,2,Foul by Blaise Matuidi (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,blaise matuidi,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a4,4,5,Lucas Mareque (Lorient) wins a free kick on the left wing.,8,,2,Lorient,Paris Saint-Germain,lucas mareque,,,,,,0,4.0,,0,,0
+CzPV312a/,CzPV312a5,5,5,Foul by JA©rA©my Menez (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,jeremy menez,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a6,6,8,Attempt blocked. Julien Quercia (Lorient) right footed shot from outside the box is blocked. Assisted by Lucas Mareque.,1,12.0,2,Lorient,Paris Saint-Germain,julien quercia,lucas mareque,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+CzPV312a/,CzPV312a7,7,10,Guillaume Hoarau (Paris Saint Germain) wins a free kick on the right wing.,8,,1,Paris Saint-Germain,Lorient,guillaume hoarau,,,,,,0,5.0,,0,,0
+CzPV312a/,CzPV312a8,8,11,Arnold Mvuemba (Lorient) wins a free kick in the defensive half.,8,,2,Lorient,Paris Saint-Germain,arnold mvuemba,,,,,,0,2.0,,0,,0
+CzPV312a/,CzPV312a9,9,11,Foul by JA©rA©my Menez (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,jeremy menez,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a10,10,11,Attempt missed. KA©vin Monnet-Paquet (Lorient) left footed shot from the left side of the six yard box misses to the right. Assisted by Julien Quercia with a cross.,1,12.0,2,Lorient,Paris Saint-Germain,kevin monnetpaquet,julien quercia,,,9.0,2.0,0,10.0,2.0,2,1.0,0
+CzPV312a/,CzPV312a11,11,11,Attempt saved. Yann Jouffre (Lorient) right footed shot from the centre of the box is saved in the bottom right corner. Assisted by Julien Quercia.,1,12.0,2,Lorient,Paris Saint-Germain,yann jouffre,julien quercia,,,4.0,1.0,0,3.0,1.0,1,1.0,0
+CzPV312a/,CzPV312a12,12,13,KA©vin Monnet-Paquet (Lorient) wins a free kick in the attacking half.,8,,2,Lorient,Paris Saint-Germain,kevin monnetpaquet,,,,,,0,1.0,,0,,0
+CzPV312a/,CzPV312a13,13,13,Foul by Milan Bisevac (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,milan bisevac,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a14,14,15,Foul by Arnold Mvuemba (Lorient).,3,,2,Lorient,Paris Saint-Germain,arnold mvuemba,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a15,15,15,ClA©ment Chantome (Paris Saint Germain) wins a free kick in the attacking half.,8,,1,Paris Saint-Germain,Lorient,clement chantome,,,,,,0,1.0,,0,,0
+CzPV312a/,CzPV312a16,16,15,"Attempt missed. Kevin Gameiro (Paris Saint Germain) right footed shot from outside the box is close, but misses to the left. Assisted by Guillaume Hoarau with a headed pass.",1,12.0,1,Paris Saint-Germain,Lorient,kevin gameiro,guillaume hoarau,,,8.0,2.0,0,15.0,1.0,3,1.0,0
+CzPV312a/,CzPV312a17,17,20,"Offside, Paris Saint Germain. Milan Bisevac tries a through ball, but NenAª is caught offside.",9,13.0,1,Paris Saint-Germain,Lorient,nene,milan bisevac,,,,,0,,,0,,0
+CzPV312a/,CzPV312a18,18,22,Lucas Mareque (Lorient) wins a free kick on the left wing.,8,,2,Lorient,Paris Saint-Germain,lucas mareque,,,,,,0,4.0,,0,,0
+CzPV312a/,CzPV312a19,19,22,Foul by Guillaume Hoarau (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,guillaume hoarau,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a20,20,23,"Offside, Lorient. Yann Jouffre tries a through ball, but Julien Quercia is caught offside.",9,13.0,2,Lorient,Paris Saint-Germain,julien quercia,yann jouffre,,,,,0,,,0,,0
+CzPV312a/,CzPV312a21,21,23,Jacques-Alaixys Romao (Lorient) wins a free kick in the defensive half.,8,,2,Lorient,Paris Saint-Germain,jacquesalaixys romao,,,,,,0,2.0,,0,,0
+CzPV312a/,CzPV312a22,22,23,Foul by JA©rA©my Menez (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,jeremy menez,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a23,23,24,"Corner,  Lorient. Conceded by Mamadou Sakho.",2,,2,Lorient,Paris Saint-Germain,mamadou sakho,mamadou sakho,,,,,0,,,0,,0
+CzPV312a/,CzPV312a24,24,25,Foul by Yann Jouffre (Lorient).,3,,2,Lorient,Paris Saint-Germain,yann jouffre,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a25,25,25,JA©rA©my Menez (Paris Saint Germain) wins a free kick in the defensive half.,8,,1,Paris Saint-Germain,Lorient,jeremy menez,,,,,,0,2.0,,0,,0
+CzPV312a/,CzPV312a26,26,25,Yann Jouffre (Lorient) is shown the yellow card for a bad foul.,4,,2,Lorient,Paris Saint-Germain,yann jouffre,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a27,27,26,Attempt missed. Kevin Gameiro (Paris Saint Germain) header from the centre of the box misses to the left. Assisted by Christophe Jallet with a cross.,1,12.0,1,Paris Saint-Germain,Lorient,kevin gameiro,christophe jallet,,,8.0,2.0,0,3.0,3.0,2,1.0,0
+CzPV312a/,CzPV312a28,28,27,Julien Quercia (Lorient) wins a free kick on the right wing.,8,,2,Lorient,Paris Saint-Germain,julien quercia,,,,,,0,5.0,,0,,0
+CzPV312a/,CzPV312a29,29,27,Foul by Mamadou Sakho (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,mamadou sakho,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a30,30,28,"Goal!  Paris Saint Germain 0, Lorient 1. Julien Quercia (Lorient) right footed shot from the left side of the six yard box to the bottom left corner. Assisted by Yann Jouffre with a cross following a set piece situation.",1,12.0,2,Lorient,Paris Saint-Germain,julien quercia,yann jouffre,,,3.0,1.0,1,10.0,1.0,2,2.0,0
+CzPV312a/,CzPV312a31,31,29,Mathieu Coutadeur (Lorient) wins a free kick on the left wing.,8,,2,Lorient,Paris Saint-Germain,mathieu coutadeur,,,,,,0,4.0,,0,,0
+CzPV312a/,CzPV312a32,32,29,Foul by Christophe Jallet (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,christophe jallet,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a33,33,30,"Offside, Lorient. Mathieu Coutadeur tries a through ball, but Julien Quercia is caught offside.",9,13.0,2,Lorient,Paris Saint-Germain,julien quercia,mathieu coutadeur,,,,,0,,,0,,0
+CzPV312a/,CzPV312a34,34,30,Foul by Lucas Mareque (Lorient).,3,,2,Lorient,Paris Saint-Germain,lucas mareque,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a35,35,30,JA©rA©my Menez (Paris Saint Germain) wins a free kick in the attacking half.,8,,1,Paris Saint-Germain,Lorient,jeremy menez,,,,,,0,1.0,,0,,0
+CzPV312a/,CzPV312a36,36,31,"Offside, Lorient. Lucas Mareque tries a through ball, but Julien Quercia is caught offside.",9,13.0,2,Lorient,Paris Saint-Germain,julien quercia,lucas mareque,,,,,0,,,0,,0
+CzPV312a/,CzPV312a37,37,33,"Offside, Paris Saint Germain. NenAª tries a through ball, but Kevin Gameiro is caught offside.",9,13.0,1,Paris Saint-Germain,Lorient,kevin gameiro,nene,,,,,0,,,0,,0
+CzPV312a/,CzPV312a38,38,35,Yann Jouffre (Lorient) wins a free kick on the right wing.,8,,2,Lorient,Paris Saint-Germain,yann jouffre,,,,,,0,5.0,,0,,0
+CzPV312a/,CzPV312a39,39,35,Foul by ClA©ment Chantome (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,clement chantome,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a40,40,35,ClA©ment Chantome (Paris Saint Germain) is shown the yellow card for a bad foul.,4,,1,Paris Saint-Germain,Lorient,clement chantome,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a41,41,36,"Corner,  Lorient. Conceded by Mamadou Sakho.",2,,2,Lorient,Paris Saint-Germain,mamadou sakho,mamadou sakho,,,,,0,,,0,,0
+CzPV312a/,CzPV312a42,42,37,Attempt missed. NenAª (Paris Saint Germain) left footed shot from the left side of the box is just a bit too high. Assisted by Kevin Gameiro with a through ball.,1,12.0,1,Paris Saint-Germain,Lorient,nene,kevin gameiro,,,1.0,2.0,0,9.0,2.0,4,1.0,0
+CzPV312a/,CzPV312a43,43,38,"Offside, Lorient. Mathieu Coutadeur tries a through ball, but Yann Jouffre is caught offside.",9,13.0,2,Lorient,Paris Saint-Germain,yann jouffre,mathieu coutadeur,,,,,0,,,0,,0
+CzPV312a/,CzPV312a44,44,39,"Corner,  Paris Saint Germain. Conceded by GrA©gory Bourillon.",2,,1,Paris Saint-Germain,Lorient,gra©gory bourillon,gra©gory bourillon,,,,,0,,,0,,0
+CzPV312a/,CzPV312a45,45,42,"Corner,  Paris Saint Germain. Conceded by Bruno Ecuele Manga.",2,,1,Paris Saint-Germain,Lorient,bruno ecuele manga,bruno ecuele manga,,,,,0,,,0,,0
+CzPV312a/,CzPV312a46,46,43,Attempt blocked. NenAª (Paris Saint Germain) left footed shot from outside the box is blocked. Assisted by Christophe Jallet.,1,12.0,1,Paris Saint-Germain,Lorient,nene,christophe jallet,,,2.0,3.0,0,15.0,2.0,1,1.0,0
+CzPV312a/,CzPV312a47,47,45,"Offside, Paris Saint Germain. NenAª tries a through ball, but Guillaume Hoarau is caught offside.",9,13.0,1,Paris Saint-Germain,Lorient,guillaume hoarau,nene,,,,,0,,,0,,0
+CzPV312a/,CzPV312a48,48,45,KA©vin Monnet-Paquet (Lorient) wins a free kick on the right wing.,8,,2,Lorient,Paris Saint-Germain,kevin monnetpaquet,,,,,,0,5.0,,0,,0
+CzPV312a/,CzPV312a49,49,45,Foul by Siaka TiA©nA© (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,siaka tiene,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a50,50,45,Foul by Pedrinho (Lorient).,3,,2,Lorient,Paris Saint-Germain,pedrinho,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a51,51,45,NenAª (Paris Saint Germain) wins a free kick on the left wing.,8,,1,Paris Saint-Germain,Lorient,nene,,,,,,0,4.0,,0,,0
+CzPV312a/,CzPV312a52,52,45,Attempt blocked. Mamadou Sakho (Paris Saint Germain) header from the centre of the box is blocked. Assisted by NenAª with a cross.,1,12.0,1,Paris Saint-Germain,Lorient,mamadou sakho,nene,,,2.0,3.0,0,3.0,3.0,2,1.0,0
+CzPV312a/,CzPV312a53,53,46,Attempt missed. NenAª (Paris Saint Germain) left footed shot from outside the box misses to the right. Assisted by Kevin Gameiro.,1,12.0,1,Paris Saint-Germain,Lorient,nene,kevin gameiro,,,9.0,2.0,0,15.0,2.0,1,1.0,0
+CzPV312a/,CzPV312a54,54,47,Jacques-Alaixys Romao (Lorient) wins a free kick in the defensive half.,8,,2,Lorient,Paris Saint-Germain,jacquesalaixys romao,,,,,,0,2.0,,0,,0
+CzPV312a/,CzPV312a55,55,47,Foul by JA©rA©my Menez (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,jeremy menez,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a56,56,47,"Offside, Paris Saint Germain. Kevin Gameiro tries a through ball, but Guillaume Hoarau is caught offside.",9,13.0,1,Paris Saint-Germain,Lorient,guillaume hoarau,kevin gameiro,,,,,0,,,0,,0
+CzPV312a/,CzPV312a57,57,49,Attempt missed. NenAª (Paris Saint Germain) left footed shot from outside the box is just a bit too high. Assisted by Blaise Matuidi.,1,12.0,1,Paris Saint-Germain,Lorient,nene,blaise matuidi,,,1.0,2.0,0,15.0,2.0,1,1.0,0
+CzPV312a/,CzPV312a58,58,50,"Corner,  Paris Saint Germain. Conceded by Pedrinho.",2,,1,Paris Saint-Germain,Lorient,pedrinho,pedrinho,,,,,0,,,0,,0
+CzPV312a/,CzPV312a59,59,52,Pedrinho (Lorient) wins a free kick on the right wing.,8,,2,Lorient,Paris Saint-Germain,pedrinho,,,,,,0,5.0,,0,,0
+CzPV312a/,CzPV312a60,60,52,Foul by NenAª (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,nene,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a61,61,53,"Corner,  Lorient. Conceded by Mamadou Sakho.",2,,2,Lorient,Paris Saint-Germain,mamadou sakho,mamadou sakho,,,,,0,,,0,,0
+CzPV312a/,CzPV312a62,62,53,Attempt missed. Yann Jouffre (Lorient) left footed shot from outside the box misses to the left. Assisted by Arnold Mvuemba with a headed pass following a corner.,1,12.0,2,Lorient,Paris Saint-Germain,yann jouffre,arnold mvuemba,,,8.0,2.0,0,15.0,2.0,3,3.0,0
+CzPV312a/,CzPV312a63,63,56,"Substitution, Paris Saint Germain. Mathieu Bodmer replaces Guillaume Hoarau.",7,,1,Paris Saint-Germain,Lorient,,,mathieu bodmer,guillaume hoarau,,,0,,,0,,0
+CzPV312a/,CzPV312a64,64,56,Jacques-Alaixys Romao (Lorient) wins a free kick in the defensive half.,8,,2,Lorient,Paris Saint-Germain,jacquesalaixys romao,,,,,,0,2.0,,0,,0
+CzPV312a/,CzPV312a65,65,56,Foul by Mathieu Bodmer (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,mathieu bodmer,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a66,66,57,Yann Jouffre (Lorient) wins a free kick on the right wing.,8,,2,Lorient,Paris Saint-Germain,yann jouffre,,,,,,0,5.0,,0,,0
+CzPV312a/,CzPV312a67,67,57,Foul by Siaka TiA©nA© (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,siaka tiene,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a68,68,58,Attempt saved. Bruno Ecuele Manga (Lorient) right footed shot from outside the box is saved in the bottom right corner.,1,,2,Lorient,Paris Saint-Germain,bruno ecuele manga,,,,4.0,1.0,0,15.0,1.0,0,1.0,0
+CzPV312a/,CzPV312a69,69,60,"Corner,  Lorient. Conceded by Siaka TiA©nA©.",2,,2,Lorient,Paris Saint-Germain,siaka tia©na©,siaka tia©na©,,,,,0,,,0,,0
+CzPV312a/,CzPV312a70,70,60,Attempt blocked. Jacques-Alaixys Romao (Lorient) header from the centre of the box is blocked. Assisted by Yann Jouffre with a cross.,1,12.0,2,Lorient,Paris Saint-Germain,jacquesalaixys romao,yann jouffre,,,2.0,3.0,0,3.0,3.0,2,1.0,0
+CzPV312a/,CzPV312a71,71,60,"Corner,  Lorient. Conceded by ClA©ment Chantome.",2,,2,Lorient,Paris Saint-Germain,cla©ment chantome,cla©ment chantome,,,,,0,,,0,,0
+CzPV312a/,CzPV312a72,72,62,Attempt saved. NenAª (Paris Saint Germain) right footed shot from outside the box is saved in the centre of the goal. Assisted by Blaise Matuidi.,1,12.0,1,Paris Saint-Germain,Lorient,nene,blaise matuidi,,,5.0,1.0,0,15.0,1.0,1,1.0,0
+CzPV312a/,CzPV312a73,73,63,NenAª (Paris Saint Germain) wins a free kick in the attacking half.,8,,1,Paris Saint-Germain,Lorient,nene,,,,,,0,1.0,,0,,0
+CzPV312a/,CzPV312a74,74,64,Mathieu Coutadeur (Lorient) wins a free kick in the defensive half.,8,,2,Lorient,Paris Saint-Germain,mathieu coutadeur,,,,,,0,2.0,,0,,0
+CzPV312a/,CzPV312a75,75,64,Foul by Blaise Matuidi (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,blaise matuidi,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a76,76,65,"Offside, Lorient. Yann Jouffre tries a through ball, but Julien Quercia is caught offside.",9,13.0,2,Lorient,Paris Saint-Germain,julien quercia,yann jouffre,,,,,0,,,0,,0
+CzPV312a/,CzPV312a77,77,66,Foul by Lucas Mareque (Lorient).,3,,2,Lorient,Paris Saint-Germain,lucas mareque,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a78,78,66,Christophe Jallet (Paris Saint Germain) wins a free kick on the right wing.,8,,1,Paris Saint-Germain,Lorient,christophe jallet,,,,,,0,5.0,,0,,0
+CzPV312a/,CzPV312a79,79,67,Yann Jouffre (Lorient) wins a free kick on the left wing.,8,,2,Lorient,Paris Saint-Germain,yann jouffre,,,,,,0,4.0,,0,,0
+CzPV312a/,CzPV312a80,80,67,Foul by Christophe Jallet (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,christophe jallet,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a81,81,69,Mathieu Coutadeur (Lorient) wins a free kick in the attacking half.,8,,2,Lorient,Paris Saint-Germain,mathieu coutadeur,,,,,,0,1.0,,0,,0
+CzPV312a/,CzPV312a82,82,69,Foul by Mamadou Sakho (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,mamadou sakho,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a83,83,70,"Substitution, Lorient. Jeremie Aliadiere replaces KA©vin Monnet-Paquet.",7,,2,Lorient,Paris Saint-Germain,,,kevin monnetpaquet,ka©vin monnetpaquet,,,0,,,0,,0
+CzPV312a/,CzPV312a84,84,70,Arnold Mvuemba (Lorient) hits the bar with a right footed shot from outside the box from a direct free kick.,1,,2,Lorient,Paris Saint-Germain,arnold mvuemba,,,,7.0,4.0,0,15.0,1.0,0,4.0,0
+CzPV312a/,CzPV312a85,85,71,"Substitution, Paris Saint Germain. Jean Christophe Bahebeck replaces JA©rA©my Menez.",7,,1,Paris Saint-Germain,Lorient,,,jeremy menez,ja©ra©my menez,,,0,,,0,,0
+CzPV312a/,CzPV312a86,86,72,Julien Quercia (Lorient) wins a free kick on the left wing.,8,,2,Lorient,Paris Saint-Germain,julien quercia,,,,,,0,4.0,,0,,0
+CzPV312a/,CzPV312a87,87,72,Foul by Christophe Jallet (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,christophe jallet,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a88,88,76,Attempt blocked. Blaise Matuidi (Paris Saint Germain) left footed shot from outside the box is blocked.,1,,1,Paris Saint-Germain,Lorient,blaise matuidi,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+CzPV312a/,CzPV312a89,89,77,"Corner,  Paris Saint Germain. Conceded by Bruno Ecuele Manga.",2,,1,Paris Saint-Germain,Lorient,bruno ecuele manga,bruno ecuele manga,,,,,0,,,0,,0
+CzPV312a/,CzPV312a90,90,77,Attempt saved. Milan Bisevac (Paris Saint Germain) left footed shot from outside the box is saved in the bottom left corner.,1,,1,Paris Saint-Germain,Lorient,milan bisevac,,,,3.0,1.0,0,15.0,2.0,0,1.0,0
+CzPV312a/,CzPV312a91,91,78,Attempt missed. Kevin Gameiro (Paris Saint Germain) right footed shot from outside the box is high and wide to the right. Assisted by Jean Christophe Bahebeck.,1,12.0,1,Paris Saint-Germain,Lorient,kevin gameiro,jean christophe bahebeck,,,6.0,2.0,0,15.0,1.0,1,1.0,0
+CzPV312a/,CzPV312a92,92,78,"Substitution, Lorient. Lynel Kitambala replaces Julien Quercia.",7,,2,Lorient,Paris Saint-Germain,,,lynel kitambala,julien quercia,,,0,,,0,,0
+CzPV312a/,CzPV312a93,93,79,"Offside, Lorient. Jeremie Aliadiere tries a through ball, but KA©vin Monnet-Paquet is caught offside.",9,13.0,2,Lorient,Paris Saint-Germain,kevin monnetpaquet,jeremie aliadiere,,,,,0,,,0,,0
+CzPV312a/,CzPV312a94,94,80,Attempt saved. Arnold Mvuemba (Lorient) left footed shot from outside the box is saved in the bottom right corner. Assisted by Yann Jouffre.,1,12.0,2,Lorient,Paris Saint-Germain,arnold mvuemba,yann jouffre,,,4.0,1.0,0,15.0,2.0,1,1.0,0
+CzPV312a/,CzPV312a95,95,82,"Substitution, Lorient. Maxime Baca replaces Yann Jouffre.",7,,2,Lorient,Paris Saint-Germain,,,maxime baca,yann jouffre,,,0,,,0,,0
+CzPV312a/,CzPV312a96,96,82,"Substitution, Paris Saint Germain. Mevlut Erding replaces Blaise Matuidi.",7,,1,Paris Saint-Germain,Lorient,,,mevlut erdinc,blaise matuidi,,,0,,,0,,0
+CzPV312a/,CzPV312a97,97,82,"Corner,  Paris Saint Germain. Conceded by Jacques-Alaixys Romao.",2,,1,Paris Saint-Germain,Lorient,jacquesalaixys romao,jacquesalaixys romao,,,,,0,,,0,,0
+CzPV312a/,CzPV312a98,98,83,"Corner,  Paris Saint Germain. Conceded by GrA©gory Bourillon.",2,,1,Paris Saint-Germain,Lorient,gra©gory bourillon,gra©gory bourillon,,,,,0,,,0,,0
+CzPV312a/,CzPV312a99,99,84,Foul by Jacques-Alaixys Romao (Lorient).,3,,2,Lorient,Paris Saint-Germain,jacquesalaixys romao,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a100,100,84,Mathieu Bodmer (Paris Saint Germain) wins a free kick on the left wing.,8,,1,Paris Saint-Germain,Lorient,mathieu bodmer,,,,,,0,4.0,,0,,0
+CzPV312a/,CzPV312a101,101,85,Attempt saved. NenAª (Paris Saint Germain) left footed shot from outside the box is saved in the top left corner. Assisted by Christophe Jallet.,1,12.0,1,Paris Saint-Germain,Lorient,nene,christophe jallet,,,12.0,1.0,0,15.0,2.0,1,1.0,0
+CzPV312a/,CzPV312a102,102,85,"Corner,  Paris Saint Germain. Conceded by Fabien Audard.",2,,1,Paris Saint-Germain,Lorient,fabien audard,fabien audard,,,,,0,,,0,,0
+CzPV312a/,CzPV312a103,103,87,"Offside, Paris Saint Germain. NenAª tries a through ball, but Mevlut Erding is caught offside.",9,13.0,1,Paris Saint-Germain,Lorient,mevlut erdinc,nene,,,,,0,,,0,,0
+CzPV312a/,CzPV312a104,104,88,Foul by Arnold Mvuemba (Lorient).,3,,2,Lorient,Paris Saint-Germain,arnold mvuemba,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a105,105,88,Mathieu Bodmer (Paris Saint Germain) wins a free kick in the defensive half.,8,,1,Paris Saint-Germain,Lorient,mathieu bodmer,,,,,,0,2.0,,0,,0
+CzPV312a/,CzPV312a106,106,88,Arnold Mvuemba (Lorient) is shown the yellow card for a bad foul.,4,,2,Lorient,Paris Saint-Germain,arnold mvuemba,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a107,107,89,Foul by Lynel Kitambala (Lorient).,3,,2,Lorient,Paris Saint-Germain,lynel kitambala,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a108,108,89,ClA©ment Chantome (Paris Saint Germain) wins a free kick in the attacking half.,8,,1,Paris Saint-Germain,Lorient,clement chantome,,,,,,0,1.0,,0,,0
+CzPV312a/,CzPV312a109,109,89,Lynel Kitambala (Lorient) is shown the yellow card for a bad foul.,4,,2,Lorient,Paris Saint-Germain,lynel kitambala,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a110,110,89,Jeremie Aliadiere (Lorient) wins a free kick in the defensive half.,8,,2,Lorient,Paris Saint-Germain,jeremie aliadiere,,,,,,0,2.0,,0,,0
+CzPV312a/,CzPV312a111,111,89,Foul by Siaka TiA©nA© (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,siaka tiene,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a112,112,90,Lynel Kitambala (Lorient) wins a free kick on the right wing.,8,,2,Lorient,Paris Saint-Germain,lynel kitambala,,,,,,0,5.0,,0,,0
+CzPV312a/,CzPV312a113,113,90,Foul by NenAª (Paris Saint Germain).,3,,1,Paris Saint-Germain,Lorient,nene,,,,,,0,,,0,,0
+CzPV312a/,CzPV312a114,114,90,"Corner,  Lorient. Conceded by Christophe Jallet.",2,,2,Lorient,Paris Saint-Germain,christophe jallet,christophe jallet,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII1,1,1,Attempt blocked. GrA©gory Pujol (Valenciennes) header from the right side of the six yard box is blocked. Assisted by Mathieu Dossevi with a cross.,1,12.0,2,Valenciennes,Caen,gregory pujol,mathieu dossevi,,,2.0,3.0,0,12.0,3.0,2,1.0,0
+GUOdmtII/,GUOdmtII2,2,2,Attempt missed. Romain Hamouma (Caen) left footed shot from outside the box misses to the right.,1,,1,Caen,Valenciennes,romain hamouma,,,,9.0,2.0,0,15.0,2.0,0,1.0,0
+GUOdmtII/,GUOdmtII3,3,4,Renaud Cohade (Valenciennes) wins a free kick in the attacking half.,8,,2,Valenciennes,Caen,renaud cohade,,,,,,0,1.0,,0,,0
+GUOdmtII/,GUOdmtII4,4,4,Foul by Gregory Proment (Caen).,3,,1,Caen,Valenciennes,gregory proment,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII5,5,5,Foul by Carlos SA¡nchez (Valenciennes).,3,,2,Valenciennes,Caen,carlos sanchez,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII6,6,5,Benjamin Nivet (Caen) wins a free kick in the attacking half.,8,,1,Caen,Valenciennes,benjamin nivet,,,,,,0,1.0,,0,,0
+GUOdmtII/,GUOdmtII7,7,7,Attempt missed. Jerry Van Dam (Caen) left footed shot from the right side of the box is too high. Assisted by Nicolas Seube.,1,12.0,1,Caen,Valenciennes,jerry van dam,nicolas seube,,,10.0,2.0,0,11.0,2.0,1,1.0,0
+GUOdmtII/,GUOdmtII8,8,8,GrA©gory Pujol (Valenciennes) wins a free kick in the attacking half.,8,,2,Valenciennes,Caen,gregory pujol,,,,,,0,1.0,,0,,0
+GUOdmtII/,GUOdmtII9,9,8,Foul by Thomas Heurtaux (Caen).,3,,1,Caen,Valenciennes,thomas heurtaux,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII10,10,16,Benjamin Nivet (Caen) wins a free kick in the attacking half.,8,,1,Caen,Valenciennes,benjamin nivet,,,,,,0,1.0,,0,,0
+GUOdmtII/,GUOdmtII11,11,16,Foul by Isimat Mirin (Valenciennes).,3,,2,Valenciennes,Caen,isimat mirin,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII12,12,17,Foul by Carlos SA¡nchez (Valenciennes).,3,,2,Valenciennes,Caen,carlos sanchez,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII13,13,17,Gregory Proment (Caen) wins a free kick in the attacking half.,8,,1,Caen,Valenciennes,gregory proment,,,,,,0,1.0,,0,,0
+GUOdmtII/,GUOdmtII14,14,17,Carlos SA¡nchez (Valenciennes) is shown the yellow card for a bad foul.,4,,2,Valenciennes,Caen,carlos sanchez,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII15,15,18,Mathieu Dossevi (Valenciennes) wins a free kick on the right wing.,8,,2,Valenciennes,Caen,mathieu dossevi,,,,,,0,5.0,,0,,0
+GUOdmtII/,GUOdmtII16,16,18,Foul by FrA©dA©ric Bulot (Caen).,3,,1,Caen,Valenciennes,frederic bulot,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII17,17,19,"Corner,  Valenciennes. Conceded by Alexandre Raineau.",2,,2,Valenciennes,Caen,alexandre raineau,alexandre raineau,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII18,18,19,Attempt missed. Benjamin Angoua (Valenciennes) header from very close range is too high. Assisted by Mathieu Dossevi with a cross following a corner.,1,12.0,2,Valenciennes,Caen,benjamin angoua,mathieu dossevi,,,10.0,2.0,0,13.0,3.0,2,3.0,0
+GUOdmtII/,GUOdmtII19,19,21,"Corner,  Valenciennes. Conceded by Jerry Van Dam.",2,,2,Valenciennes,Caen,jerry van dam,jerry van dam,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII20,20,21,Alexandre Raineau (Caen) wins a free kick in the defensive half.,8,,1,Caen,Valenciennes,alexandre raineau,,,,,,0,2.0,,0,,0
+GUOdmtII/,GUOdmtII21,21,21,Foul by Renaud Cohade (Valenciennes).,3,,2,Valenciennes,Caen,renaud cohade,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII22,22,25,"Attempt missed. Pierre-Alain Frau (Caen) left footed shot from outside the box is close, but misses the top left corner. Assisted by Gregory Leca.",1,12.0,1,Caen,Valenciennes,pierrealain frau,gregory leca,,,12.0,2.0,0,15.0,2.0,1,1.0,0
+GUOdmtII/,GUOdmtII23,23,25,Foul by Alexandre Raineau (Caen).,3,,1,Caen,Valenciennes,alexandre raineau,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII24,24,25,RA©mi Gomis (Valenciennes) wins a free kick on the right wing.,8,,2,Valenciennes,Caen,remi gomis,,,,,,0,5.0,,0,,0
+GUOdmtII/,GUOdmtII25,25,26,"Corner,  Valenciennes. Conceded by Jerry Van Dam.",2,,2,Valenciennes,Caen,jerry van dam,jerry van dam,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII26,26,27,"Offside, Caen. Romain Hamouma tries a through ball, but FrA©dA©ric Bulot is caught offside.",9,13.0,1,Caen,Valenciennes,frederic bulot,romain hamouma,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII27,27,27,Foul by Alexandre Raineau (Caen).,3,,1,Caen,Valenciennes,alexandre raineau,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII28,28,27,RA©mi Gomis (Valenciennes) wins a free kick in the defensive half.,8,,2,Valenciennes,Caen,remi gomis,,,,,,0,2.0,,0,,0
+GUOdmtII/,GUOdmtII29,29,28,"Corner,  Valenciennes. Conceded by Alexandre Raineau.",2,,2,Valenciennes,Caen,alexandre raineau,alexandre raineau,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII30,30,29,"Attempt missed. Mathieu Dossevi (Valenciennes) header from a difficult angle on the left is close, but misses the top left corner. Assisted by GaA«l Danic with a cross.",1,12.0,2,Valenciennes,Caen,mathieu dossevi,gael danic,,,12.0,2.0,0,7.0,3.0,2,1.0,0
+GUOdmtII/,GUOdmtII31,31,30,"Corner,  Caen. Conceded by Benjamin Angoua.",2,,1,Caen,Valenciennes,benjamin angoua,benjamin angoua,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII32,32,31,Attempt saved. GaA«l Danic (Valenciennes) left footed shot from outside the box is saved in the bottom right corner. Assisted by Mathieu Dossevi.,1,12.0,2,Valenciennes,Caen,gael danic,mathieu dossevi,,,4.0,1.0,0,15.0,2.0,1,1.0,0
+GUOdmtII/,GUOdmtII33,33,33,Attempt blocked. Gregory Proment (Caen) left footed shot from outside the box is blocked. Assisted by Benjamin Nivet.,1,12.0,1,Caen,Valenciennes,gregory proment,benjamin nivet,,,2.0,3.0,0,15.0,2.0,1,1.0,0
+GUOdmtII/,GUOdmtII34,34,33,"Attempt missed. Pierre-Alain Frau (Caen) header from the centre of the box is close, but misses to the left. Assisted by FrA©dA©ric Bulot with a cross.",1,12.0,1,Caen,Valenciennes,pierrealain frau,frederic bulot,,,8.0,2.0,0,3.0,3.0,2,1.0,0
+GUOdmtII/,GUOdmtII35,35,34,"Goal!  Caen 1, Valenciennes 0. Gregory Proment (Caen) right footed shot from outside the box to the top right corner. Assisted by Nicolas Seube.",1,12.0,1,Caen,Valenciennes,gregory proment,nicolas seube,,,13.0,1.0,1,15.0,1.0,1,1.0,0
+GUOdmtII/,GUOdmtII36,36,36,"Offside, Valenciennes. GaA«l Danic tries a through ball, but GrA©gory Pujol is caught offside.",9,13.0,2,Valenciennes,Caen,gregory pujol,gael danic,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII37,37,37,Attempt saved. GaA«l Danic (Valenciennes) header from the centre of the box is saved in the top left corner. Assisted by David Ducourtioux with a cross.,1,12.0,2,Valenciennes,Caen,gael danic,david ducourtioux,,,12.0,1.0,0,3.0,3.0,2,1.0,0
+GUOdmtII/,GUOdmtII38,38,38,"Corner,  Valenciennes. Conceded by Jerry Van Dam.",2,,2,Valenciennes,Caen,jerry van dam,jerry van dam,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII39,39,40,"Attempt missed. Pierre-Alain Frau (Caen) right footed shot from outside the box is close, but misses to the left. Assisted by Romain Hamouma.",1,12.0,1,Caen,Valenciennes,pierrealain frau,romain hamouma,,,8.0,2.0,0,15.0,1.0,1,1.0,0
+GUOdmtII/,GUOdmtII40,40,41,Pierre-Alain Frau (Caen) wins a free kick in the defensive half.,8,,1,Caen,Valenciennes,pierrealain frau,,,,,,0,2.0,,0,,0
+GUOdmtII/,GUOdmtII41,41,41,Foul by Isimat Mirin (Valenciennes).,3,,2,Valenciennes,Caen,isimat mirin,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII42,42,42,Alexandre Raineau (Caen) wins a free kick on the left wing.,8,,1,Caen,Valenciennes,alexandre raineau,,,,,,0,4.0,,0,,0
+GUOdmtII/,GUOdmtII43,43,42,Foul by RA©mi Gomis (Valenciennes).,3,,2,Valenciennes,Caen,remi gomis,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII44,44,42,Hand ball by FrA©dA©ric Bulot (Caen).,10,,1,Caen,Valenciennes,frederic bulot,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII45,45,43,Attempt saved. GaA«tan Bong (Valenciennes) left footed shot from outside the box is saved in the centre of the goal.,1,,2,Valenciennes,Caen,gaetan bong,,,,5.0,1.0,0,15.0,2.0,0,1.0,0
+GUOdmtII/,GUOdmtII46,46,43,Attempt saved. GrA©gory Pujol (Valenciennes) right footed shot from the right side of the six yard box is saved in the bottom right corner.,1,,2,Valenciennes,Caen,gregory pujol,,,,4.0,1.0,0,12.0,1.0,0,1.0,0
+GUOdmtII/,GUOdmtII47,47,45,Foul by Thomas Heurtaux (Caen).,3,,1,Caen,Valenciennes,thomas heurtaux,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII48,48,45,Mathieu Dossevi (Valenciennes) wins a free kick in the attacking half.,8,,2,Valenciennes,Caen,mathieu dossevi,,,,,,0,1.0,,0,,0
+GUOdmtII/,GUOdmtII49,49,45,Attempt missed. Mathieu Dossevi (Valenciennes) right footed shot from the centre of the box is too high following a set piece situation.,1,,2,Valenciennes,Caen,mathieu dossevi,,,,10.0,2.0,0,3.0,1.0,0,2.0,0
+GUOdmtII/,GUOdmtII50,50,48,Attempt blocked. GrA©gory Pujol (Valenciennes) right footed shot from outside the box is blocked. Assisted by RA©mi Gomis.,1,12.0,2,Valenciennes,Caen,gregory pujol,remi gomis,,,2.0,3.0,0,15.0,1.0,1,1.0,0
+GUOdmtII/,GUOdmtII51,51,49,"Offside, Caen. Alexis ThA©baux tries a through ball, but Pierre-Alain Frau is caught offside.",9,13.0,1,Caen,Valenciennes,pierrealain frau,alexis thebaux,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII52,52,52,Attempt saved. Romain Hamouma (Caen) left footed shot from outside the box is saved in the top centre of the goal.,1,,1,Caen,Valenciennes,romain hamouma,,,,11.0,1.0,0,15.0,2.0,0,1.0,0
+GUOdmtII/,GUOdmtII53,53,54,Attempt saved. FrA©dA©ric Bulot (Caen) header from the centre of the box is saved in the centre of the goal. Assisted by Pierre-Alain Frau with a cross.,1,12.0,1,Caen,Valenciennes,frederic bulot,pierrealain frau,,,5.0,1.0,0,3.0,3.0,2,1.0,0
+GUOdmtII/,GUOdmtII54,54,60,"Corner,  Valenciennes. Conceded by Jerry Van Dam.",2,,2,Valenciennes,Caen,jerry van dam,jerry van dam,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII55,55,62,"Corner,  Valenciennes. Conceded by Gregory Leca.",2,,2,Valenciennes,Caen,gregory leca,gregory leca,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII56,56,64,"Corner,  Caen. Conceded by Isimat Mirin.",2,,1,Caen,Valenciennes,isimat mirin,isimat mirin,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII57,57,66,"Corner,  Valenciennes. Conceded by Gregory Proment.",2,,2,Valenciennes,Caen,gregory proment,gregory proment,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII58,58,66,Jerry Van Dam (Caen) wins a free kick in the defensive half.,8,,1,Caen,Valenciennes,jerry van dam,,,,,,0,2.0,,0,,0
+GUOdmtII/,GUOdmtII59,59,66,Foul by Benjamin Angoua (Valenciennes).,3,,2,Valenciennes,Caen,benjamin angoua,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII60,60,67,Attempt saved. GaA«l Danic (Valenciennes) left footed shot from the left side of the box is saved in the bottom right corner. Assisted by Mathieu Dossevi.,1,12.0,2,Valenciennes,Caen,gael danic,mathieu dossevi,,,4.0,1.0,0,9.0,2.0,1,1.0,0
+GUOdmtII/,GUOdmtII61,61,69,"Substitution, Valenciennes. Foued Kadir replaces Mathieu Dossevi.",7,,2,Valenciennes,Caen,,,foued kadir,mathieu dossevi,,,0,,,0,,0
+GUOdmtII/,GUOdmtII62,62,70,Hand ball by Nicolas Seube (Caen).,10,,1,Caen,Valenciennes,nicolas seube,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII63,63,70,"Substitution, Caen. Damien Marcq replaces Gregory Proment.",7,,1,Caen,Valenciennes,,,damien marcq,gregory proment,,,0,,,0,,0
+GUOdmtII/,GUOdmtII64,64,71,Foul by FrA©dA©ric Bulot (Caen).,3,,1,Caen,Valenciennes,frederic bulot,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII65,65,71,Carlos SA¡nchez (Valenciennes) wins a free kick in the defensive half.,8,,2,Valenciennes,Caen,carlos sanchez,,,,,,0,2.0,,0,,0
+GUOdmtII/,GUOdmtII66,66,72,Pierre-Alain Frau (Caen) wins a free kick in the defensive half.,8,,1,Caen,Valenciennes,pierrealain frau,,,,,,0,2.0,,0,,0
+GUOdmtII/,GUOdmtII67,67,72,Foul by Isimat Mirin (Valenciennes).,3,,2,Valenciennes,Caen,isimat mirin,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII68,68,74,Foul by Damien Marcq (Caen).,3,,1,Caen,Valenciennes,damien marcq,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII69,69,74,Benjamin Angoua (Valenciennes) wins a free kick in the attacking half.,8,,2,Valenciennes,Caen,benjamin angoua,,,,,,0,1.0,,0,,0
+GUOdmtII/,GUOdmtII70,70,75,Damien Marcq (Caen) is shown the yellow card for a bad foul.,4,,1,Caen,Valenciennes,damien marcq,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII71,71,77,Nicolas Seube (Caen) wins a free kick in the defensive half.,8,,1,Caen,Valenciennes,nicolas seube,,,,,,0,2.0,,0,,0
+GUOdmtII/,GUOdmtII72,72,77,Foul by Carlos SA¡nchez (Valenciennes).,3,,2,Valenciennes,Caen,carlos sanchez,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII73,73,81,"Substitution, Valenciennes. Mamadou Samassa replaces Renaud Cohade.",7,,2,Valenciennes,Caen,,,mamadou samassa,renaud cohade,,,0,,,0,,0
+GUOdmtII/,GUOdmtII74,74,81,"Substitution, Caen. JA©rA©my Sorbon replaces Jerry Van Dam.",7,,1,Caen,Valenciennes,,,jeremy sorbon,jerry van dam,,,0,,,0,,0
+GUOdmtII/,GUOdmtII75,75,83,JA©rA©my Sorbon (Caen) wins a free kick on the right wing.,8,,1,Caen,Valenciennes,jeremy sorbon,,,,,,0,5.0,,0,,0
+GUOdmtII/,GUOdmtII76,76,83,Nicolas Seube (Caen) wins a free kick on the right wing.,8,,1,Caen,Valenciennes,nicolas seube,,,,,,0,5.0,,0,,0
+GUOdmtII/,GUOdmtII77,77,83,Foul by GaA«l Danic (Valenciennes).,3,,2,Valenciennes,Caen,gael danic,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII78,78,84,Foul by Gregory Leca (Caen).,3,,1,Caen,Valenciennes,gregory leca,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII79,79,84,Mamadou Samassa (Valenciennes) wins a free kick in the attacking half.,8,,2,Valenciennes,Caen,mamadou samassa,,,,,,0,1.0,,0,,0
+GUOdmtII/,GUOdmtII80,80,87,Attempt blocked. FrA©dA©ric Bulot (Caen) left footed shot from outside the box is blocked.,1,,1,Caen,Valenciennes,frederic bulot,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+GUOdmtII/,GUOdmtII81,81,87,"Corner,  Caen. Conceded by David Ducourtioux.",2,,1,Caen,Valenciennes,david ducourtioux,david ducourtioux,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII82,82,88,"Corner,  Valenciennes. Conceded by Damien Marcq.",2,,2,Valenciennes,Caen,damien marcq,damien marcq,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII83,83,88,Attempt blocked. Foued Kadir (Valenciennes) left footed shot from the right side of the box is blocked.,1,,2,Valenciennes,Caen,foued kadir,,,,2.0,3.0,0,11.0,2.0,0,1.0,0
+GUOdmtII/,GUOdmtII84,84,88,"Corner,  Valenciennes. Conceded by Alexandre Raineau.",2,,2,Valenciennes,Caen,alexandre raineau,alexandre raineau,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII85,85,88,Attempt saved. RA©mi Gomis (Valenciennes) header from the centre of the box is saved in the top centre of the goal. Assisted by Foued Kadir with a cross.,1,12.0,2,Valenciennes,Caen,remi gomis,foued kadir,,,11.0,1.0,0,3.0,3.0,2,1.0,0
+GUOdmtII/,GUOdmtII86,86,88,"Corner,  Valenciennes. Conceded by Gregory Leca.",2,,2,Valenciennes,Caen,gregory leca,gregory leca,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII87,87,90,Attempt missed. Romain Hamouma (Caen) right footed shot from outside the box misses to the left. Assisted by Damien Marcq.,1,12.0,1,Caen,Valenciennes,romain hamouma,damien marcq,,,8.0,2.0,0,15.0,1.0,1,1.0,0
+GUOdmtII/,GUOdmtII88,88,90,Foul by Pierre-Alain Frau (Caen).,3,,1,Caen,Valenciennes,pierrealain frau,,,,,,0,,,0,,0
+GUOdmtII/,GUOdmtII89,89,90,GrA©gory Pujol (Valenciennes) wins a free kick in the defensive half.,8,,2,Valenciennes,Caen,gregory pujol,,,,,,0,2.0,,0,,0
+GUOdmtII/,GUOdmtII90,90,90,Pierre-Alain Frau (Caen) is shown the yellow card for a bad foul.,4,,1,Caen,Valenciennes,pierrealain frau,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp1,1,2,Maik Franz (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,maik franz,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp2,2,2,Foul by Tunay Torun (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,tunay torun,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp3,3,2,Foul by Tomas Pekhart (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp4,4,2,Timothy Chandler (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp5,5,3,Pierre-Michel Lasogga (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,pierremichel lasogga,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp6,6,3,Foul by Timmy Simons (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,timmy simons,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp7,7,6,Foul by Andre Mijatovic (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,andre mijatovic,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp8,8,6,Tomas Pekhart (FC Nurnberg) wins a free kick on the right wing.,8,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,5.0,,0,,0
+lOpzwMkp/,lOpzwMkp9,9,7,Hand ball by Tomas Pekhart (FC Nurnberg).,10,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp10,10,7,"Corner,  FC Nurnberg. Conceded by Andre Mijatovic.",2,,2,Nurnberg,Hertha Berlin,andre mijatovic,andre mijatovic,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp11,11,8,Attempt missed. Timm Klose (FC Nurnberg) right footed shot from the centre of the box is too high following a corner.,1,,2,Nurnberg,Hertha Berlin,timm klose,,,,10.0,2.0,0,3.0,1.0,0,3.0,0
+lOpzwMkp/,lOpzwMkp12,12,9,Levan Kobiashvili (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,levan kobiashvili,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp13,13,9,Patrick Ebert (Hertha Berlin) wins a free kick on the right wing.,8,,1,Hertha Berlin,Nurnberg,patrick ebert,,,,,,0,5.0,,0,,0
+lOpzwMkp/,lOpzwMkp14,14,9,Foul by Markus Mendler (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,markus mendler,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp15,15,9,Foul by Javier Pinola (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,javier pinola,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp16,16,10,Attempt missed. Andreas Ottl (Hertha Berlin) right footed shot from outside the box misses to the right following a set piece situation.,1,,1,Hertha Berlin,Nurnberg,andreas ottl,,,,9.0,2.0,0,15.0,1.0,0,2.0,0
+lOpzwMkp/,lOpzwMkp17,17,10,Attempt missed. Markus Mendler (FC Nurnberg) left footed shot from outside the box misses to the right.,1,,2,Nurnberg,Hertha Berlin,markus mendler,,,,9.0,2.0,0,15.0,2.0,0,1.0,0
+lOpzwMkp/,lOpzwMkp18,18,11,Andreas Ottl (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,andreas ottl,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp19,19,11,Foul by Almog Cohen (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,almog cohen,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp20,20,12,Foul by Andreas Ottl (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,andreas ottl,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp21,21,12,Peter Niemeyer (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,peter niemeyer,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp22,22,12,Almog Cohen (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,almog cohen,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp23,23,12,Foul by Markus Feulner (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,markus feulner,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp24,24,14,"Offside, Hertha Berlin. Andreas Ottl tries a through ball, but Pierre-Michel Lasogga is caught offside.",9,13.0,1,Hertha Berlin,Nurnberg,pierremichel lasogga,andreas ottl,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp25,25,15,Levan Kobiashvili (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,levan kobiashvili,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp26,26,15,Foul by Markus Feulner (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,markus feulner,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp27,27,15,Markus Feulner (FC Nurnberg) is shown the yellow card for a bad foul.,4,,2,Nurnberg,Hertha Berlin,markus feulner,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp28,28,17,Andre Mijatovic (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,andre mijatovic,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp29,29,17,Foul by Tomas Pekhart (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp30,30,18,Foul by Tunay Torun (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,tunay torun,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp31,31,18,Timothy Chandler (FC Nurnberg) wins a free kick on the right wing.,8,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,,,0,5.0,,0,,0
+lOpzwMkp/,lOpzwMkp32,32,22,Attempt saved. Christian Eigler (FC Nurnberg) right footed shot from more than 35 yards is saved in the centre of the goal. Assisted by Javier Pinola with a headed pass.,1,12.0,2,Nurnberg,Hertha Berlin,christian eigler,javier pinola,,,5.0,1.0,0,17.0,1.0,3,1.0,0
+lOpzwMkp/,lOpzwMkp33,33,23,Peter Niemeyer (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,peter niemeyer,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp34,34,23,Foul by Philipp Wollscheid (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,philipp wollscheid,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp35,35,25,Foul by Andre Mijatovic (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,andre mijatovic,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp36,36,25,Tomas Pekhart (FC Nurnberg) wins a free kick in the attacking half.,8,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,1.0,,0,,0
+lOpzwMkp/,lOpzwMkp37,37,27,Attempt blocked. Markus Mendler (FC Nurnberg) left footed shot from the right side of the box is blocked. Assisted by Almog Cohen.,1,12.0,2,Nurnberg,Hertha Berlin,markus mendler,almog cohen,,,2.0,3.0,0,11.0,2.0,1,1.0,0
+lOpzwMkp/,lOpzwMkp38,38,28,Levan Kobiashvili (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,levan kobiashvili,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp39,39,28,Foul by Tomas Pekhart (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp40,40,29,"Corner,  FC Nurnberg. Conceded by Andre Mijatovic.",2,,2,Nurnberg,Hertha Berlin,andre mijatovic,andre mijatovic,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp41,41,30,"Corner,  FC Nurnberg. Conceded by Levan Kobiashvili.",2,,2,Nurnberg,Hertha Berlin,levan kobiashvili,levan kobiashvili,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp42,42,32,Foul by Pierre-Michel Lasogga (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,pierremichel lasogga,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp43,43,32,Philipp Wollscheid (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,philipp wollscheid,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp44,44,34,Pierre-Michel Lasogga (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,pierremichel lasogga,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp45,45,34,Foul by Timothy Chandler (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp46,46,36,"Attempt missed. Christian Eigler (FC Nurnberg) right footed shot from outside the box is close, but misses to the left. Assisted by Markus Feulner.",1,12.0,2,Nurnberg,Hertha Berlin,christian eigler,markus feulner,,,8.0,2.0,0,15.0,1.0,1,1.0,0
+lOpzwMkp/,lOpzwMkp47,47,37,Pierre-Michel Lasogga (Hertha Berlin) wins a free kick on the left wing.,8,,1,Hertha Berlin,Nurnberg,pierremichel lasogga,,,,,,0,4.0,,0,,0
+lOpzwMkp/,lOpzwMkp48,48,37,Foul by Adrian Ramos (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,adrian ramos,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp49,49,37,Foul by Timothy Chandler (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp50,50,37,Philipp Wollscheid (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,philipp wollscheid,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp51,51,38,Peter Niemeyer (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,peter niemeyer,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp52,52,38,Hand ball by Markus Mendler (FC Nurnberg).,10,,2,Nurnberg,Hertha Berlin,markus mendler,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp53,53,38,Foul by Markus Mendler (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,markus mendler,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp54,54,39,Peter Niemeyer (Hertha Berlin) wins a free kick on the left wing.,8,,1,Hertha Berlin,Nurnberg,peter niemeyer,,,,,,0,4.0,,0,,0
+lOpzwMkp/,lOpzwMkp55,55,39,Foul by Tomas Pekhart (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp56,56,40,Foul by Peter Niemeyer (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,peter niemeyer,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp57,57,40,Almog Cohen (FC Nurnberg) wins a free kick in the attacking half.,8,,2,Nurnberg,Hertha Berlin,almog cohen,,,,,,0,1.0,,0,,0
+lOpzwMkp/,lOpzwMkp58,58,41,Foul by Levan Kobiashvili (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,levan kobiashvili,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp59,59,41,Timothy Chandler (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp60,60,42,Christian Lell (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,christian lell,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp61,61,42,Foul by Christian Eigler (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,christian eigler,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp62,62,43,Timm Klose (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,timm klose,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp63,63,44,Foul by Adrian Ramos (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,adrian ramos,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp64,64,44,Philipp Wollscheid (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,philipp wollscheid,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp65,65,45,Foul by Andreas Ottl (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,andreas ottl,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp66,66,45,Foul by Peter Niemeyer (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,peter niemeyer,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp67,67,45,Peter Niemeyer (Hertha Berlin) is shown the yellow card.,4,,1,Hertha Berlin,Nurnberg,peter niemeyer,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp68,68,45,"Substitution, Hertha Berlin. Raffael replaces Tunay Torun.",7,,1,Hertha Berlin,Nurnberg,,,raffael,tunay torun,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp69,69,45,Almog Cohen (FC Nurnberg) wins a free kick in the attacking half.,8,,2,Nurnberg,Hertha Berlin,almog cohen,,,,,,0,1.0,,0,,0
+lOpzwMkp/,lOpzwMkp70,70,45,Timothy Chandler (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp71,71,46,Foul by Christian Lell (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,christian lell,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp72,72,46,Foul by Levan Kobiashvili (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,levan kobiashvili,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp73,73,46,Tomas Pekhart (FC Nurnberg) wins a free kick on the left wing.,8,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,4.0,,0,,0
+lOpzwMkp/,lOpzwMkp74,74,46,Markus Mendler (FC Nurnberg) wins a free kick on the right wing.,8,,2,Nurnberg,Hertha Berlin,markus mendler,,,,,,0,5.0,,0,,0
+lOpzwMkp/,lOpzwMkp75,75,47,Foul by Patrick Ebert (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,patrick ebert,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp76,76,47,Christian Eigler (FC Nurnberg) wins a free kick on the left wing.,8,,2,Nurnberg,Hertha Berlin,christian eigler,,,,,,0,4.0,,0,,0
+lOpzwMkp/,lOpzwMkp77,77,48,Attempt blocked. Markus Mendler (FC Nurnberg) left footed shot from outside the box is blocked. Assisted by Tomas Pekhart.,1,12.0,2,Nurnberg,Hertha Berlin,markus mendler,tomas pekhart,,,2.0,3.0,0,15.0,2.0,1,1.0,0
+lOpzwMkp/,lOpzwMkp78,78,48,Attempt saved. Almog Cohen (FC Nurnberg) header from the centre of the box is saved in the centre of the goal.,1,,2,Nurnberg,Hertha Berlin,almog cohen,,,,5.0,1.0,0,3.0,3.0,0,1.0,0
+lOpzwMkp/,lOpzwMkp79,79,49,Maik Franz (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,maik franz,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp80,80,49,Foul by Tomas Pekhart (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp81,81,50,Foul by Peter Niemeyer (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,peter niemeyer,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp82,82,50,Tomas Pekhart (FC Nurnberg) wins a free kick in the attacking half.,8,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,1.0,,0,,0
+lOpzwMkp/,lOpzwMkp83,83,50,Attempt saved. Timmy Simons (FC Nurnberg) header from the centre of the box is saved in the centre of the goal. Assisted by Markus Feulner.,1,12.0,2,Nurnberg,Hertha Berlin,timmy simons,markus feulner,,,5.0,1.0,0,3.0,3.0,1,1.0,0
+lOpzwMkp/,lOpzwMkp84,84,51,Timothy Chandler (FC Nurnberg) wins a free kick on the right wing.,8,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,,,0,5.0,,0,,0
+lOpzwMkp/,lOpzwMkp85,85,52,Foul by Levan Kobiashvili (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,levan kobiashvili,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp86,86,52,Levan Kobiashvili (Hertha Berlin) is shown the yellow card.,4,,1,Hertha Berlin,Nurnberg,levan kobiashvili,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp87,87,52,"Offside, FC Nurnberg. Markus Mendler tries a through ball, but Tomas Pekhart is caught offside.",9,13.0,2,Nurnberg,Hertha Berlin,tomas pekhart,markus mendler,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp88,88,52,Markus Mendler (FC Nurnberg) wins a free kick on the right wing.,8,,2,Nurnberg,Hertha Berlin,markus mendler,,,,,,0,5.0,,0,,0
+lOpzwMkp/,lOpzwMkp89,89,53,Attempt saved. Markus Mendler (FC Nurnberg) left footed shot from long range on the right is saved in the bottom right corner.,1,,2,Nurnberg,Hertha Berlin,markus mendler,,,,4.0,1.0,0,16.0,2.0,0,1.0,0
+lOpzwMkp/,lOpzwMkp90,90,54,Christian Lell (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,christian lell,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp91,91,54,Foul by Tomas Pekhart (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp92,92,58,Attempt saved. Markus Feulner (FC Nurnberg) left footed shot from outside the box is saved in the bottom right corner. Assisted by Timothy Chandler.,1,12.0,2,Nurnberg,Hertha Berlin,markus feulner,timothy chandler,,,4.0,1.0,0,15.0,2.0,1,1.0,0
+lOpzwMkp/,lOpzwMkp93,93,60,Foul by Raffael (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,raffael,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp94,94,60,Philipp Wollscheid (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,philipp wollscheid,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp95,95,61,Attempt saved. Tomas Pekhart (FC Nurnberg) header from the centre of the box is saved in the centre of the goal. Assisted by Christian Eigler with a cross.,1,12.0,2,Nurnberg,Hertha Berlin,tomas pekhart,christian eigler,,,5.0,1.0,0,3.0,3.0,2,1.0,0
+lOpzwMkp/,lOpzwMkp96,96,62,"Offside, Hertha Berlin. Adrian Ramos tries a through ball, but Raffael is caught offside.",9,13.0,1,Hertha Berlin,Nurnberg,raffael,adrian ramos,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp97,97,64,Peter Niemeyer (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,peter niemeyer,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp98,98,64,Foul by Markus Feulner (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,markus feulner,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp99,99,65,Maik Franz (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,maik franz,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp100,100,65,Foul by Tomas Pekhart (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp101,101,66,Adrian Ramos (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,adrian ramos,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp102,102,66,Foul by Timothy Chandler (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp103,103,67,Pierre-Michel Lasogga (Hertha Berlin) wins a free kick on the right wing.,8,,1,Hertha Berlin,Nurnberg,pierremichel lasogga,,,,,,0,5.0,,0,,0
+lOpzwMkp/,lOpzwMkp104,104,67,Foul by Almog Cohen (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,almog cohen,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp105,105,67,Almog Cohen (FC Nurnberg) is shown the yellow card for a bad foul.,4,,2,Nurnberg,Hertha Berlin,almog cohen,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp106,106,68,"Corner,  Hertha Berlin. Conceded by Timm Klose.",2,,1,Hertha Berlin,Nurnberg,timm klose,timm klose,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp107,107,68,Attempt missed. Pierre-Michel Lasogga (Hertha Berlin) right footed shot from the centre of the box is high and wide to the right following a corner.,1,,1,Hertha Berlin,Nurnberg,pierremichel lasogga,,,,6.0,2.0,0,3.0,1.0,0,3.0,0
+lOpzwMkp/,lOpzwMkp108,108,71,"Offside, FC Nurnberg. Timothy Chandler tries a through ball, but Tomas Pekhart is caught offside.",9,13.0,2,Nurnberg,Hertha Berlin,tomas pekhart,timothy chandler,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp109,109,71,"Substitution, FC Nurnberg. Alexander Esswein replaces Christian Eigler.",7,,2,Nurnberg,Hertha Berlin,,,alexander esswein,christian eigler,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp110,110,76,"Substitution, Hertha Berlin. Nikita Rukavytsya replaces Patrick Ebert.",7,,1,Hertha Berlin,Nurnberg,,,nikita rukavytsya,patrick ebert,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp111,111,76,Attempt missed. Timothy Chandler (FC Nurnberg) left footed shot from outside the box misses to the left.,1,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,8.0,2.0,0,15.0,2.0,0,1.0,0
+lOpzwMkp/,lOpzwMkp112,112,77,Foul by Andreas Ottl (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,andreas ottl,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp113,113,77,Almog Cohen (FC Nurnberg) wins a free kick in the attacking half.,8,,2,Nurnberg,Hertha Berlin,almog cohen,,,,,,0,1.0,,0,,0
+lOpzwMkp/,lOpzwMkp114,114,80,"Goal!  Hertha Berlin 0, FC Nurnberg 1. Tomas Pekhart (FC Nurnberg) left footed shot from the centre of the box to the bottom left corner. Assisted by Jens Hegeler.",1,12.0,2,Nurnberg,Hertha Berlin,tomas pekhart,jens hegeler,,,3.0,1.0,1,3.0,2.0,1,1.0,0
+lOpzwMkp/,lOpzwMkp115,115,80,"Substitution, FC Nurnberg. Jens Hegeler replaces Markus Feulner.",7,,2,Nurnberg,Hertha Berlin,,,jens hegeler,markus feulner,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp116,116,83,Foul by Pierre-Michel Lasogga (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,pierremichel lasogga,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp117,117,83,Almog Cohen (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,almog cohen,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp118,118,84,Pierre-Michel Lasogga (Hertha Berlin) wins a free kick on the right wing.,8,,1,Hertha Berlin,Nurnberg,pierremichel lasogga,,,,,,0,5.0,,0,,0
+lOpzwMkp/,lOpzwMkp119,119,84,Foul by Timm Klose (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,timm klose,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp120,120,85,Foul by Levan Kobiashvili (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,levan kobiashvili,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp121,121,85,Timothy Chandler (FC Nurnberg) wins a free kick on the right wing.,8,,2,Nurnberg,Hertha Berlin,timothy chandler,,,,,,0,5.0,,0,,0
+lOpzwMkp/,lOpzwMkp122,122,86,"Corner,  Hertha Berlin. Conceded by Timothy Chandler.",2,,1,Hertha Berlin,Nurnberg,timothy chandler,timothy chandler,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp123,123,87,Attempt missed. Nikita Rukavytsya (Hertha Berlin) left footed shot from outside the box is high and wide to the left following a corner.,1,,1,Hertha Berlin,Nurnberg,nikita rukavytsya,,,,6.0,2.0,0,15.0,2.0,0,3.0,0
+lOpzwMkp/,lOpzwMkp124,124,88,Foul by Nikita Rukavytsya (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,nikita rukavytsya,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp125,125,88,Thomas Kraft (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,thomas kraft,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp126,126,88,Timmy Simons (FC Nurnberg) wins a free kick in the attacking half.,8,,2,Nurnberg,Hertha Berlin,timmy simons,,,,,,0,1.0,,0,,0
+lOpzwMkp/,lOpzwMkp127,127,88,Foul by Tomas Pekhart (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp128,128,89,Foul by Alexander Esswein (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,alexander esswein,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp129,129,89,Alexander Esswein (FC Nurnberg) is shown the yellow card for a bad foul.,4,,2,Nurnberg,Hertha Berlin,alexander esswein,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp130,130,90,Attempt blocked. Levan Kobiashvili (Hertha Berlin) left footed shot from outside the box is blocked.,1,,1,Hertha Berlin,Nurnberg,levan kobiashvili,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+lOpzwMkp/,lOpzwMkp131,131,90,Foul by Adrian Ramos (Hertha Berlin).,3,,1,Hertha Berlin,Nurnberg,adrian ramos,,,,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp132,132,90,Maik Franz (Hertha Berlin) wins a free kick in the defensive half.,8,,1,Hertha Berlin,Nurnberg,maik franz,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp133,133,90,"Substitution, FC Nurnberg. Daniel Didavi replaces Markus Mendler.",7,,2,Nurnberg,Hertha Berlin,,,daniel didavi,markus mendler,,,0,,,0,,0
+lOpzwMkp/,lOpzwMkp134,134,90,Jens Hegeler (FC Nurnberg) wins a free kick in the defensive half.,8,,2,Nurnberg,Hertha Berlin,jens hegeler,,,,,,0,2.0,,0,,0
+lOpzwMkp/,lOpzwMkp135,135,90,Foul by Tomas Pekhart (FC Nurnberg).,3,,2,Nurnberg,Hertha Berlin,tomas pekhart,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C1,1,2,Foul by Fabrice Ehret (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,fabrice ehret,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C2,2,2,Nolan Roux (Brest) wins a free kick on the right wing.,8,,1,Brest,Evian Thonon Gaillard,nolan roux,,,,,,0,5.0,,0,,0
+M7PhlM2C/,M7PhlM2C3,3,2,"Offside, Brest. Ousmane Coulibaly tries a through ball, but Jonathan AyitA© is caught offside.",9,13.0,1,Brest,Evian Thonon Gaillard,jonathan ayite,ousmane coulibaly,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C4,4,4,"Offside, Evian Thonon Gaillard. Sidney Govou tries a through ball, but Youssef Adnane is caught offside.",9,13.0,2,Evian Thonon Gaillard,Brest,youssef adnane,sidney govou,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C5,5,8,Foul by Eric TiA© Bi (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,eric tie bi,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C6,6,8,Nolan Roux (Brest) wins a free kick on the left wing.,8,,1,Brest,Evian Thonon Gaillard,nolan roux,,,,,,0,4.0,,0,,0
+M7PhlM2C/,M7PhlM2C7,7,9,Benoit Lesoimier (Brest) wins a free kick in the attacking half.,8,,1,Brest,Evian Thonon Gaillard,benoit lesoimier,,,,,,0,1.0,,0,,0
+M7PhlM2C/,M7PhlM2C8,8,9,Attempt missed. Bruno Grougi (Brest) right footed shot from outside the box is too high.,1,,1,Brest,Evian Thonon Gaillard,bruno grougi,,,,10.0,2.0,0,15.0,1.0,0,1.0,0
+M7PhlM2C/,M7PhlM2C9,9,11,Foul by CA©dric Cambon (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,cedric cambon,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C10,10,11,Jonathan AyitA© (Brest) wins a free kick in the attacking half.,8,,1,Brest,Evian Thonon Gaillard,jonathan ayite,,,,,,0,1.0,,0,,0
+M7PhlM2C/,M7PhlM2C11,11,12,"Attempt missed. Bruno Grougi (Brest) right footed shot from outside the box is close, but misses to the left. Assisted by Oscar Ewolo from a direct free kick.",1,12.0,1,Brest,Evian Thonon Gaillard,bruno grougi,oscar ewolo,,,8.0,2.0,0,15.0,1.0,1,4.0,0
+M7PhlM2C/,M7PhlM2C12,12,16,Foul by Johan Martial (Brest).,3,,1,Brest,Evian Thonon Gaillard,johan martial,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C13,13,16,Youssef Adnane (Evian Thonon Gaillard) wins a free kick in the defensive half.,8,,2,Evian Thonon Gaillard,Brest,youssef adnane,,,,,,0,2.0,,0,,0
+M7PhlM2C/,M7PhlM2C14,14,16,Eric TiA© Bi (Evian Thonon Gaillard) wins a free kick in the defensive half.,8,,2,Evian Thonon Gaillard,Brest,eric tie bi,,,,,,0,2.0,,0,,0
+M7PhlM2C/,M7PhlM2C15,15,16,Foul by Jonathan AyitA© (Brest).,3,,1,Brest,Evian Thonon Gaillard,jonathan ayite,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C16,16,17,"Corner,  Evian Thonon Gaillard. Conceded by Tripy Makonda.",2,,2,Evian Thonon Gaillard,Brest,tripy makonda,tripy makonda,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C17,17,17,"Goal!  Brest 0, Evian Thonon Gaillard 1. Olivier Sorlin (Evian Thonon Gaillard) right footed shot from the left side of the box to the top left corner following a corner.",1,,2,Evian Thonon Gaillard,Brest,olivier sorlin,,,,12.0,1.0,1,9.0,1.0,0,3.0,0
+M7PhlM2C/,M7PhlM2C18,18,19,"Corner,  Evian Thonon Gaillard. Conceded by Paul Baysse.",2,,2,Evian Thonon Gaillard,Brest,paul baysse,paul baysse,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C19,19,19,Attempt missed. Olivier Sorlin (Evian Thonon Gaillard) right footed shot from outside the box is too high following a corner.,1,,2,Evian Thonon Gaillard,Brest,olivier sorlin,,,,10.0,2.0,0,15.0,1.0,0,3.0,0
+M7PhlM2C/,M7PhlM2C20,20,20,Attempt blocked. Youssef Adnane (Evian Thonon Gaillard) right footed shot from the right side of the box is blocked.,1,,2,Evian Thonon Gaillard,Brest,youssef adnane,,,,2.0,3.0,0,11.0,1.0,0,1.0,0
+M7PhlM2C/,M7PhlM2C21,21,20,"Corner,  Evian Thonon Gaillard. Conceded by Tripy Makonda.",2,,2,Evian Thonon Gaillard,Brest,tripy makonda,tripy makonda,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C22,22,20,"Goal!  Brest 0, Evian Thonon Gaillard 2. Ali Mmadi (Evian Thonon Gaillard) right footed shot from the right side of the box to the bottom left corner. Assisted by Eric TiA© Bi with a through ball.",1,12.0,2,Evian Thonon Gaillard,Brest,ali mmadi,eric tie bi,,,3.0,1.0,1,11.0,1.0,4,1.0,0
+M7PhlM2C/,M7PhlM2C23,23,23,Attempt missed. Jonathan AyitA© (Brest) left footed shot from a difficult angle on the left misses to the left. Assisted by Benoit Lesoimier with a through ball.,1,12.0,1,Brest,Evian Thonon Gaillard,jonathan ayite,benoit lesoimier,,,8.0,2.0,0,7.0,2.0,4,1.0,0
+M7PhlM2C/,M7PhlM2C24,24,23,Foul by Tripy Makonda (Brest).,3,,1,Brest,Evian Thonon Gaillard,tripy makonda,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C25,25,23,Sidney Govou (Evian Thonon Gaillard) wins a free kick on the right wing.,8,,2,Evian Thonon Gaillard,Brest,sidney govou,,,,,,0,5.0,,0,,0
+M7PhlM2C/,M7PhlM2C26,26,24,"Corner,  Evian Thonon Gaillard. Conceded by Steeve Elana.",2,,2,Evian Thonon Gaillard,Brest,steeve elana,steeve elana,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C27,27,24,Attempt blocked. Eric TiA© Bi (Evian Thonon Gaillard) left footed shot from outside the box is blocked.,1,,2,Evian Thonon Gaillard,Brest,eric tie bi,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+M7PhlM2C/,M7PhlM2C28,28,25,"Corner,  Evian Thonon Gaillard. Conceded by Paul Baysse.",2,,2,Evian Thonon Gaillard,Brest,paul baysse,paul baysse,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C29,29,25,Attempt missed. Sidney Govou (Evian Thonon Gaillard) header from the centre of the box misses to the left. Assisted by Ali Mmadi with a cross following a corner.,1,12.0,2,Evian Thonon Gaillard,Brest,sidney govou,ali mmadi,,,8.0,2.0,0,3.0,3.0,2,3.0,0
+M7PhlM2C/,M7PhlM2C30,30,27,Foul by Eric TiA© Bi (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,eric tie bi,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C31,31,27,Jonathan AyitA© (Brest) wins a free kick on the right wing.,8,,1,Brest,Evian Thonon Gaillard,jonathan ayite,,,,,,0,5.0,,0,,0
+M7PhlM2C/,M7PhlM2C32,32,27,"Attempt missed. Paul Baysse (Brest) header from the centre of the box is close, but misses to the left. Assisted by Bruno Grougi with a cross following a set piece situation.",1,12.0,1,Brest,Evian Thonon Gaillard,paul baysse,bruno grougi,,,8.0,2.0,0,3.0,3.0,2,2.0,0
+M7PhlM2C/,M7PhlM2C33,33,28,"Corner,  Evian Thonon Gaillard. Conceded by Johan Martial.",2,,2,Evian Thonon Gaillard,Brest,johan martial,johan martial,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C34,34,28,CA©dric Cambon (Evian Thonon Gaillard) wins a free kick in the defensive half.,8,,2,Evian Thonon Gaillard,Brest,cedric cambon,,,,,,0,2.0,,0,,0
+M7PhlM2C/,M7PhlM2C35,35,29,Foul by Nolan Roux (Brest).,3,,1,Brest,Evian Thonon Gaillard,nolan roux,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C36,36,29,Nolan Roux (Brest) is shown the yellow card for a bad foul.,4,,1,Brest,Evian Thonon Gaillard,nolan roux,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C37,37,29,Benoit Lesoimier (Brest) wins a free kick on the left wing.,8,,1,Brest,Evian Thonon Gaillard,benoit lesoimier,,,,,,0,4.0,,0,,0
+M7PhlM2C/,M7PhlM2C38,38,30,Foul by Jerome Leroy (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,jerome leroy,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C39,39,30,Benoit Lesoimier (Brest) wins a free kick in the attacking half.,8,,1,Brest,Evian Thonon Gaillard,benoit lesoimier,,,,,,0,1.0,,0,,0
+M7PhlM2C/,M7PhlM2C40,40,31,Foul by Aldo Angoula (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,aldo angoula,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C41,41,32,Attempt saved. Jonathan AyitA© (Brest) header from the centre of the box is saved in the top right corner. Assisted by Bruno Grougi with a cross.,1,12.0,1,Brest,Evian Thonon Gaillard,jonathan ayite,bruno grougi,,,13.0,1.0,0,3.0,3.0,2,1.0,0
+M7PhlM2C/,M7PhlM2C42,42,33,Ali Mmadi (Evian Thonon Gaillard) wins a free kick in the defensive half.,8,,2,Evian Thonon Gaillard,Brest,ali mmadi,,,,,,0,2.0,,0,,0
+M7PhlM2C/,M7PhlM2C43,43,33,Foul by Ousmane Coulibaly (Brest).,3,,1,Brest,Evian Thonon Gaillard,ousmane coulibaly,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C44,44,35,Nolan Roux (Brest) wins a free kick on the left wing.,8,,1,Brest,Evian Thonon Gaillard,nolan roux,,,,,,0,4.0,,0,,0
+M7PhlM2C/,M7PhlM2C45,45,35,Aldo Angoula (Evian Thonon Gaillard) is shown the yellow card for a bad foul.,4,,2,Evian Thonon Gaillard,Brest,aldo angoula,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C46,46,35,Benoit Lesoimier (Brest) wins a free kick on the left wing.,8,,1,Brest,Evian Thonon Gaillard,benoit lesoimier,,,,,,0,4.0,,0,,0
+M7PhlM2C/,M7PhlM2C47,47,36,Foul by Sidney Govou (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,sidney govou,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C48,48,36,Attempt missed. Jonathan AyitA© (Brest) right footed shot from outside the box misses to the left. Assisted by Nolan Roux.,1,12.0,1,Brest,Evian Thonon Gaillard,jonathan ayite,nolan roux,,,8.0,2.0,0,15.0,1.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C49,49,36,"Corner,  Evian Thonon Gaillard. Conceded by Ousmane Coulibaly.",2,,2,Evian Thonon Gaillard,Brest,ousmane coulibaly,ousmane coulibaly,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C50,50,37,Foul by CA©dric Cambon (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,cedric cambon,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C51,51,37,Tripy Makonda (Brest) wins a free kick in the defensive half.,8,,1,Brest,Evian Thonon Gaillard,tripy makonda,,,,,,0,2.0,,0,,0
+M7PhlM2C/,M7PhlM2C52,52,38,Jonathan AyitA© (Brest) wins a free kick on the left wing.,8,,1,Brest,Evian Thonon Gaillard,jonathan ayite,,,,,,0,4.0,,0,,0
+M7PhlM2C/,M7PhlM2C53,53,38,Sidney Govou (Evian Thonon Gaillard) is shown the yellow card for a bad foul.,4,,2,Evian Thonon Gaillard,Brest,sidney govou,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C54,54,39,"Goal!  Brest 1, Evian Thonon Gaillard 2. Bruno Grougi (Brest) from a free kick with a right footed shot to the high centre of the goal.",1,,1,Brest,Evian Thonon Gaillard,bruno grougi,,,,,1.0,1,19.0,1.0,0,4.0,0
+M7PhlM2C/,M7PhlM2C55,55,40,Nolan Roux (Brest) wins a free kick on the left wing.,8,,1,Brest,Evian Thonon Gaillard,nolan roux,,,,,,0,4.0,,0,,0
+M7PhlM2C/,M7PhlM2C56,56,40,Foul by Brice Dja DjedjA© (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,brice dja djedje,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C57,57,41,Attempt missed. Jerome Leroy (Evian Thonon Gaillard) left footed shot from outside the box is just a bit too high. Assisted by Eric TiA© Bi with a through ball.,1,12.0,2,Evian Thonon Gaillard,Brest,jerome leroy,eric tie bi,,,1.0,2.0,0,15.0,2.0,4,1.0,0
+M7PhlM2C/,M7PhlM2C58,58,43,"Attempt missed. Nolan Roux (Brest) right footed shot from outside the box is close, but misses to the left. Assisted by Oscar Ewolo.",1,12.0,1,Brest,Evian Thonon Gaillard,nolan roux,oscar ewolo,,,8.0,2.0,0,15.0,1.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C59,59,43,Foul by Johan Martial (Brest).,3,,1,Brest,Evian Thonon Gaillard,johan martial,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C60,60,43,Jerome Leroy (Evian Thonon Gaillard) wins a free kick on the right wing.,8,,2,Evian Thonon Gaillard,Brest,jerome leroy,,,,,,0,5.0,,0,,0
+M7PhlM2C/,M7PhlM2C61,61,45,"Goal!  Brest 2, Evian Thonon Gaillard 2. Benoit Lesoimier (Brest) right footed shot from the centre of the box to the high centre of the goal. Assisted by Romain Poyet.",1,12.0,1,Brest,Evian Thonon Gaillard,benoit lesoimier,romain poyet,,,,1.0,1,3.0,1.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C62,62,46,"Offside, Brest. Bruno Grougi tries a through ball, but Jonathan AyitA© is caught offside.",9,13.0,1,Brest,Evian Thonon Gaillard,jonathan ayite,bruno grougi,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C63,63,47,"Substitution, Evian Thonon Gaillard. Mohammed Rabiu replaces Olivier Sorlin because of an injury.",7,,2,Evian Thonon Gaillard,Brest,,,mohammed rabiu,olivier sorlin,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C64,64,48,Foul by Fabrice Ehret (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,fabrice ehret,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C65,65,48,Romain Poyet (Brest) wins a free kick on the right wing.,8,,1,Brest,Evian Thonon Gaillard,romain poyet,,,,,,0,5.0,,0,,0
+M7PhlM2C/,M7PhlM2C66,66,49,CA©dric Cambon (Evian Thonon Gaillard) wins a free kick in the defensive half.,8,,2,Evian Thonon Gaillard,Brest,cedric cambon,,,,,,0,2.0,,0,,0
+M7PhlM2C/,M7PhlM2C67,67,49,Foul by Paul Baysse (Brest).,3,,1,Brest,Evian Thonon Gaillard,paul baysse,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C68,68,50,Attempt saved. Nolan Roux (Brest) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Romain Poyet.,1,12.0,1,Brest,Evian Thonon Gaillard,nolan roux,romain poyet,,,5.0,1.0,0,3.0,2.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C69,69,52,"Corner,  Brest. Conceded by Fabrice Ehret.",2,,1,Brest,Evian Thonon Gaillard,fabrice ehret,fabrice ehret,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C70,70,52,"Corner,  Brest. Conceded by Brice Dja DjedjA©.",2,,1,Brest,Evian Thonon Gaillard,brice dja djedja©,brice dja djedja©,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C71,71,53,Attempt saved. Jonathan AyitA© (Brest) right footed shot from the centre of the box is saved in the bottom left corner.,1,,1,Brest,Evian Thonon Gaillard,jonathan ayite,,,,3.0,1.0,0,3.0,1.0,0,1.0,0
+M7PhlM2C/,M7PhlM2C72,72,55,"Attempt missed. Ousmane Coulibaly (Brest) right footed shot from the right side of the box is close, but misses to the right. Assisted by Paul Baysse.",1,12.0,1,Brest,Evian Thonon Gaillard,ousmane coulibaly,paul baysse,,,9.0,2.0,0,11.0,1.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C73,73,58,Foul by Bruno Grougi (Brest).,3,,1,Brest,Evian Thonon Gaillard,bruno grougi,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C74,74,58,Sidney Govou (Evian Thonon Gaillard) wins a free kick in the attacking half.,8,,2,Evian Thonon Gaillard,Brest,sidney govou,,,,,,0,1.0,,0,,0
+M7PhlM2C/,M7PhlM2C75,75,59,"Substitution, Evian Thonon Gaillard. KA©vin Berigaud replaces Youssef Adnane.",7,,2,Evian Thonon Gaillard,Brest,,,kevin berigaud,youssef adnane,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C76,76,60,Foul by Aldo Angoula (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,aldo angoula,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C77,77,60,Nolan Roux (Brest) wins a free kick on the left wing.,8,,1,Brest,Evian Thonon Gaillard,nolan roux,,,,,,0,4.0,,0,,0
+M7PhlM2C/,M7PhlM2C78,78,61,"Corner,  Brest. Conceded by Fabrice Ehret.",2,,1,Brest,Evian Thonon Gaillard,fabrice ehret,fabrice ehret,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C79,79,61,Attempt blocked. Ousmane Coulibaly (Brest) left footed shot from outside the box is blocked.,1,,1,Brest,Evian Thonon Gaillard,ousmane coulibaly,,,,2.0,3.0,0,15.0,2.0,0,1.0,0
+M7PhlM2C/,M7PhlM2C80,80,62,"Attempt missed. Johan Martial (Brest) left footed shot from the centre of the box is close, but misses to the left.",1,,1,Brest,Evian Thonon Gaillard,johan martial,,,,8.0,2.0,0,3.0,2.0,0,1.0,0
+M7PhlM2C/,M7PhlM2C81,81,63,"Corner,  Brest. Conceded by Fabrice Ehret.",2,,1,Brest,Evian Thonon Gaillard,fabrice ehret,fabrice ehret,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C82,82,63,Attempt blocked. Johan Martial (Brest) right footed shot from outside the box is blocked.,1,,1,Brest,Evian Thonon Gaillard,johan martial,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+M7PhlM2C/,M7PhlM2C83,83,64,"Corner,  Brest. Conceded by CA©dric Cambon.",2,,1,Brest,Evian Thonon Gaillard,ca©dric cambon,ca©dric cambon,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C84,84,65,"Substitution, Brest. Jhon Culma Jairo replaces Oscar Ewolo.",7,,1,Brest,Evian Thonon Gaillard,,,jhon culma jairo,oscar ewolo,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C85,85,67,Attempt missed. Nolan Roux (Brest) right footed shot from the centre of the box is high and wide to the left. Assisted by Jonathan AyitA© with a cross.,1,12.0,1,Brest,Evian Thonon Gaillard,nolan roux,jonathan ayite,,,6.0,2.0,0,3.0,1.0,2,1.0,0
+M7PhlM2C/,M7PhlM2C86,86,71,Attempt saved. Nolan Roux (Brest) right footed shot from the right side of the box is saved in the bottom right corner. Assisted by Romain Poyet.,1,12.0,1,Brest,Evian Thonon Gaillard,nolan roux,romain poyet,,,4.0,1.0,0,11.0,1.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C87,87,71,Attempt missed. Benoit Lesoimier (Brest) left footed shot from outside the box misses to the right. Assisted by Romain Poyet.,1,12.0,1,Brest,Evian Thonon Gaillard,benoit lesoimier,romain poyet,,,9.0,2.0,0,15.0,2.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C88,88,73,Attempt blocked. Jonathan AyitA© (Brest) right footed shot from the right side of the box is blocked. Assisted by Benoit Lesoimier.,1,12.0,1,Brest,Evian Thonon Gaillard,jonathan ayite,benoit lesoimier,,,2.0,3.0,0,11.0,1.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C89,89,73,"Offside, Brest. Romain Poyet tries a through ball, but Jonathan AyitA© is caught offside.",9,13.0,1,Brest,Evian Thonon Gaillard,jonathan ayite,romain poyet,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C90,90,73,Foul by Jerome Leroy (Evian Thonon Gaillard).,3,,2,Evian Thonon Gaillard,Brest,jerome leroy,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C91,91,73,Ousmane Coulibaly (Brest) wins a free kick in the defensive half.,8,,1,Brest,Evian Thonon Gaillard,ousmane coulibaly,,,,,,0,2.0,,0,,0
+M7PhlM2C/,M7PhlM2C92,92,75,Attempt missed. Jonathan AyitA© (Brest) header from the centre of the box is just a bit too high. Assisted by Tripy Makonda with a cross.,1,12.0,1,Brest,Evian Thonon Gaillard,jonathan ayite,tripy makonda,,,1.0,2.0,0,3.0,3.0,2,1.0,0
+M7PhlM2C/,M7PhlM2C93,93,76,"Substitution, Brest. Eden Ben Basat replaces Jonathan AyitA©.",7,,1,Brest,Evian Thonon Gaillard,,,jonathan ayite,jonathan ayita©,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C94,94,78,Attempt blocked. Romain Poyet (Brest) right footed shot from the right side of the box is blocked. Assisted by Eden Ben Basat.,1,12.0,1,Brest,Evian Thonon Gaillard,romain poyet,eden ben basat,,,2.0,3.0,0,11.0,1.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C95,95,78,"Corner,  Brest. Conceded by Fabrice Ehret.",2,,1,Brest,Evian Thonon Gaillard,fabrice ehret,fabrice ehret,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C96,96,78,Attempt missed. Johan Martial (Brest) header from the centre of the box misses to the right. Assisted by Bruno Grougi with a cross following a corner.,1,12.0,1,Brest,Evian Thonon Gaillard,johan martial,bruno grougi,,,9.0,2.0,0,3.0,3.0,2,3.0,0
+M7PhlM2C/,M7PhlM2C97,97,78,Attempt saved. Nolan Roux (Brest) right footed shot from the left side of the box is saved in the centre of the goal. Assisted by Paul Baysse.,1,12.0,1,Brest,Evian Thonon Gaillard,nolan roux,paul baysse,,,5.0,1.0,0,9.0,1.0,1,1.0,0
+M7PhlM2C/,M7PhlM2C98,98,79,"Corner,  Brest. Conceded by Quentin Westberg.",2,,1,Brest,Evian Thonon Gaillard,quentin westberg,quentin westberg,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C99,99,80,"Corner,  Brest. Conceded by Brice Dja DjedjA©.",2,,1,Brest,Evian Thonon Gaillard,brice dja djedja©,brice dja djedja©,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C100,100,82,"Corner,  Brest. Conceded by CA©dric Cambon.",2,,1,Brest,Evian Thonon Gaillard,ca©dric cambon,ca©dric cambon,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C101,101,83,"Substitution, Brest. Mario Licka replaces Romain Poyet.",7,,1,Brest,Evian Thonon Gaillard,,,mario licka,romain poyet,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C102,102,84,"Corner,  Brest. Conceded by Mohammed Rabiu.",2,,1,Brest,Evian Thonon Gaillard,mohammed rabiu,mohammed rabiu,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C103,103,85,"Corner,  Brest. Conceded by Fabrice Ehret.",2,,1,Brest,Evian Thonon Gaillard,fabrice ehret,fabrice ehret,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C104,104,86,Jerome Leroy (Evian Thonon Gaillard) wins a free kick in the attacking half.,8,,2,Evian Thonon Gaillard,Brest,jerome leroy,,,,,,0,1.0,,0,,0
+M7PhlM2C/,M7PhlM2C105,105,86,Foul by Jhon Culma Jairo (Brest).,3,,1,Brest,Evian Thonon Gaillard,jhon culma jairo,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C106,106,86,Jhon Culma Jairo (Brest) is shown the yellow card for a bad foul.,4,,1,Brest,Evian Thonon Gaillard,jhon culma jairo,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C107,107,87,Attempt saved. Aldo Angoula (Evian Thonon Gaillard) right footed shot from the centre of the box is saved in the bottom left corner. Assisted by Mohammed Rabiu with a headed pass.,1,12.0,2,Evian Thonon Gaillard,Brest,aldo angoula,mohammed rabiu,,,3.0,1.0,0,3.0,1.0,3,1.0,0
+M7PhlM2C/,M7PhlM2C108,108,88,"Substitution, Evian Thonon Gaillard. Guillaume Rippert replaces Ali Mmadi.",7,,2,Evian Thonon Gaillard,Brest,,,guillaume rippert,ali mmadi,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C109,109,90,"Offside, Evian Thonon Gaillard. Fabrice Ehret tries a through ball, but KA©vin Berigaud is caught offside.",9,13.0,2,Evian Thonon Gaillard,Brest,kevin berigaud,fabrice ehret,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C110,110,90,Jerome Leroy (Evian Thonon Gaillard) wins a free kick on the left wing.,8,,2,Evian Thonon Gaillard,Brest,jerome leroy,,,,,,0,4.0,,0,,0
+M7PhlM2C/,M7PhlM2C111,111,90,"Corner,  Evian Thonon Gaillard. Conceded by Benoit Lesoimier.",2,,2,Evian Thonon Gaillard,Brest,benoit lesoimier,benoit lesoimier,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C112,112,90,Attempt missed. Jerome Leroy (Evian Thonon Gaillard) right footed shot from outside the box misses to the right following a corner.,1,,2,Evian Thonon Gaillard,Brest,jerome leroy,,,,9.0,2.0,0,15.0,1.0,0,3.0,0
+M7PhlM2C/,M7PhlM2C113,113,90,Foul by Jhon Culma Jairo (Brest).,3,,1,Brest,Evian Thonon Gaillard,jhon culma jairo,,,,,,0,,,0,,0
+M7PhlM2C/,M7PhlM2C114,114,90,Aldo Angoula (Evian Thonon Gaillard) wins a free kick in the defensive half.,8,,2,Evian Thonon Gaillard,Brest,aldo angoula,,,,,,0,2.0,,0,,0
+M7PhlM2C/,M7PhlM2C115,115,90,Foul by Eden Ben Basat (Brest).,3,,1,Brest,Evian Thonon Gaillard,eden ben basat,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa1,1,1,"Offside, Ajaccio. Yoann Poulard tries a through ball, but Richard Socrier is caught offside.",9,13.0,1,AC Ajaccio,Toulouse,richard socrier,yoann poulard,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa2,2,2,Fabrice Begeorgi (Ajaccio) wins a free kick on the left wing.,8,,1,AC Ajaccio,Toulouse,fabrice begeorgi,,,,,,0,4.0,,0,,0
+QuWqjrYa/,QuWqjrYa3,3,2,Foul by Daniel Congre (Toulouse).,3,,2,Toulouse,AC Ajaccio,daniel congre,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa4,4,3,Attempt saved. Frederic Sammaritano (Ajaccio) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Mehdi Mostefa with a cross.,1,12.0,1,AC Ajaccio,Toulouse,frederic sammaritano,mehdi mostefa,,,5.0,1.0,0,3.0,1.0,2,1.0,0
+QuWqjrYa/,QuWqjrYa5,5,5,Foul by Richard Socrier (Ajaccio).,3,,1,AC Ajaccio,Toulouse,richard socrier,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa6,6,5,Aymen Abdennour (Toulouse) wins a free kick in the defensive half.,8,,2,Toulouse,AC Ajaccio,aymen abdennour,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa7,7,7,Foul by Richard Socrier (Ajaccio).,3,,1,AC Ajaccio,Toulouse,richard socrier,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa8,8,7,Antoine Devaux (Toulouse) wins a free kick in the defensive half.,8,,2,Toulouse,AC Ajaccio,antoine devaux,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa9,9,10,Fabrice Begeorgi (Ajaccio) wins a free kick in the defensive half.,8,,1,AC Ajaccio,Toulouse,fabrice begeorgi,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa10,10,10,Foul by MickaA«l Firmin (Toulouse).,3,,2,Toulouse,AC Ajaccio,mickael firmin,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa11,11,14,"Corner,  Toulouse. Conceded by Mehdi Mostefa.",2,,2,Toulouse,AC Ajaccio,mehdi mostefa,mehdi mostefa,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa12,12,15,"Corner,  Toulouse. Conceded by Mehdi Mostefa.",2,,2,Toulouse,AC Ajaccio,mehdi mostefa,mehdi mostefa,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa13,13,15,Frederic Sammaritano (Ajaccio) wins a free kick in the defensive half.,8,,1,AC Ajaccio,Toulouse,frederic sammaritano,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa14,14,15,Foul by Franck Tabanou (Toulouse).,3,,2,Toulouse,AC Ajaccio,franck tabanou,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa15,15,16,Attempt blocked. Johan Cavalli (Ajaccio) left footed shot from outside the box is blocked. Assisted by Christian Kinkela.,1,12.0,1,AC Ajaccio,Toulouse,johan cavalli,christian kinkela,,,2.0,3.0,0,15.0,2.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa16,16,16,"Corner,  Ajaccio. Conceded by Mohamed Fofana.",2,,1,AC Ajaccio,Toulouse,mohamed fofana,mohamed fofana,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa17,17,16,Attempt missed. Mehdi Mostefa (Ajaccio) header from the right side of the six yard box is high and wide to the right. Assisted by Christian Kinkela with a cross following a corner.,1,12.0,1,AC Ajaccio,Toulouse,mehdi mostefa,christian kinkela,,,6.0,2.0,0,12.0,3.0,2,3.0,0
+QuWqjrYa/,QuWqjrYa18,18,17,Carl Medjani (Ajaccio) wins a free kick in the defensive half.,8,,1,AC Ajaccio,Toulouse,carl medjani,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa19,19,17,Foul by Umut Bulut (Toulouse).,3,,2,Toulouse,AC Ajaccio,umut bulut,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa20,20,18,Fabrice Begeorgi (Ajaccio) wins a free kick in the defensive half.,8,,1,AC Ajaccio,Toulouse,fabrice begeorgi,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa21,21,18,Foul by Moussa Sissoko (Toulouse).,3,,2,Toulouse,AC Ajaccio,moussa sissoko,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa22,22,20,Foul by Christian Kinkela (Ajaccio).,3,,1,AC Ajaccio,Toulouse,christian kinkela,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa23,23,20,Daniel Congre (Toulouse) wins a free kick in the defensive half.,8,,2,Toulouse,AC Ajaccio,daniel congre,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa24,24,20,Benjamin Andre (Ajaccio) wins a free kick in the defensive half.,8,,1,AC Ajaccio,Toulouse,benjamin andre,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa25,25,20,Foul by Moussa Sissoko (Toulouse).,3,,2,Toulouse,AC Ajaccio,moussa sissoko,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa26,26,22,"Corner,  Toulouse. Conceded by Mehdi Mostefa.",2,,2,Toulouse,AC Ajaccio,mehdi mostefa,mehdi mostefa,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa27,27,22,Attempt saved. Antoine Devaux (Toulouse) header from the left side of the six yard box is saved in the top centre of the goal. Assisted by Paulo Machado with a cross.,1,12.0,2,Toulouse,AC Ajaccio,antoine devaux,paulo machado,,,11.0,1.0,0,10.0,3.0,2,1.0,0
+QuWqjrYa/,QuWqjrYa28,28,23,Yoann Poulard (Ajaccio) wins a free kick in the defensive half.,8,,1,AC Ajaccio,Toulouse,yoann poulard,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa29,29,23,Foul by Umut Bulut (Toulouse).,3,,2,Toulouse,AC Ajaccio,umut bulut,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa30,30,24,Fabrice Begeorgi (Ajaccio) wins a free kick on the left wing.,8,,1,AC Ajaccio,Toulouse,fabrice begeorgi,,,,,,0,4.0,,0,,0
+QuWqjrYa/,QuWqjrYa31,31,24,Foul by Paulo Machado (Toulouse).,3,,2,Toulouse,AC Ajaccio,paulo machado,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa32,32,26,"Corner,  Ajaccio. Conceded by Cheikh Mbengue.",2,,1,AC Ajaccio,Toulouse,cheikh mbengue,cheikh mbengue,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa33,33,26,Attempt missed. Jean-Baptiste Pierazzi (Ajaccio) right footed shot from the centre of the box is too high following a corner.,1,,1,AC Ajaccio,Toulouse,jeanbaptiste pierazzi,,,,10.0,2.0,0,3.0,1.0,0,3.0,0
+QuWqjrYa/,QuWqjrYa34,34,27,"Corner,  Ajaccio. Conceded by Aymen Abdennour.",2,,1,AC Ajaccio,Toulouse,aymen abdennour,aymen abdennour,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa35,35,27,Attempt missed. Yoann Poulard (Ajaccio) header from the centre of the box misses to the left. Assisted by Christian Kinkela with a cross following a corner.,1,12.0,1,AC Ajaccio,Toulouse,yoann poulard,christian kinkela,,,8.0,2.0,0,3.0,3.0,2,3.0,0
+QuWqjrYa/,QuWqjrYa36,36,30,Hand ball by Paulo Machado (Toulouse).,10,,2,Toulouse,AC Ajaccio,paulo machado,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa37,37,30,"Corner,  Ajaccio. Conceded by Cheikh Mbengue.",2,,1,AC Ajaccio,Toulouse,cheikh mbengue,cheikh mbengue,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa38,38,31,"Offside, Ajaccio. Fabrice Begeorgi tries a through ball, but Christian Kinkela is caught offside.",9,13.0,1,AC Ajaccio,Toulouse,christian kinkela,fabrice begeorgi,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa39,39,32,Foul by Johan Cavalli (Ajaccio).,3,,1,AC Ajaccio,Toulouse,johan cavalli,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa40,40,32,Antoine Devaux (Toulouse) wins a free kick in the defensive half.,8,,2,Toulouse,AC Ajaccio,antoine devaux,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa41,41,33,Daniel Congre (Toulouse) wins a free kick in the defensive half.,8,,2,Toulouse,AC Ajaccio,daniel congre,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa42,42,33,Johan Cavalli (Ajaccio) is shown the yellow card for a bad foul.,4,,1,AC Ajaccio,Toulouse,johan cavalli,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa43,43,36,Attempt blocked. Jean-Baptiste Pierazzi (Ajaccio) right footed shot from outside the box is blocked.,1,,1,AC Ajaccio,Toulouse,jeanbaptiste pierazzi,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+QuWqjrYa/,QuWqjrYa44,44,36,"Corner,  Ajaccio. Conceded by Antoine Devaux.",2,,1,AC Ajaccio,Toulouse,antoine devaux,antoine devaux,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa45,45,37,Attempt missed. Mehdi Mostefa (Ajaccio) header from the centre of the box is high and wide to the right. Assisted by Johan Cavalli with a cross following a corner.,1,12.0,1,AC Ajaccio,Toulouse,mehdi mostefa,johan cavalli,,,6.0,2.0,0,3.0,3.0,2,3.0,0
+QuWqjrYa/,QuWqjrYa46,46,37,Foul by Carl Medjani (Ajaccio).,3,,1,AC Ajaccio,Toulouse,carl medjani,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa47,47,37,Umut Bulut (Toulouse) wins a free kick in the attacking half.,8,,2,Toulouse,AC Ajaccio,umut bulut,,,,,,0,1.0,,0,,0
+QuWqjrYa/,QuWqjrYa48,48,38,"Corner,  Ajaccio. Conceded by Cheikh Mbengue.",2,,1,AC Ajaccio,Toulouse,cheikh mbengue,cheikh mbengue,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa49,49,39,Attempt saved. Carl Medjani (Ajaccio) header from the centre of the box is saved in the centre of the goal. Assisted by Christian Kinkela with a cross.,1,12.0,1,AC Ajaccio,Toulouse,carl medjani,christian kinkela,,,5.0,1.0,0,3.0,3.0,2,1.0,0
+QuWqjrYa/,QuWqjrYa50,50,39,Attempt blocked. Frederic Sammaritano (Ajaccio) right footed shot from outside the box is blocked.,1,,1,AC Ajaccio,Toulouse,frederic sammaritano,,,,2.0,3.0,0,15.0,1.0,0,1.0,0
+QuWqjrYa/,QuWqjrYa51,51,39,Fabrice Begeorgi (Ajaccio) wins a free kick in the defensive half.,8,,1,AC Ajaccio,Toulouse,fabrice begeorgi,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa52,52,39,Foul by Moussa Sissoko (Toulouse).,3,,2,Toulouse,AC Ajaccio,moussa sissoko,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa53,53,41,Attempt saved. MickaA«l Firmin (Toulouse) right footed shot from outside the box is saved in the top left corner.,1,,2,Toulouse,AC Ajaccio,mickael firmin,,,,12.0,1.0,0,15.0,1.0,0,1.0,0
+QuWqjrYa/,QuWqjrYa54,54,43,Attempt missed. Umut Bulut (Toulouse) right footed shot from the centre of the box is high and wide to the right. Assisted by Daniel Congre with a cross.,1,12.0,2,Toulouse,AC Ajaccio,umut bulut,daniel congre,,,6.0,2.0,0,3.0,1.0,2,1.0,0
+QuWqjrYa/,QuWqjrYa55,55,43,Foul by Richard Socrier (Ajaccio).,3,,1,AC Ajaccio,Toulouse,richard socrier,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa56,56,43,Franck Tabanou (Toulouse) wins a free kick in the defensive half.,8,,2,Toulouse,AC Ajaccio,franck tabanou,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa57,57,44,Foul by Fabrice Begeorgi (Ajaccio).,3,,1,AC Ajaccio,Toulouse,fabrice begeorgi,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa58,58,44,Paulo Machado (Toulouse) wins a free kick on the right wing.,8,,2,Toulouse,AC Ajaccio,paulo machado,,,,,,0,5.0,,0,,0
+QuWqjrYa/,QuWqjrYa59,59,45,"Goal!  Ajaccio 0, Toulouse 1. Antoine Devaux (Toulouse) header from the centre of the box to the bottom left corner. Assisted by Franck Tabanou with a cross following a set piece situation.",1,12.0,2,Toulouse,AC Ajaccio,antoine devaux,franck tabanou,,,3.0,1.0,1,3.0,3.0,2,2.0,0
+QuWqjrYa/,QuWqjrYa60,60,47,Attempt missed. Frederic Sammaritano (Ajaccio) left footed shot from the left side of the box is high and wide to the left. Assisted by Johan Cavalli.,1,12.0,1,AC Ajaccio,Toulouse,frederic sammaritano,johan cavalli,,,6.0,2.0,0,9.0,2.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa61,61,49,"Offside, Toulouse. Umut Bulut tries a through ball, but Franck Tabanou is caught offside.",9,13.0,2,Toulouse,AC Ajaccio,franck tabanou,umut bulut,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa62,62,50,Benjamin Andre (Ajaccio) wins a free kick on the right wing.,8,,1,AC Ajaccio,Toulouse,benjamin andre,,,,,,0,5.0,,0,,0
+QuWqjrYa/,QuWqjrYa63,63,50,Foul by Cheikh Mbengue (Toulouse).,3,,2,Toulouse,AC Ajaccio,cheikh mbengue,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa64,64,51,"Corner,  Ajaccio. Conceded by Antoine Devaux.",2,,1,AC Ajaccio,Toulouse,antoine devaux,antoine devaux,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa65,65,51,"Corner,  Ajaccio. Conceded by Paulo Machado.",2,,1,AC Ajaccio,Toulouse,paulo machado,paulo machado,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa66,66,52,Christian Kinkela (Ajaccio) wins a free kick on the right wing.,8,,1,AC Ajaccio,Toulouse,christian kinkela,,,,,,0,5.0,,0,,0
+QuWqjrYa/,QuWqjrYa67,67,52,Foul by Moussa Sissoko (Toulouse).,3,,2,Toulouse,AC Ajaccio,moussa sissoko,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa68,68,52,Moussa Sissoko (Toulouse) is shown the yellow card for a bad foul.,4,,2,Toulouse,AC Ajaccio,moussa sissoko,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa69,69,53,"Corner,  Ajaccio. Conceded by Mohamed Fofana.",2,,1,AC Ajaccio,Toulouse,mohamed fofana,mohamed fofana,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa70,70,54,"Attempt missed. Paulo Machado (Toulouse) right footed shot from outside the box is close, but misses to the right. Assisted by Franck Tabanou following a fast break.",1,12.0,2,Toulouse,AC Ajaccio,paulo machado,franck tabanou,,,9.0,2.0,0,15.0,1.0,1,1.0,1
+QuWqjrYa/,QuWqjrYa71,71,55,Foul by Jean-Baptiste Pierazzi (Ajaccio).,3,,1,AC Ajaccio,Toulouse,jeanbaptiste pierazzi,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa72,72,55,Antoine Devaux (Toulouse) wins a free kick in the defensive half.,8,,2,Toulouse,AC Ajaccio,antoine devaux,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa73,73,58,Attempt saved. Franck Tabanou (Toulouse) left footed shot from outside the box is saved in the top left corner.,1,,2,Toulouse,AC Ajaccio,franck tabanou,,,,12.0,1.0,0,15.0,2.0,0,1.0,0
+QuWqjrYa/,QuWqjrYa74,74,58,"Corner,  Toulouse. Conceded by Yoann Poulard.",2,,2,Toulouse,AC Ajaccio,yoann poulard,yoann poulard,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa75,75,58,Attempt blocked. Umut Bulut (Toulouse) left footed shot from the centre of the box is blocked.,1,,2,Toulouse,AC Ajaccio,umut bulut,,,,2.0,3.0,0,3.0,2.0,0,1.0,0
+QuWqjrYa/,QuWqjrYa76,76,58,Attempt saved. Paulo Machado (Toulouse) with an attempt from a difficult angle and long range on the left is saved in the bottom left corner. Assisted by Franck Tabanou.,1,12.0,2,Toulouse,AC Ajaccio,paulo machado,franck tabanou,,,3.0,1.0,0,6.0,1.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa77,77,60,Foul by Benjamin Andre (Ajaccio).,3,,1,AC Ajaccio,Toulouse,benjamin andre,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa78,78,60,Foul by Jean-Baptiste Pierazzi (Ajaccio).,3,,1,AC Ajaccio,Toulouse,jeanbaptiste pierazzi,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa79,79,60,MickaA«l Firmin (Toulouse) wins a free kick in the defensive half.,8,,2,Toulouse,AC Ajaccio,mickael firmin,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa80,80,63,Frederic Sammaritano (Ajaccio) wins a free kick on the left wing.,8,,1,AC Ajaccio,Toulouse,frederic sammaritano,,,,,,0,4.0,,0,,0
+QuWqjrYa/,QuWqjrYa81,81,63,Foul by Daniel Congre (Toulouse).,3,,2,Toulouse,AC Ajaccio,daniel congre,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa82,82,64,Attempt missed. Moussa Sissoko (Toulouse) right footed shot from outside the box is high and wide to the right. Assisted by Cheikh Mbengue with a cross.,1,12.0,2,Toulouse,AC Ajaccio,moussa sissoko,cheikh mbengue,,,6.0,2.0,0,15.0,1.0,2,1.0,0
+QuWqjrYa/,QuWqjrYa83,83,66,"Substitution, Ajaccio. Ilan replaces Richard Socrier.",7,,1,AC Ajaccio,Toulouse,,,ilan,richard socrier,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa84,84,66,"Substitution, Ajaccio. Damien TibA©ri replaces Christian Kinkela.",7,,1,AC Ajaccio,Toulouse,,,damien tiberi,christian kinkela,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa85,85,67,"Attempt missed. Frederic Sammaritano (Ajaccio) left footed shot from the centre of the box is close, but misses the top left corner. Assisted by Benjamin Andre with a cross.",1,12.0,1,AC Ajaccio,Toulouse,frederic sammaritano,benjamin andre,,,12.0,2.0,0,3.0,2.0,2,1.0,0
+QuWqjrYa/,QuWqjrYa86,86,68,Attempt missed. Damien TibA©ri (Ajaccio) left footed shot from the left side of the box is just a bit too high. Assisted by Fabrice Begeorgi.,1,12.0,1,AC Ajaccio,Toulouse,damien tiberi,fabrice begeorgi,,,1.0,2.0,0,9.0,2.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa87,87,69,Benjamin Andre (Ajaccio) wins a free kick in the defensive half.,8,,1,AC Ajaccio,Toulouse,benjamin andre,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa88,88,69,Foul by MickaA«l Firmin (Toulouse).,3,,2,Toulouse,AC Ajaccio,mickael firmin,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa89,89,69,"Corner,  Ajaccio. Conceded by Paulo Machado.",2,,1,AC Ajaccio,Toulouse,paulo machado,paulo machado,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa90,90,69,Attempt blocked. Yoann Poulard (Ajaccio) left footed shot from the centre of the box is blocked. Assisted by Frederic Sammaritano with a cross.,1,12.0,1,AC Ajaccio,Toulouse,yoann poulard,frederic sammaritano,,,2.0,3.0,0,3.0,2.0,2,1.0,0
+QuWqjrYa/,QuWqjrYa91,91,69,Attempt blocked. Carl Medjani (Ajaccio) right footed shot from the left side of the box is blocked.,1,,1,AC Ajaccio,Toulouse,carl medjani,,,,2.0,3.0,0,9.0,1.0,0,1.0,0
+QuWqjrYa/,QuWqjrYa92,92,70,Attempt saved. Jean-Baptiste Pierazzi (Ajaccio) right footed shot from outside the box is saved in the centre of the goal. Assisted by Johan Cavalli with a headed pass.,1,12.0,1,AC Ajaccio,Toulouse,jeanbaptiste pierazzi,johan cavalli,,,5.0,1.0,0,15.0,1.0,3,1.0,0
+QuWqjrYa/,QuWqjrYa93,93,71,Attempt missed. Franck Tabanou (Toulouse) left footed shot from outside the box misses to the right. Assisted by Aymen Abdennour.,1,12.0,2,Toulouse,AC Ajaccio,franck tabanou,aymen abdennour,,,9.0,2.0,0,15.0,2.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa94,94,72,"Substitution, Toulouse. Pantxi Sirieix replaces MickaA«l Firmin.",7,,2,Toulouse,AC Ajaccio,,,mickael firmin,mickaa«l firmin,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa95,95,73,"Goal!  Ajaccio 0, Toulouse 2. Paulo Machado (Toulouse) right footed shot from outside the box to the top right corner. Assisted by Cheikh Mbengue.",1,12.0,2,Toulouse,AC Ajaccio,paulo machado,cheikh mbengue,,,13.0,1.0,1,15.0,1.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa96,96,77,"Substitution, Toulouse. Jean Daniel Akpa Akpro replaces Cheikh Mbengue.",7,,2,Toulouse,AC Ajaccio,,,cheikh mbengue,cheikh mbengue,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa97,97,77,"Substitution, Ajaccio. Andy Delort replaces Johan Cavalli.",7,,1,AC Ajaccio,Toulouse,,,andy delort,johan cavalli,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa98,98,78,Attempt saved. Jean Daniel Akpa Akpro (Toulouse) right footed shot from outside the box is saved in the top right corner. Assisted by Moussa Sissoko.,1,12.0,2,Toulouse,AC Ajaccio,jean daniel akpa akpro,moussa sissoko,,,13.0,1.0,0,15.0,1.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa99,99,80,Foul by Damien TibA©ri (Ajaccio).,3,,1,AC Ajaccio,Toulouse,damien tiberi,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa100,100,80,Daniel Congre (Toulouse) wins a free kick on the right wing.,8,,2,Toulouse,AC Ajaccio,daniel congre,,,,,,0,5.0,,0,,0
+QuWqjrYa/,QuWqjrYa101,101,81,Damien TibA©ri (Ajaccio) is shown the yellow card for a bad foul.,4,,1,AC Ajaccio,Toulouse,damien tiberi,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa102,102,82,Attempt saved. Frederic Sammaritano (Ajaccio) left footed shot from the right side of the box is saved in the centre of the goal. Assisted by Ilan.,1,12.0,1,AC Ajaccio,Toulouse,frederic sammaritano,ilan,,,5.0,1.0,0,11.0,2.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa103,103,83,Andy Delort (Ajaccio) wins a free kick on the left wing.,8,,1,AC Ajaccio,Toulouse,andy delort,,,,,,0,4.0,,0,,0
+QuWqjrYa/,QuWqjrYa104,104,83,Foul by Mohamed Fofana (Toulouse).,3,,2,Toulouse,AC Ajaccio,mohamed fofana,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa105,105,84,Mohamed Fofana (Toulouse) is shown the yellow card for a bad foul.,4,,2,Toulouse,AC Ajaccio,mohamed fofana,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa106,106,85,Benjamin Andre (Ajaccio) is shown the yellow card.,4,,1,AC Ajaccio,Toulouse,benjamin andre,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa107,107,85,"Substitution, Toulouse. Xavier Pentecote replaces Umut Bulut.",7,,2,Toulouse,AC Ajaccio,,,xavier pentecote,umut bulut,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa108,108,86,Foul by Andy Delort (Ajaccio).,3,,1,AC Ajaccio,Toulouse,andy delort,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa109,109,86,Mohamed Fofana (Toulouse) wins a free kick in the defensive half.,8,,2,Toulouse,AC Ajaccio,mohamed fofana,,,,,,0,2.0,,0,,0
+QuWqjrYa/,QuWqjrYa110,110,87,Andy Delort (Ajaccio) is shown the yellow card for a bad foul.,4,,1,AC Ajaccio,Toulouse,andy delort,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa111,111,88,Benjamin Andre (Ajaccio) wins a free kick on the right wing.,8,,1,AC Ajaccio,Toulouse,benjamin andre,,,,,,0,5.0,,0,,0
+QuWqjrYa/,QuWqjrYa112,112,88,Foul by Moussa Sissoko (Toulouse).,3,,2,Toulouse,AC Ajaccio,moussa sissoko,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa113,113,90,Attempt saved. Xavier Pentecote (Toulouse) right footed shot from the centre of the box is saved in the bottom left corner. Assisted by Moussa Sissoko.,1,12.0,2,Toulouse,AC Ajaccio,xavier pentecote,moussa sissoko,,,3.0,1.0,0,3.0,1.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa114,114,90,Attempt saved. Damien TibA©ri (Ajaccio) left footed shot from outside the box is saved in the centre of the goal. Assisted by Frederic Sammaritano.,1,12.0,1,AC Ajaccio,Toulouse,damien tiberi,frederic sammaritano,,,5.0,1.0,0,15.0,2.0,1,1.0,0
+QuWqjrYa/,QuWqjrYa115,115,90,Fabrice Begeorgi (Ajaccio) wins a free kick in the attacking half.,8,,1,AC Ajaccio,Toulouse,fabrice begeorgi,,,,,,0,1.0,,0,,0
+QuWqjrYa/,QuWqjrYa116,116,90,Foul by Antoine Devaux (Toulouse).,3,,2,Toulouse,AC Ajaccio,antoine devaux,,,,,,0,,,0,,0
+QuWqjrYa/,QuWqjrYa117,117,90,Attempt saved. Andy Delort (Ajaccio) right footed shot from outside the box is saved in the bottom left corner.,1,,1,AC Ajaccio,Toulouse,andy delort,,,,3.0,1.0,0,15.0,1.0,0,1.0,0
+QuWqjrYa/,QuWqjrYa118,118,90,"Corner,  Ajaccio. Conceded by Ali Ahamada.",2,,1,AC Ajaccio,Toulouse,ali ahamada,ali ahamada,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg1,1,1,"Corner,  Nice. Conceded by Aly Cissokho.",2,,1,Nice,Lyon,aly cissokho,aly cissokho,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg2,2,3,Attempt saved. David Hellebuyck (Nice) left footed shot from outside the box is saved in the top centre of the goal. Assisted by Luciano FabiA¡n MonzA³n.,1,12.0,1,Nice,Lyon,david hellebuyck,luciano fabian monzon,,,11.0,1.0,0,15.0,2.0,1,1.0,0
+UBZQ4smg/,UBZQ4smg3,3,3,"Corner,  Nice. Conceded by Hugo Lloris.",2,,1,Nice,Lyon,hugo lloris,hugo lloris,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg4,4,4,Attempt missed. Francois Clerc (Nice) right footed shot from outside the box is high and wide to the left following a corner.,1,,1,Nice,Lyon,francois clerc,,,,6.0,2.0,0,15.0,1.0,0,3.0,0
+UBZQ4smg/,UBZQ4smg5,5,5,"Corner,  Nice. Conceded by Anthony RA©veillere.",2,,1,Nice,Lyon,anthony ra©veillere,anthony ra©veillere,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg6,6,6,"Goal!  Nice 1, Lyon 0. Anthony Mounier (Nice) header from the centre of the box to the top right corner. Assisted by Camel Meriem with a cross following a corner.",1,12.0,1,Nice,Lyon,anthony mounier,camel meriem,,,13.0,1.0,1,3.0,3.0,2,3.0,0
+UBZQ4smg/,UBZQ4smg7,7,8,Foul by Cris (Lyon).,3,,2,Lyon,Nice,cris,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg8,8,8,Eric Mouloungui (Nice) wins a free kick on the left wing.,8,,1,Nice,Lyon,eric mouloungui,,,,,,0,4.0,,0,,0
+UBZQ4smg/,UBZQ4smg9,9,9,"Offside, Nice. Luciano FabiA¡n MonzA³n tries a through ball, but Eric Mouloungui is caught offside.",9,13.0,1,Nice,Lyon,eric mouloungui,luciano fabian monzon,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg10,10,10,Foul by Michel Bastos (Lyon).,3,,2,Lyon,Nice,michel bastos,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg11,11,10,Julien SablA© (Nice) wins a free kick in the attacking half.,8,,1,Nice,Lyon,julien sable,,,,,,0,1.0,,0,,0
+UBZQ4smg/,UBZQ4smg12,12,10,"Goal!  Nice 1, Lyon 1. Lisandro (Lyon) right footed shot from the centre of the box to the bottom right corner. Assisted by Anthony RA©veillere following a fast break.",1,12.0,2,Lyon,Nice,lisandro,anthony reveillere,,,4.0,1.0,1,3.0,1.0,1,1.0,1
+UBZQ4smg/,UBZQ4smg13,13,11,Foul by Maxime Gonalons (Lyon).,3,,2,Lyon,Nice,maxime gonalons,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg14,14,11,Didier Digard (Nice) wins a free kick in the attacking half.,8,,1,Nice,Lyon,didier digard,,,,,,0,1.0,,0,,0
+UBZQ4smg/,UBZQ4smg15,15,12,"Corner,  Nice. Conceded by Cris.",2,,1,Nice,Lyon,cris,cris,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg16,16,12,"Corner,  Nice. Conceded by Dejan Lovren.",2,,1,Nice,Lyon,dejan lovren,dejan lovren,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg17,17,13,Attempt blocked. David Hellebuyck (Nice) left footed shot from the left side of the box is blocked. Assisted by Camel Meriem with a cross.,1,12.0,1,Nice,Lyon,david hellebuyck,camel meriem,,,2.0,3.0,0,9.0,2.0,2,1.0,0
+UBZQ4smg/,UBZQ4smg18,18,13,"Corner,  Nice. Conceded by Michel Bastos.",2,,1,Nice,Lyon,michel bastos,michel bastos,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg19,19,13,Attempt missed. Julien SablA© (Nice) right footed shot from outside the box misses to the right following a corner.,1,,1,Nice,Lyon,julien sable,,,,9.0,2.0,0,15.0,1.0,0,3.0,0
+UBZQ4smg/,UBZQ4smg20,20,14,"Attempt missed. Jimmy Briand (Lyon) left footed shot from outside the box is close, but misses the top left corner. Assisted by BafA©timbi Gomis.",1,12.0,2,Lyon,Nice,jimmy briand,bafetimbi gomis,,,12.0,2.0,0,15.0,2.0,1,1.0,0
+UBZQ4smg/,UBZQ4smg21,21,15,Foul by Cris (Lyon).,3,,2,Lyon,Nice,cris,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg22,22,15,Eric Mouloungui (Nice) wins a free kick in the attacking half.,8,,1,Nice,Lyon,eric mouloungui,,,,,,0,1.0,,0,,0
+UBZQ4smg/,UBZQ4smg23,23,15,Attempt blocked. Luciano FabiA¡n MonzA³n (Nice) left footed shot from more than 35 yards is blocked.,1,,1,Nice,Lyon,luciano fabian monzon,,,,2.0,3.0,0,17.0,2.0,0,1.0,0
+UBZQ4smg/,UBZQ4smg24,24,16,Attempt saved. Lisandro (Lyon) right footed shot from the centre of the box is saved in the bottom right corner.,1,,2,Lyon,Nice,lisandro,,,,4.0,1.0,0,3.0,1.0,0,1.0,0
+UBZQ4smg/,UBZQ4smg25,25,17,"Corner,  Nice. Conceded by Dejan Lovren.",2,,1,Nice,Lyon,dejan lovren,dejan lovren,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg26,26,18,BafA©timbi Gomis (Lyon) wins a free kick in the defensive half.,8,,2,Lyon,Nice,bafetimbi gomis,,,,,,0,2.0,,0,,0
+UBZQ4smg/,UBZQ4smg27,27,18,Foul by David Hellebuyck (Nice).,3,,1,Nice,Lyon,david hellebuyck,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg28,28,18,"Offside, Nice. Luciano FabiA¡n MonzA³n tries a through ball, but Eric Mouloungui is caught offside.",9,13.0,1,Nice,Lyon,eric mouloungui,luciano fabian monzon,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg29,29,21,Foul by Dejan Lovren (Lyon).,3,,2,Lyon,Nice,dejan lovren,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg30,30,21,Eric Mouloungui (Nice) wins a free kick in the defensive half.,8,,1,Nice,Lyon,eric mouloungui,,,,,,0,2.0,,0,,0
+UBZQ4smg/,UBZQ4smg31,31,22,"Corner,  Nice. Conceded by Cris.",2,,1,Nice,Lyon,cris,cris,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg32,32,23,Attempt saved. Larrys Mabiala (Nice) header from the centre of the box is saved in the top right corner. Assisted by Camel Meriem with a cross.,1,12.0,1,Nice,Lyon,larrys mabiala,camel meriem,,,13.0,1.0,0,3.0,3.0,2,1.0,0
+UBZQ4smg/,UBZQ4smg33,33,23,Lisandro (Lyon) wins a free kick in the defensive half.,8,,2,Lyon,Nice,lisandro,,,,,,0,2.0,,0,,0
+UBZQ4smg/,UBZQ4smg34,34,23,Foul by Larrys Mabiala (Nice).,3,,1,Nice,Lyon,larrys mabiala,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg35,35,24,"Corner,  Lyon. Conceded by Luciano FabiA¡n MonzA³n.",2,,2,Lyon,Nice,luciano fabia¡n monza³n,luciano fabia¡n monza³n,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg36,36,25,Attempt blocked. Michel Bastos (Lyon) left footed shot from a difficult angle and long range on the right is blocked. Assisted by Jimmy Briand.,1,12.0,2,Lyon,Nice,michel bastos,jimmy briand,,,2.0,3.0,0,6.0,2.0,1,1.0,0
+UBZQ4smg/,UBZQ4smg37,37,25,"Corner,  Lyon. Conceded by Larrys Mabiala.",2,,2,Lyon,Nice,larrys mabiala,larrys mabiala,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg38,38,27,Foul by Aly Cissokho (Lyon).,3,,2,Lyon,Nice,aly cissokho,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg39,39,27,Eric Mouloungui (Nice) wins a free kick in the attacking half.,8,,1,Nice,Lyon,eric mouloungui,,,,,,0,1.0,,0,,0
+UBZQ4smg/,UBZQ4smg40,40,27,Attempt missed. Anthony Mounier (Nice) left footed shot from outside the box is high and wide to the right from a direct free kick.,1,,1,Nice,Lyon,anthony mounier,,,,6.0,2.0,0,15.0,2.0,0,4.0,0
+UBZQ4smg/,UBZQ4smg41,41,29,BafA©timbi Gomis (Lyon) wins a free kick in the attacking half.,8,,2,Lyon,Nice,bafetimbi gomis,,,,,,0,1.0,,0,,0
+UBZQ4smg/,UBZQ4smg42,42,29,Foul by Anthony Mounier (Nice).,3,,1,Nice,Lyon,anthony mounier,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg43,43,29,Attempt blocked. Michel Bastos (Lyon) left footed shot from more than 35 yards is blocked.,1,,2,Lyon,Nice,michel bastos,,,,2.0,3.0,0,17.0,2.0,0,1.0,0
+UBZQ4smg/,UBZQ4smg44,44,31,Attempt saved. Aly Cissokho (Lyon) left footed shot from outside the box is saved in the bottom left corner. Assisted by Kim KA¤llstrA¶m.,1,12.0,2,Lyon,Nice,aly cissokho,kim kallstrom,,,3.0,1.0,0,15.0,2.0,1,1.0,0
+UBZQ4smg/,UBZQ4smg45,45,31,Michel Bastos (Lyon) wins a free kick in the attacking half.,8,,2,Lyon,Nice,michel bastos,,,,,,0,1.0,,0,,0
+UBZQ4smg/,UBZQ4smg46,46,31,Foul by Didier Digard (Nice).,3,,1,Nice,Lyon,didier digard,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg47,47,32,Attempt saved. Kim KA¤llstrA¶m (Lyon) left footed shot from outside the box is saved in the bottom left corner.,1,,2,Lyon,Nice,kim kallstrom,,,,3.0,1.0,0,15.0,2.0,0,1.0,0
+UBZQ4smg/,UBZQ4smg48,48,32,"Corner,  Lyon. Conceded by David Ospina.",2,,2,Lyon,Nice,david ospina,david ospina,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg49,49,32,Attempt missed. BafA©timbi Gomis (Lyon) header from very close range misses to the left following a corner.,1,,2,Lyon,Nice,bafetimbi gomis,,,,8.0,2.0,0,13.0,3.0,0,3.0,0
+UBZQ4smg/,UBZQ4smg50,50,33,"Goal!  Nice 1, Lyon 2. BafA©timbi Gomis (Lyon) right footed shot from very close range to the top right corner following a corner.",1,,2,Lyon,Nice,bafetimbi gomis,,,,13.0,1.0,1,13.0,1.0,0,3.0,0
+UBZQ4smg/,UBZQ4smg51,51,36,Attempt missed. Kim KA¤llstrA¶m (Lyon) left footed shot from outside the box misses to the right. Assisted by Maxime Gonalons.,1,12.0,2,Lyon,Nice,kim kallstrom,maxime gonalons,,,9.0,2.0,0,15.0,2.0,1,1.0,0
+UBZQ4smg/,UBZQ4smg52,52,36,Attempt blocked. Michel Bastos (Lyon) left footed shot from the left side of the box is blocked. Assisted by Kim KA¤llstrA¶m.,1,12.0,2,Lyon,Nice,michel bastos,kim kallstrom,,,2.0,3.0,0,9.0,2.0,1,1.0,0
+UBZQ4smg/,UBZQ4smg53,53,36,"Corner,  Lyon. Conceded by Larrys Mabiala.",2,,2,Lyon,Nice,larrys mabiala,larrys mabiala,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg54,54,36,Attempt blocked. Jimmy Briand (Lyon) header from the centre of the box is blocked. Assisted by Michel Bastos with a cross.,1,12.0,2,Lyon,Nice,jimmy briand,michel bastos,,,2.0,3.0,0,3.0,3.0,2,1.0,0
+UBZQ4smg/,UBZQ4smg55,55,37,"Offside, Nice. Didier Digard tries a through ball, but Eric Mouloungui is caught offside.",9,13.0,1,Nice,Lyon,eric mouloungui,didier digard,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg56,56,39,"Corner,  Lyon. Conceded by Nemanja Pejcinovic.",2,,2,Lyon,Nice,nemanja pejcinovic,nemanja pejcinovic,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg57,57,39,Eric Mouloungui (Nice) wins a free kick in the attacking half.,8,,1,Nice,Lyon,eric mouloungui,,,,,,0,1.0,,0,,0
+UBZQ4smg/,UBZQ4smg58,58,39,Foul by Cris (Lyon).,3,,2,Lyon,Nice,cris,,,,,,0,,,0,,0
+UBZQ4smg/,UBZQ4smg59,59,41,Attempt missed. Eric Mouloungui (Nice) right footed shot from the right side of the box misses to the right. Assisted by Didier Digard.,1,12.0,1,Nice,Lyon,eric mouloungui,didier digard,,,9.0,2.0,0,11.0,1.0,1,1.0,0
